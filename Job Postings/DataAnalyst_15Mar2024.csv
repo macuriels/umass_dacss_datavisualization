@@ -1,0 +1,1193 @@
+﻿"Title","Description","Description HTML","Primary Description","Detail URL","Location","Skill","Insight","Job State","Poster Id","Company Name","Company Logo","Created At","Scraped At"
+"Senior Data Analyst","Health Monitor is a leading healthcare marketing platform that empowers pharmaceutical and OTC brands to build patient-physician relationships and achieve better outcomes. As a nationally recognized targeted healthcare marketing platform for the Pharma/OTC industry, our in-house content studio creates bespoke, educational content about disease states and specific therapies that are trusted by healthcare professionals and patients alike. With the industry's largest proprietary physician office network, we deliver high-value content at every step of the patient journey and at all points of care. Our platform provides powerful ROI (Return On Investment) to brands, as evidenced by our track record of success. We are a Certified Great Place to Work for several years in a row. To learn more about how Health Monitor, visit our website (www.healthmonitornetwork.com) or follow us on LinkedIn and Twitter.
+We're seeking a highly motivated and experienced Senior Data Analyst to join our team and play a pivotal role in driving data-driven decision making across the organization. You'll be responsible for the entire data lifecycle, from designing efficient databases and crafting complex queries to extracting meaningful insights and communicating them effectively to stakeholders. Essential Job FunctionsDesign and implement optimized database structures, ensuring data integrity and scalability.Craft efficient SQL queries (MS SQL, MySQL) to extract, transform, and analyze data from various sources.Develop and maintain stored procedures, views, and triggers to automate data manipulation and enhance database performance.Analyze large datasets using statistical methods and data visualization tools to identify trends, patterns, and anomalies.Collaborate with stakeholders across departments to understand data needs, translate complex findings into actionable insights, and present recommendations in a clear and concise manner.Ensure data accuracy and quality through rigorous testing and validation procedures.Maintain and improve data infrastructure, including data pipelines and ETL processes.Stay up to date with the latest data analysis trends and technologies. Qualifications:Bachelor's degree in Computer Science, Information Systems, Statistics, or a related field.5+ years of experience as a Data Analyst or Database Administrator.Proven expertise in database design and modeling, with proficiency in MS SQL and MySQL.Strong understanding of SQL queries and scripting languages (stored procedures, views, triggers).Experience with cloud platforms (AWS, Google Cloud) is a plus.Working knowledge of programming languages (Python, PHP, JavaScript) is a plus.Advanced proficiency in Microsoft Office Suite, particularly Excel.Excellent communication, presentation, and collaboration skills.Strong analytical and problem-solving skills.Detail-oriented with a commitment to accuracy and deadlines. ADA:Physical Demands Office Position: While performing the duties of this job, the employee is frequently required to sit; use hands to finger, handle, or feel objects, tools, or controls; talk and hear. The employee regularly is required to walk and reach with hands. Employee frequently uses computer keyboard, regularly travels both short and long distances via walking within the work site. The employee must regularly lift and/or move a laptop computer. Specific vision abilities required by this job include close vision, peripheral vision, depth perception, and the ability to adjust focus. Employee views computer monitor frequently.","<p>Health Monitor is a leading healthcare marketing platform that empowers pharmaceutical and OTC brands to build patient-physician relationships and achieve better outcomes. As a nationally recognized targeted healthcare marketing platform for the Pharma/OTC industry, our in-house content studio creates bespoke, educational content about disease states and specific therapies that are trusted by healthcare professionals and patients alike. With the industry's largest proprietary physician office network, we deliver high-value content at every step of the patient journey and at all points of care. Our platform provides powerful ROI (Return On Investment) to brands, as evidenced by our track record of success. We are a Certified Great Place to Work for several years in a row. To learn more about how Health Monitor, visit our website (www.healthmonitornetwork.com) or follow us on LinkedIn and Twitter.</p><p>
+</p><p>We're seeking a highly motivated and experienced Senior Data Analyst to join our team and play a pivotal role in driving data-driven decision making across the organization. You'll be responsible for the entire data lifecycle, from designing efficient databases and crafting complex queries to extracting meaningful insights and communicating them effectively to stakeholders.</p><p> </p><p><strong>Essential Job Functions</strong></p><ul><li>Design and implement optimized database structures, ensuring data integrity and scalability.</li><li>Craft efficient SQL queries (MS SQL, MySQL) to extract, transform, and analyze data from various sources.</li><li>Develop and maintain stored procedures, views, and triggers to automate data manipulation and enhance database performance.</li><li>Analyze large datasets using statistical methods and data visualization tools to identify trends, patterns, and anomalies.</li><li>Collaborate with stakeholders across departments to understand data needs, translate complex findings into actionable insights, and present recommendations in a clear and concise manner.</li><li>Ensure data accuracy and quality through rigorous testing and validation procedures.</li><li>Maintain and improve data infrastructure, including data pipelines and ETL processes.</li><li>Stay up to date with the latest data analysis trends and technologies.</li></ul><p> </p><p><strong>Qualifications:</strong></p><ul><li>Bachelor's degree in Computer Science, Information Systems, Statistics, or a related field.</li><li>5+ years of experience as a Data Analyst or Database Administrator.</li><li>Proven expertise in database design and modeling, with proficiency in MS SQL and MySQL.</li><li>Strong understanding of SQL queries and scripting languages (stored procedures, views, triggers).</li><li>Experience with cloud platforms (AWS, Google Cloud) is a plus.</li><li>Working knowledge of programming languages (Python, PHP, JavaScript) is a plus.</li><li>Advanced proficiency in Microsoft Office Suite, particularly Excel.</li><li>Excellent communication, presentation, and collaboration skills.</li><li>Strong analytical and problem-solving skills.</li><li>Detail-oriented with a commitment to accuracy and deadlines.</li></ul><p><strong> </strong></p><p><strong>ADA:</strong></p><p><strong>Physical Demands Office Position:</strong></p><p> While performing the duties of this job, the employee is frequently required to sit; use hands to finger, handle, or feel objects, tools, or controls; talk and hear. The employee regularly is required to walk and reach with hands. Employee frequently uses computer keyboard, regularly travels both short and long distances via walking within the work site. The employee must regularly lift and/or move a laptop computer. Specific vision abilities required by this job include close vision, peripheral vision, depth perception, and the ability to adjust focus. Employee views computer monitor frequently.</p>","Health Monitor Network · Montvale, NJ (On-site)","https://www.linkedin.com/jobs/view/3826110486/","Montvale, New Jersey, United States","7 of 11 skills match your profile - you may be a good fit","51-200 employees · Advertising Services","LISTED","669617633","Health Monitor Network","https://media.licdn.com/dms/image/C4E0BAQGx_CRxTjbIyQ/company-logo_400_400/0/1630656160450/health_monitor_network_logo?e=1718841600&v=beta&t=-G67j5ZumgBBUJJFZ2i0PnOEjMZGIKJd8DEXktw-C0A","2024-02-08T21:32:21.000Z","2024-03-15T13:53:26.942Z"
+"BI Data Analyst","SUMMARY:
+
+The Business Intelligence Data Analyst designs and develops software-based data modeling and visualizations with Business Intelligence (BI) tools. This role utilizes various analytical and programming skills to develop BI solutions and supports leadership by designing proactive, value-added data models to provide insight into data driven decision-making
+
+JOB DUTIES:
+
+ Responsible for end-to-end design and maintenance of BI tool data sets, data models, reports, dashboards and visualizations in support of all department functions, Designs, develops and optimizes data models for the business unit and other departments. Routinely meets with various stakeholders to understand their data needs. Develops solutions and processes to fulfill requirements. This typically includes BI dashboards, Python programs, or Excel/VBA reports. Enhances business insights and decision making with robust, intuitive data visualizations. Leverages transactional data from enterprise resource planning (ERP) applications to extract, transform and model into reporting and analytics solutions. Coordinates incremental creation and structure of QVD files from disparate data sources. Identifies the most impactful layout and presentation of key performance metrics in easy to use self-service dashboards. Partners with the IT team to develop security standards for BI applications and usage of QVD files containing sensitive financial information. Partners and develops relationships with cross-functional leaders to improve processes and documentation, and recommends changes that lead to the adoption of world class processes. Proactively seeks out opportunities to increase business knowledge and create visibility within the organization. Generates new ideas to streamline processes and collaborates with other departments to create operational efficiencies. Establishes and implements best practices for data modeling & visualization. Ensures data accuracy. Performs other duties as assigned.
+
+
+EDUCATION & EXPERIENCE:
+
+Typically requires a bachelor's degree in information systems and three (3) to five (5) years of related work experience or an equivalent combination.
+
+KNOWLEDGE, SKILLS, ABILITIES:
+
+ Proficient with Microsoft Office Suite. Advanced SQL and experience with a variety of relational databases. Strong analytical skills and the ability to propose positive business solutions. Reliability, organization and attention to detail. Excellent written and oral communication, including presentation skills. Knowledge of database design techniques and advanced SQL skills required. Proficiency in Python, R, or other statistics platform preferred. Professional presence with excellent interpersonal skills, including the ability to interact with management at corporate and department levels. Forward-thinking in implementing tools and techniques to improve analytics, driving better business decisions. Self-motivated and able to independently manage multiple responsibilities concurrently Ability to collaborate within a team, managing team dynamics and relationships. Strong partnership skills, across all levels of management, with ability to influence and challenge decisions and processes. Driver of results, developer and influencer of peers.
+
+
+LICENSES & CERTIFICATIONS: BI tool certification preferred.
+
+COMPANY INFORMATION:
+
+Motion Industries offers an excellent benefits package which includes options for healthcare coverage, 401(k), tuition, reimbursement, vacation, sick, and holiday pay.
+
+Not the right fit? Let us know you're interested in a future opportunity by joining our Talent Community on jobs.genpt.com or create an account to set up email alerts as new job postings become available that meet your interest!
+
+GPC conducts its business without regard to sex, race, creed, color, religion, marital status, national origin, citizenship status, age, pregnancy, sexual orientation, gender identity or expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. GPC's policy is to recruit, hire, train, promote, assign, transfer and terminate employees based on their own ability, achievement, experience and conduct and other legitimate business reasons.","<strong>SUMMARY:
+
+</strong>The Business Intelligence Data Analyst designs and develops software-based data modeling and visualizations with Business Intelligence (BI) tools. This role utilizes various analytical and programming skills to develop BI solutions and supports leadership by designing proactive, value-added data models to provide insight into data driven decision-making
+
+<strong>JOB DUTIES:
+
+</strong><ul><li> Responsible for end-to-end design and maintenance of BI tool data sets, data models, reports, dashboards and visualizations in support of all department functions,</li><li> Designs, develops and optimizes data models for the business unit and other departments.</li><li> Routinely meets with various stakeholders to understand their data needs. Develops solutions and processes to fulfill requirements. This typically includes BI dashboards, Python programs, or Excel/VBA reports.</li><li> Enhances business insights and decision making with robust, intuitive data visualizations.</li><li> Leverages transactional data from enterprise resource planning (ERP) applications to extract, transform and model into reporting and analytics solutions.</li><li> Coordinates incremental creation and structure of QVD files from disparate data sources.</li><li> Identifies the most impactful layout and presentation of key performance metrics in easy to use self-service dashboards.</li><li> Partners with the IT team to develop security standards for BI applications and usage of QVD files containing sensitive financial information.</li><li> Partners and develops relationships with cross-functional leaders to improve processes and documentation, and recommends changes that lead to the adoption of world class processes.</li><li> Proactively seeks out opportunities to increase business knowledge and create visibility within the organization.</li><li> Generates new ideas to streamline processes and collaborates with other departments to create operational efficiencies.</li><li> Establishes and implements best practices for data modeling & visualization. Ensures data accuracy.</li><li> Performs other duties as assigned.
+
+
+</li></ul><strong>EDUCATION & EXPERIENCE:
+
+</strong>Typically requires a bachelor's degree in information systems and three (3) to five (5) years of related work experience or an equivalent combination.
+
+<strong>KNOWLEDGE, SKILLS, ABILITIES:
+
+</strong><ul><li> Proficient with Microsoft Office Suite.</li><li> Advanced SQL and experience with a variety of relational databases.</li><li> Strong analytical skills and the ability to propose positive business solutions.</li><li> Reliability, organization and attention to detail.</li><li> Excellent written and oral communication, including presentation skills.</li><li> Knowledge of database design techniques and advanced SQL skills required.</li><li> Proficiency in Python, R, or other statistics platform preferred.</li><li> Professional presence with excellent interpersonal skills, including the ability to interact with management at corporate and department levels.</li><li> Forward-thinking in implementing tools and techniques to improve analytics, driving better business decisions. Self-motivated and able to independently manage multiple responsibilities concurrently</li><li> Ability to collaborate within a team, managing team dynamics and relationships.</li><li> Strong partnership skills, across all levels of management, with ability to influence and challenge decisions and processes.</li><li> Driver of results, developer and influencer of peers.
+
+
+</li></ul><strong>LICENSES & CERTIFICATIONS:</strong> BI tool certification preferred.
+
+<strong>COMPANY INFORMATION:
+
+</strong>Motion Industries offers an excellent benefits package which includes options for healthcare coverage, 401(k), tuition, reimbursement, vacation, sick, and holiday pay.
+
+Not the right fit? Let us know you're interested in a future opportunity by joining our Talent Community on jobs.genpt.com or create an account to set up email alerts as new job postings become available that meet your interest!
+
+GPC conducts its business without regard to sex, race, creed, color, religion, marital status, national origin, citizenship status, age, pregnancy, sexual orientation, gender identity or expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. GPC's policy is to recruit, hire, train, promote, assign, transfer and terminate employees based on their own ability, achievement, experience and conduct and other legitimate business reasons.","Motion · Birmingham, AL","https://www.linkedin.com/jobs/view/3813592926/","Birmingham, Alabama, United States","7 of 10 skills match your profile - you may be a good fit","5,001-10,000 employees · Automation Machinery Manufacturing
+1 school alum works here","LISTED","560139921","Motion","https://media.licdn.com/dms/image/C4E0BAQEv6oj7S86SYw/company-logo_400_400/0/1647267112470/motionindustries_logo?e=1718841600&v=beta&t=2jXzjaUv_UXbZBazZiWzkR6ZC7EI9XZ2B5GeFh0hZC0","2024-01-25T23:12:10.000Z","2024-03-15T13:53:26.942Z"
+"Data Analyst","Job Description:Design, develop, and oversee the implementation of processes and tools to assess the quality of data used in LLM model training.Create metrics and KPIs to evaluate data accuracy, consistency, and relevance.Work with Engineering teams to develop automated logic checks that will identify inconsistencies and potential issues in the training data.Lead the integration of quality processes into existing data pipelines.Collaborate with Data Scientists to scrutinize annotation data and develop strategies for continuous data quality improvement.Provide feedback loops and ensure alignment of data quality with annotation guidelines.Engage with Machine Learning Engineers to determine how data quality variations influence LLM model performance.
+Requirements:7+ years of design/test/implementation/consulting experience in data quality management for machine learning model trainingStrong understanding of machine learning principles, especially in the context of NLP and LLMsFundamental knowledge in relevant programming languages and tools (e.g., Python, SQL)","<p>Job Description:</p><p>Design, develop, and oversee the implementation of processes and tools to assess the quality of data used in LLM model training.</p><p>Create metrics and KPIs to evaluate data accuracy, consistency, and relevance.</p><p>Work with Engineering teams to develop automated logic checks that will identify inconsistencies and potential issues in the training data.</p><p>Lead the integration of quality processes into existing data pipelines.</p><p>Collaborate with Data Scientists to scrutinize annotation data and develop strategies for continuous data quality improvement.</p><p>Provide feedback loops and ensure alignment of data quality with annotation guidelines.</p><p>Engage with Machine Learning Engineers to determine how data quality variations influence LLM model performance.</p><p>
+</p><p>Requirements:</p><p>7+ years of design/test/implementation/consulting experience in data quality management for machine learning model training</p><p>Strong understanding of machine learning principles, especially in the context of NLP and LLMs</p><p>Fundamental knowledge in relevant programming languages and tools (e.g., Python, SQL)</p>","Zolon Tech Inc. · Cupertino, CA (Hybrid)","https://www.linkedin.com/jobs/view/3852948160/","Cupertino, California, United States","3 of 3 skills match your profile - you may be a good fit","501-1,000 employees · Software Development","LISTED","190176291","Zolon Tech Inc.","https://media.licdn.com/dms/image/D4E0BAQG-bkwd-7oYJw/company-logo_400_400/0/1689016394359/zolontech_logo?e=1718841600&v=beta&t=-b11h5bDSd_o2nZe8db-U9IRu6FtVqsf0INsZKwswv0","2024-03-11T13:57:17.000Z","2024-03-15T13:53:26.942Z"
+"Senior Data Analyst","Position Description
+
+We are seeking a Senior Data Analyst who is passionate about solving challenging client problems with emerging technology solutions. As a CGI Senior Data Analytics Consultant, you will be joining the International Affairs (IAF) group to support the mission of U.S. security, economic well-being, and worldwide relations. Working with various clients in the US federal space, IAF supports missions that foster national security, foreign relations and resilient democratic societies. Since 1976, CGI has partnered with the U.S. federal government to support a wide variety of organizations and unique missions building solutions that support clients around the world.
+
+Your future duties and responsibilities
+
+Your future duties and responsibilities
+
+ Apply problem-solving skills to modernize overall Business Intelligence technology solutions that will directly impact client missions. Advance data analytics offerings through proof-of-concept demonstrations including techniques such as Machine Learning, Artificial Intelligence, Predictive Analytics and Natural Language Processing. Lead data analytics solution efforts by interfacing with feature and product teams to understand business needs working alongside cross functional team members. Stay up to date on technology trends within the Cloud and Analytics solutions landscape to inform clients of benefits and value with the future technology adoption. Participate in team problem solving efforts and offer ideas to solve client issues. Provide technical leadership for platform modernization
+
+Required Qualifications To Be Successful In This Role
+
+An interim Secret clearance is required to begin working onsite with our client, and a Secret clearance must be maintained throughout the project duration. Due to the nature of the government contract requirements and/or clearance requirements, US citizenship is required.
+
+Basic Qualifications:
+
+ Bachelor’s degree or master’s degree in computer science, Mathematics or STEM related discipline. 5+ years of experience working on Analytics and Business Intelligence focused initiatives. Experience working with various self-service business intelligence and data visualization tools such as Tableau, Power BI, Business Objects, Qlik, etc. Strong SQL knowledge and understanding of various relational databases such as Oracle Exadata, SAP HANA, MS SQL Server, Redshift, Snowflake, etc. Understanding of enterprise analytics tooling and architecture. Understanding of Cloud migrations and Cloud-based analytics solutions. Experience working in an Agile based environment. Strong technical and troubleshooting techniques.
+
+“CGI is required by law in some jurisdictions to include a reasonable estimate of the compensation range for this role. The determination of this range includes various factors not limited to skill set level, experience and training, and licensure and certifications. To support the ability to reward for merit-based performance, CGI typically does not hire individuals at or near the top of the range for their role. Compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $100,000 - $120,000.”
+
+#CGIFederalJob
+
+#Dice
+
+#ClearanceJobs
+
+Insights you can act on
+
+While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees “members” because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today — one of the world’s largest independent providers of IT and business consulting services.
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+Ready to become part of our success story? Join CGI — where your ideas and actions make a difference.
+
+Qualified applicants will receive consideration for employment without regard to their race, ethnicity, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, pregnancy, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity, and gender expression, familial status, political affiliation, genetic information, height, weight, or any other legally protected status or characteristics.
+
+CGI provides reasonable accommodations to qualified individuals with disabilities. If you need an accommodation to apply for a job in the U.S., please email the CGI U.S. Employment Compliance mailbox at US_Employment_Compliance@cgi.com. You will need to reference the Position ID of the position in which you are interested. Your message will be routed to the appropriate recruiter who will assist you. Please note, this email address is only to be used for those individuals who need an accommodation to apply for a job. Emails for any other reason or those that do not include a Position ID will not be returned.
+
+We make it easy to translate military experience and skills! Click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+All CGI offers of employment in the U.S. are contingent upon the ability to successfully complete a background investigation. Background investigation components can vary dependent upon specific assignment and/or level of US government security clearance held. CGI will consider for employment qualified applicants with arrests and conviction records in accordance with all local regulations and ordinances.
+
+CGI will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with CGI’s legal duty to furnish information.
+
+","Position Description
+
+We are seeking a Senior Data Analyst who is passionate about solving challenging client problems with emerging technology solutions. As a CGI Senior Data Analytics Consultant, you will be joining the International Affairs (IAF) group to support the mission of U.S. security, economic well-being, and worldwide relations. Working with various clients in the US federal space, IAF supports missions that foster national security, foreign relations and resilient democratic societies. Since 1976, CGI has partnered with the U.S. federal government to support a wide variety of organizations and unique missions building solutions that support clients around the world.
+
+Your future duties and responsibilities
+
+Your future duties and responsibilities
+
+<ul><li> Apply problem-solving skills to modernize overall Business Intelligence technology solutions that will directly impact client missions.</li><li> Advance data analytics offerings through proof-of-concept demonstrations including techniques such as Machine Learning, Artificial Intelligence, Predictive Analytics and Natural Language Processing.</li><li> Lead data analytics solution efforts by interfacing with feature and product teams to understand business needs working alongside cross functional team members.</li><li> Stay up to date on technology trends within the Cloud and Analytics solutions landscape to inform clients of benefits and value with the future technology adoption.</li><li> Participate in team problem solving efforts and offer ideas to solve client issues.</li><li> Provide technical leadership for platform modernization
+
+</li></ul><strong>Required Qualifications To Be Successful In This Role
+
+</strong>An interim Secret clearance is required to begin working onsite with our client, and a Secret clearance must be maintained throughout the project duration. Due to the nature of the government contract requirements and/or clearance requirements, US citizenship is required.
+
+Basic Qualifications:
+
+<ul><li> Bachelor’s degree or master’s degree in computer science, Mathematics or STEM related discipline.</li><li> 5+ years of experience working on Analytics and Business Intelligence focused initiatives.</li><li> Experience working with various self-service business intelligence and data visualization tools such as Tableau, Power BI, Business Objects, Qlik, etc.</li><li> Strong SQL knowledge and understanding of various relational databases such as Oracle Exadata, SAP HANA, MS SQL Server, Redshift, Snowflake, etc.</li><li> Understanding of enterprise analytics tooling and architecture.</li><li> Understanding of Cloud migrations and Cloud-based analytics solutions.</li><li> Experience working in an Agile based environment.</li><li> Strong technical and troubleshooting techniques.
+
+</li></ul>“CGI is required by law in some jurisdictions to include a reasonable estimate of the compensation range for this role. The determination of this range includes various factors not limited to skill set level, experience and training, and licensure and certifications. To support the ability to reward for merit-based performance, CGI typically does not hire individuals at or near the top of the range for their role. Compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $100,000 - $120,000.”
+
+#CGIFederalJob
+
+#Dice
+
+#ClearanceJobs
+
+<strong>Insights you can act on
+
+</strong>While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees “members” because they are CGI shareholders and owners and owners who enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today — one of the world’s largest independent providers of IT and business consulting services.
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where all belong and collaborate with clients in building more inclusive communities. As an equal-opportunity employer, we want to empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+Ready to become part of our success story? Join CGI — where your ideas and actions make a difference.
+
+Qualified applicants will receive consideration for employment without regard to their race, ethnicity, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, pregnancy, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity, and gender expression, familial status, political affiliation, genetic information, height, weight, or any other legally protected status or characteristics.
+
+CGI provides reasonable accommodations to qualified individuals with disabilities. If you need an accommodation to apply for a job in the U.S., please email the CGI U.S. Employment Compliance mailbox at US_Employment_Compliance@cgi.com. You will need to reference the Position ID of the position in which you are interested. Your message will be routed to the appropriate recruiter who will assist you. <strong>Please note, this email address is only to be used for those individuals who need an accommodation to apply for a job. Emails for any other reason or those that do not include a Position ID will not be returned</strong>.
+
+We make it easy to translate military experience and skills! Click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+All CGI offers of employment in the U.S. are contingent upon the ability to successfully complete a background investigation. Background investigation components can vary dependent upon specific assignment and/or level of US government security clearance held. CGI will consider for employment qualified applicants with arrests and conviction records in accordance with all local regulations and ordinances.
+
+CGI will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with CGI’s legal duty to furnish information.
+
+","CGI · Arlington, VA","https://www.linkedin.com/jobs/view/3832928016/","Arlington, Virginia, United States","Skills: Data Analytics, Analytics, +8 more","10,001+ employees · IT Services and IT Consulting
+1 connection works here · 22 school alumni work here","LISTED","55354831","CGI","https://media.licdn.com/dms/image/C4E0BAQErzXWSFkn9tQ/company-logo_400_400/0/1663664110809/cgi_logo?e=1718841600&v=beta&t=1QCxu8zeJIW0JhBelpFNZ8HaOTc_sgsQndkvbn49Nww","2024-02-17T02:09:30.000Z","2024-03-15T13:53:26.942Z"
+"Data Analyst","The Fresh Market & You
+
+Our mission is to make everyday eating extraordinary for our guests. We create a warm, welcoming, memorable experience with exceptional, personal service. We’re looking for a new team member who strives for excellence and brings positive energy, commitment, and a “can-do” attitude to work every day. We value teamwork and celebrate our successes as a team and will value your contribution!
+
+Added Benefits For Choosing The Fresh Market Team
+
+Team member discount up to 40%Health, Dental & Vision insurance available for individual, spouse, partner, and family.401K contribution and match for part-time and full-time team members.Personal time off and additional time off purchase plans available.And much more!
+
+About the Position:
+
+The Fresh Market currently has an opening for a Data Analyst in our Store Support Center (099). In this role you will be responsible for collecting, analyzing, and interpreting data to support strategic decision-making processes within the organization. You will work closely with cross-functional teams to identify trends, extract valuable insights, and generate actionable recommendations.
+
+Objectives of this Role
+
+Play a pivotal role in transforming The Fresh Market into a data-driven culture by advocating to and educating users about the importance of adopting data-driven insights, data visualizations, and storytelling.Commit to leveraging data-driven insights to make informed business decisions, drive growth, and enhance customer experiences.Own enterprise level metric definitions for business KPIs as well as source-to-target mappings and information-model specification documents for datasets and KPIs.Collaborate with business units (Merchandising, Marketing, Operations, HR, etc.) on business reporting, analysis requirements, and provide support to those end-users.Identify trends and opportunities for growth through analysis of complex datasets.Help identify the business data needed to produce the most useful insights and future analytics.
+
+What You'll Do:
+
+Data Collection, Modeling, and Analysis:Collect, process, and perform statistical analysis of data identifying trends, issues, and opportunities.Translate business questions into analytical projects, hypothesis testing, and data-driven solutions.Evaluate internal processes for inefficiencies and inaccuracies and assist with process automation and improvement for better data management and consistencies.Business Insights:Collaborate with business stakeholders to understand their objectives and data requirements.Generate actionable insights and recommendations to support strategic initiatives at all levels.Participate in meetings, seminars, and training sessions to stay apprised of new development technologies.Reporting and Dashboards:Create best-practice reports based on data mining, analysis, and visualizations.Translate the data into easily digestible visualizations/dashboards/reports, that explain what the data means across specific amounts of time or various departments to track key business metrics.Automate business reporting processes to streamline data delivery and accessibility.Data Governance:Help establish and maintain data quality standards/best practices ensuring accurate analysis/reporting.Assist in data cleansing, data profiling, and data transformation activities.Evaluate internal processes for inefficiencies and inaccuracies and assist with process automation and improvement for better data management and consistencies.Cross-functional Collaboration:Collaborate with departments such as Marketing, Merchandising, Accounting, and Operations to identify opportunities for data-driven improvements.Act as a liaison between technical and non-technical teams to ensure effective communication.Provide support to end-users that may include, but is not limited to:Monitor standards in reporting to include consistency in the proper use of metrics and attributes.Validation of report data to source data to ensure data accuracy.Validating appropriate and efficient SQL to retrieve data is being used.Ensuring correct definitions of metrics are being used.Provide training to end users – including new hires and existing team members.Qualifications:
+
+Required Skills And Qualifications
+
+Bachelor's degree in Business, Economics, Statistics, Mathematics, or a related field (Master's preferred).5+ years of proven experience as a Data Analyst or related role.Proficiency in data analysis tools such as Snowflake, SQL, Python, or R; SQL skills are required.Expertise in data visualization tools like MicroStrategy, PowerBI, or other BI platforms (MicroStrategy strongly preferred).Strong analytical, inter-personal & communication skills with proactive attitude.Ability to communicate across all company levels effectively and efficiently in business and technical terminology.Ability to work well in groups as well as independently.Possess a strong business acumen as well as understand technical concepts to formulate optimal solutions.Strong critical thinking, problem solving and analytical skills.Ability to define problems, collect data, establish facts, and draw valid conclusions.Strong ability to use intuition and experience to complement data.Technical writing experience in relevant areas, including queries, reports, and presentations.Attention to detail and reliable time management skills is a must.
+
+Preferred Skills And Qualifications
+
+Master’s Degree preferred.MicroStrategy report development, administration and/or architecture experience strongly preferred; similar skills with other BI platform considered.Experience in Retail Industry.Knowledge of machine learning techniques and predictive modeling.Familiarity with data warehousing and ETL processes.Certification in MicroStrategy (Departmental Analyst, Enterprise Analyst, Project Architect, Developer, Administrator, System Administrator, or Database Administrator).Certification in data analysis or related field a plus.
+
+REASONABLE ACCOMMODATIONS: Consistent with applicable laws, TFM will make reasonable accommodations for qualified applicants and team members, unless doing so would result in an undue hardship to TFM. This guiding principle applies to all aspects of employment, including hiring and job assignment, compensation, discipline, termination, and access to benefits and training.
+
+We Are Proud To Be An Equal Opportunity Employer
+
+Qualified applicants will receive consideration for employment without regard race, color, creed, religion, age, sex, gender, sexual orientation, gender identity, pregnancy and related medical conditions, national origin, genetic information, uniformed service, veteran status, disability, or any other basis prohibited by federal or state law.
+
+The statements in this job description are provided to describe the general nature and level of work expected in this role. While these statements include the essential functions of the job, they are not intended to be a complete list of all responsibilities, duties and skills required. As we work as a team, there may be times team members are needed to perform duties outside of their normal responsibilities based on business needs.
+
+","<strong>The Fresh Market & You
+
+</strong>Our mission is to make everyday eating extraordinary for our guests. We create a warm, welcoming, memorable experience with exceptional, personal service. We’re looking for a new team member who strives for excellence and brings positive energy, commitment, and a “can-do” attitude to work every day. We value teamwork and celebrate our successes as a team and will value your contribution!
+
+<strong>Added Benefits For Choosing The Fresh Market Team
+
+</strong><ul><li>Team member discount up to 40%</li><li>Health, Dental & Vision insurance available for individual, spouse, partner, and family.</li><li>401K contribution and match for part-time and full-time team members.</li><li>Personal time off and additional time off purchase plans available.</li><li>And much more!
+
+</li></ul><strong>About the Position:
+
+</strong>The Fresh Market currently has an opening for a Data Analyst in our Store Support Center (099). In this role you will be responsible for collecting, analyzing, and interpreting data to support strategic decision-making processes within the organization. You will work closely with cross-functional teams to identify trends, extract valuable insights, and generate actionable recommendations.
+
+<strong>Objectives of this Role
+
+</strong><ul><li>Play a pivotal role in transforming The Fresh Market into a data-driven culture by advocating to and educating users about the importance of adopting data-driven insights, data visualizations, and storytelling.</li><li>Commit to leveraging data-driven insights to make informed business decisions, drive growth, and enhance customer experiences.</li><li>Own enterprise level metric definitions for business KPIs as well as source-to-target mappings and information-model specification documents for datasets and KPIs.</li><li>Collaborate with business units (Merchandising, Marketing, Operations, HR, etc.) on business reporting, analysis requirements, and provide support to those end-users.</li><li>Identify trends and opportunities for growth through analysis of complex datasets.</li><li>Help identify the business data needed to produce the most useful insights and future analytics.
+
+</li></ul><strong>What You'll Do:
+
+</strong><ul><li>Data Collection, Modeling, and Analysis:</li><ul><li>Collect, process, and perform statistical analysis of data identifying trends, issues, and opportunities.</li><li>Translate business questions into analytical projects, hypothesis testing, and data-driven solutions.</li><li>Evaluate internal processes for inefficiencies and inaccuracies and assist with process automation and improvement for better data management and consistencies.</li></ul><li>Business Insights:</li><ul><li>Collaborate with business stakeholders to understand their objectives and data requirements.</li><li>Generate actionable insights and recommendations to support strategic initiatives at all levels.</li><li>Participate in meetings, seminars, and training sessions to stay apprised of new development technologies.</li></ul><li>Reporting and Dashboards:</li><ul><li>Create best-practice reports based on data mining, analysis, and visualizations.</li><li>Translate the data into easily digestible visualizations/dashboards/reports, that explain what the data means across specific amounts of time or various departments to track key business metrics.</li><li>Automate business reporting processes to streamline data delivery and accessibility.</li></ul><li>Data Governance:</li><ul><li>Help establish and maintain data quality standards/best practices ensuring accurate analysis/reporting.</li><li>Assist in data cleansing, data profiling, and data transformation activities.</li><li>Evaluate internal processes for inefficiencies and inaccuracies and assist with process automation and improvement for better data management and consistencies.</li></ul><li>Cross-functional Collaboration:</li><ul><li>Collaborate with departments such as Marketing, Merchandising, Accounting, and Operations to identify opportunities for data-driven improvements.</li><li>Act as a liaison between technical and non-technical teams to ensure effective communication.</li></ul><li>Provide support to end-users that may include, but is not limited to:</li><ul><li>Monitor standards in reporting to include consistency in the proper use of metrics and attributes.</li><li>Validation of report data to source data to ensure data accuracy.</li><li>Validating appropriate and efficient SQL to retrieve data is being used.</li><li>Ensuring correct definitions of metrics are being used.</li><li>Provide training to end users – including new hires and existing team members.</li></ul></ul><strong>Qualifications:
+
+</strong><strong>Required Skills And Qualifications
+
+</strong><ul><li>Bachelor's degree in Business, Economics, Statistics, Mathematics, or a related field (Master's preferred).</li><li>5+ years of proven experience as a Data Analyst or related role.</li><li>Proficiency in data analysis tools such as Snowflake, SQL, Python, or R; SQL skills are required.</li><li>Expertise in data visualization tools like MicroStrategy, PowerBI, or other BI platforms (MicroStrategy strongly preferred).</li><li>Strong analytical, inter-personal & communication skills with proactive attitude.</li><li>Ability to communicate across all company levels effectively and efficiently in business and technical terminology.</li><li>Ability to work well in groups as well as independently.</li><li>Possess a strong business acumen as well as understand technical concepts to formulate optimal solutions.</li><li>Strong critical thinking, problem solving and analytical skills.</li><li>Ability to define problems, collect data, establish facts, and draw valid conclusions.</li><li>Strong ability to use intuition and experience to complement data.</li><li>Technical writing experience in relevant areas, including queries, reports, and presentations.</li><li>Attention to detail and reliable time management skills is a must.
+
+</li></ul><strong>Preferred Skills And Qualifications
+
+</strong><ul><li>Master’s Degree preferred.</li><li>MicroStrategy report development, administration and/or architecture experience strongly preferred; similar skills with other BI platform considered.</li><li>Experience in Retail Industry.</li><li>Knowledge of machine learning techniques and predictive modeling.</li><li>Familiarity with data warehousing and ETL processes.</li><li>Certification in MicroStrategy (Departmental Analyst, Enterprise Analyst, Project Architect, Developer, Administrator, System Administrator, or Database Administrator).</li><li>Certification in data analysis or related field a plus.
+
+</li></ul><i>REASONABLE ACCOMMODATIONS: Consistent with applicable laws, TFM will make reasonable accommodations for qualified applicants and team members, unless doing so would result in an undue hardship to TFM. This guiding principle applies to all aspects of employment, including hiring and job assignment, compensation, discipline, termination, and access to benefits and training.
+
+</i><strong>We Are Proud To Be An Equal Opportunity Employer
+
+</strong>Qualified applicants will receive consideration for employment without regard race, color, creed, religion, age, sex, gender, sexual orientation, gender identity, pregnancy and related medical conditions, national origin, genetic information, uniformed service, veteran status, disability, or any other basis prohibited by federal or state law.
+
+<i>The statements in this job description are provided to describe the general nature and level of work expected in this role. While these statements include the essential functions of the job, they are not intended to be a complete list of all responsibilities, duties and skills required. As we work as a team, there may be times team members are needed to perform duties outside of their normal responsibilities based on business needs.
+
+</i>","The Fresh Market · Greensboro, NC (Hybrid)","https://www.linkedin.com/jobs/view/3816262229/","Greensboro, North Carolina, United States","7 of 10 skills match your profile - you may be a good fit","10,001+ employees · Retail
+1 school alum works here","LISTED","357551382","The Fresh Market","https://media.licdn.com/dms/image/C560BAQFblm_vXzJvxw/company-logo_400_400/0/1631353368303?e=1718841600&v=beta&t=VQ16W_NJZEuQA8J651c-kWU9b3jyhYX6USejMf2SfNY","2024-01-27T15:07:46.000Z","2024-03-15T13:53:26.942Z"
+"Senior Data Analyst","Senior Data Analyst ⚡Health Tech Start Up (Series A+)Austin, TexasCompensation - Competitive + Equity + Benefits Interested in joining a fast growing and mission driven dental start up in the tech capital of Texas? A very exciting and well-funded digital health start up is growing and seeking a Senior Data Scientist to join their team in Austin. The company have 30+ employees and has already had over $20million in funding. They are growing quickly and seeking a Senior Data Scientist with a strong data science background to join the team. As a part of this team, you will work closely with their diverse team across product, engineering, and business development teams.  ResponsibilitiesPerform comprehensive data analysis to evaluate business processes across the business and work to upgrade and build new featuresAct on data and product issues/inquiries in real timeConduct data analytics using industry accepted models and statistical tools in SQL and MS ExcelCreate data solutions and tools to facilitate self-service frameworks (for data consumers)Responsible for developing and executing tools to monitor and report on data qualityDeliver data expertise and design, develop tools and techniques to display insights and data visualization. RequirementsBachelor’s degree in Computer Science, Data Science, Mathematics or Analytics3-5 years industry experienceSQL proficientExcellent understanding of business intelligence tools (Looker, Tableau etc) and databasesStrong leadership and communication skillsAbility to collaborate with business development, engineering, and product teamsExcellent organisational skills and ability to present complex data to all audiences (technical and non-technical)Preferred: start-up experience  BenefitsFast-paced, start-up environmentGrowth opportunities and competitive compensation packagesMedical and dental subsidies, sponsored by employer401(k), with employer matchingPTO policy (flexible)Relocation can be compensatedTransit and parking benefits 🌎 Based out of an impressive downtown office with beautiful views in Austin. 📧 Interested in applying? Please click on the ‘Easy Apply’ button ⚡ Storm3 is a HealthTech recruitment firm with clients across London, Europe and North America. To discuss open opportunities or career options, please visit our website www.storm3.com and follow the Storm3 Linked In page for the latest jobs and intel ","<p><strong>Senior Data Analyst ⚡</strong></p><p><strong>Health Tech Start Up (Series A+)</strong></p><p><strong>Austin, Texas</strong></p><p><strong>Compensation - Competitive + Equity + Benefits</strong></p><p><strong> </strong></p><p>Interested in joining a fast growing and mission driven dental start up in the tech capital of Texas? A very exciting and well-funded digital health start up is growing and seeking a Senior Data Scientist to join their team in Austin. The company have 30+ employees and has already had over $20million in funding. They are growing quickly and seeking a Senior Data Scientist with a strong data science background to join the team. As a part of this team, you will work closely with their diverse team across product, engineering, and business development teams.</p><p> </p><p><strong> Responsibilities</strong></p><ul><li>Perform comprehensive data analysis to evaluate business processes across the business and work to upgrade and build new features</li><li>Act on data and product issues/inquiries in real time</li><li>Conduct data analytics using industry accepted models and statistical tools in SQL and MS Excel</li><li>Create data solutions and tools to facilitate self-service frameworks (for data consumers)</li><li>Responsible for developing and executing tools to monitor and report on data quality</li><li>Deliver data expertise and design, develop tools and techniques to display insights and data visualization.</li></ul><p> </p><p><strong>Requirements</strong></p><ul><li>Bachelor’s degree in Computer Science, Data Science, Mathematics or Analytics</li><li>3-5 years industry experience</li><li>SQL proficient</li><li>Excellent understanding of business intelligence tools (Looker, Tableau etc) and databases</li><li>Strong leadership and communication skills</li><li>Ability to collaborate with business development, engineering, and product teams</li><li>Excellent organisational skills and ability to present complex data to all audiences (technical and non-technical)</li><li>Preferred: start-up experience</li></ul><p> </p><p> <strong>Benefits</strong></p><ul><li>Fast-paced, start-up environment</li><li>Growth opportunities and competitive compensation packages</li><li>Medical and dental subsidies, sponsored by employer</li><li>401(k), with employer matching</li><li>PTO policy (flexible)</li><li>Relocation can be compensated</li><li>Transit and parking benefits</li></ul><p> </p><p>🌎 Based out of an impressive downtown office with beautiful views in Austin</p><p>.</p><p> 📧 Interested in applying? Please click on the ‘Easy Apply’ butt</p><p><i>o</i></p><p>n <i>⚡ Storm3 is a HealthTech recruitment firm with clients across London, Europe and North America. To discuss open opportunities or career options, please visit our website www.storm3.com and follow the Storm3 Linked In page for the latest jobs and int</i></p><p>e</p>l ","Storm3 · Austin, Texas Metropolitan Area (Hybrid)","https://www.linkedin.com/jobs/view/3848281025/","Austin, Texas Metropolitan Area","7 of 10 skills match your profile - you may be a good fit","51-200 employees · Staffing and Recruiting","LISTED","56392839","Storm3","https://media.licdn.com/dms/image/C4D0BAQEGZJV-dv33OA/company-logo_400_400/0/1630517460858/storm3_logo?e=1718841600&v=beta&t=jA6S5OYDjbC4rIfCUSDHy2fzgm420bUpSNjC0IRgz-Q","2024-03-11T13:59:41.000Z","2024-03-15T13:53:26.942Z"
+"Sr Data Analyst, Customer Analytics","NEIMAN MARCUS GROUP 
+
+ Neiman Marcus Group (NMG) has been the premier destination for luxury fashion and goods, superior service, and an elevated retail experience for more than a century. Today, 9,000 associates contribute to the success of NMG’s brands: Neiman Marcus, Bergdorf Goodman, Last Call, and Horchow. There are 38 full-line Neiman Marcus stores in cosmopolitan markets across the United States and a sophisticated digital platform that attracts shoppers worldwide. Bergdorf Goodman operates two stores in landmark locations on Fifth Avenue in New York City and BergdorfGoodman.com, catering to loyal luxury customers globally. NMG also owns five Last Call stores and Horchow.com, an e-commerce site that offers premium furniture and home decor. 
+
+ As an organization, NMG is on a transformational journey to become the preeminent luxury customer platform. NMG continues to deliver the best integrated customer experience and has evolved the business to succeed in the ever-changing retail landscape. NMG is a relationship business. What differentiates the organization from other luxury retailers are its unique assets: a strong store footprint, the most knowledgeable associates, an engaging online experience, solid brand partnerships, innovative digital and in-store experiences, the most loyal luxury customer base, and a strong balance sheet. 
+
+ Our customers will always be at the center of everything NMG does. The company continues to reinvest in new technologies that enhance the customer experience. NMG meets customers where they are. NMG’s goal is to offer customers a seamless experience across its stores, online, and remote digital selling. 
+
+ NMG’s priority is to develop a highly engaged and high-performing team where everyone belongs. The business attracts and retains best-in-class talent through unique offerings provided to associates in addition to standard employer benefits. These include an innovative way of working, associate discounts on merchandise, tuition reimbursement, associate hardship fund, and paid time off to volunteer, to name a few. 
+
+ As part of NMG’s Environmental, Social, Governance (ESG) work, the organization is focused on driving its core value of being “All Heart.” NMG is also assessing its current environmental and social impact while developing a three-year plan to lead the luxury industry in its commitment and transparency to environmental and social sustainability. NMG strives to become an employer of choice, driven by a culture of Belonging. A dedicated team focuses on this journey, directly impacting how NMG conducts business throughout the workforce, workplace, and marketplace dimensions. 
+
+ NMG has incredibly passionate and committed corporate and store associates. NMG offers associates an environment where everyone feels welcomed, nurtured, and empowered. Our associates are the heart of NMG. As an organization, NMG leads with love – love for customers, love for associates, and love for brand partners. 
+
+Knowledge/Skills/Abilities:
+
+ Preferred experience in remote work environments, demonstrating the ability to work autonomously and taking initiative.  Extract meaningful insights that inform business strategies and enhance the customer experience.  Understanding of predictive modeling techniques.  Effective prioritization and collaboration across teams, managing tight timelines with attention to detail.  Demonstrated ability to build strong working relationships with business leads and internal partners.  Ensure accuracy in data analysis by reviewing and validating datasets, identifying anomalies, and conducting thorough quality checks on your own work.  Excellent verbal and written communication skills. Ability to effectively present analytics data to business users. 
+
+Note: This role requires a self-driven individual comfortable with independent work in a remote setting, capable of making decisions, independent problem-solving, and effective task management without constant supervision.
+
+ Bachelor's degree, preferably in a quantitative or technical subject such as in Marketing, Finance, Economics, Mathematics, Engineering, or Computer Science.  3+ years of experience in as a Data/BI Analyst or Data Scientist.  3+ years of expertise in intermediate to advanced SQL, including joining multiple tables, writing subqueries, and using functions such as CASE, WINDOW, JOIN, GROUP BY, HAVING, and CTE.  2+ years of experience in developing Tableau dashboards.  Python experience to complement data analysis tasks, and to automate processes that facilitate data manipulation and visualization workflows. 
+
+Career Level Summary
+
+Individual contributor with responsibility in a professional or technical discipline or specialty.
+
+May provide guidance/direction to junior level professionals.
+
+Drives projects / processes with medium and sometimes large complexity and scope
+
+Subject Matter Expert for an area of expertise within a portfolio
+
+Technical expert driving portfolio ownership
+
+Manages difficult to complex processes and works independently with limited supervision.
+
+Problems faced are difficult and sometime complex.
+
+Education
+
+Bachelors Degree or equivalent experience
+
+Preferred Experience
+
+5+ Years Experience
+
+Role Summary
+
+Analyst role is focused on and accountable for analyzing business requirements and map them to application requirements, defining, documenting and managing
+
+processes and policies (Organizational, Industry and regulatory). Analyst role focuses on : Business of IT, Compliance and Business/Application Analysis and
+
+activities slightly vary based on the area
+
+Responsibilities include:
+
+Accountable for identifying and analyzing business/stakeholder needs, conducting requirements gathering, and defining scope and objectives for large projects/programs/initiativesAccountable for researching requirements, developing detailed specifications, and validating with the stakeholders for large projects/programs/initiativesCommunicating business / stakeholder needs to the implementation/servicing teams by translating them into implementable requirementsOversees and create documentation of policies, standards, and procedures is created and managed to support the requirements. Research & evaluation of the vendors, tools or services addressing the business/stakeholder needs. Provides oversight for delivery of the requirements/servicesAnalyzes financial /business /compliance data ; prepares and distributes reportingCollaborates with cross functional teams and external stakeholders; Serves as a liaison between IT and various stakeholdersMentors and coaches other team members on application functionality/ business process, standards and policies
+
+The responsibilities may include few or more of the below based on area of focus:
+
+Develops, implement, maintain and ensure adherence to the corporate and IT compliance policies, standards, processes and processes to assess, monitor, report and escalate compliance related issuesDesigns and performs periodic access reviews, vendor compliance assessment and audits to identify areas of improvement/deficiencies and work with teams to address these to ensure user satisfaction, compliance and deliveryLeads and facilitate risk and compliance assessments and reviews the compliance assessment resultsManages outsourcing vendors according to organization's standards and policies and analyzes performance metrics to ensure contractual obligations are met, resolves vendor problems related to quality, performance, and service levelPerforms complex data modeling, preparing reports, build configuration and end to end functional workflows to meet business needsCoordinate with developers to build and implement technology solutions and drives system conversions, upgrades, enhancementsEnsures technical solutions match functional and non‐functional requirements throughout the project lifecycleResearch on technology trends & developments in functional area of focus and apply the same for business process improvements
+
+NMG Leadership Competencies
+
+Collaborating With Others ‐ Level 2
+
+Encourages teamwork and collaboration, and respects the opinions and abilities of others
+
+Resolves conflicts as soon as they arise, finding common ground and settling disputes fairly and with minimal disruption
+
+Builds relationships both internal and external to the company that enhance both individual and company interests
+
+Values people with different perspectives and backgrounds
+
+Gains trust and support of peers across the organization, and is seen as a team player
+
+Communicating Effectively ‐ Level 2
+
+Uses direct, tactful and respectful communication with consideration for audience perspective
+
+Structures messages in a clear, logical manner using the most appropriate communication medium
+
+Uses language and a delivery style that captures the attention of an audience and persuades others to think or act differently
+
+Inspiring Trust ‐ Level 2
+
+Treats people fairly and consistently in both public and private settings
+
+Gives credit and advocacy to their team members
+
+Serves as a positive role model by establishing and adhering to high ethical standards of doing business
+
+Anticipates negative impacts to work deadlines or outcomes and communicates them proactively to his/her manager
+
+Serving Our Customers ‐ Level 2
+
+Encourages a gracious and welcoming environment for internal/external customers and all other partners
+
+Coaches others on how to build excellent customer service skills
+
+Anticipates and addresses the customer implications of any changes
+
+Proactively applies internal/external customer feedback and data to continuously improve customer service
+
+Demonstrates Strategic Ability ‐ Level 2
+
+Defines and reviews strategies with others across the organization in order to gather feedback and optimize plans
+
+Anticipates future consequences and trends, and considers alternative scenarios when defining strategies
+
+Identifies clear priorities for self and team based upon goals and objectives, and anticipates and eliminates roadblocks
+
+Demonstrates strong decision‐making skills
+
+Driving For Results ‐ Level 2
+
+Establishes well‐thought‐out plans and manages execution of plans, anticipating and adjusting for risks and roadblocks
+
+Seeks opportunities to improve business and get results
+
+Uses strong critical thinking skills and analytical methods to analyze problems and recommends viable solutions
+
+Creates a positive sense of urgency towards achieving results, identifying problems promptly, and moving swiftly to find solutions
+
+Innovating ‐ Level 2
+
+Proactively shares information, best practices and ideas with other teams/groups
+
+Encourages their team to constantly look for better ways of doing things and welcomes challenges to the status quo
+
+Serves as a role model and advocate for trying out new ideas and solutions, including using new technology
+
+Measures the results of new ideas, and makes adjustments to ensure new solutions result in real business benefits over time
+
+Personal Agility‐ All Levels
+
+Maintains effectiveness in diverse work environments where circumstances and priorities are changing
+
+Maintains a positive outlook, patience and sense of humor in difficult situations
+
+Reads others well, and recognizes the need to adjust their behavior accordingly
+
+Can accurately project what people are likely to do across a variety of situations, and adjusts their approach accordingly
+
+Additional Information
+
+ Posting Date: Jan 3, 2024  Overtime Status: Exempt  Minimum Pay Range $: 95,000  Maximum Pay Range $: 105,000","<strong>NEIMAN MARCUS GROUP 
+
+</strong><strong> Neiman Marcus Group (NMG) has been the premier destination for luxury fashion and goods, superior service, and an elevated retail experience for more than a century. Today, 9,000 associates contribute to the success of NMG’s brands: Neiman Marcus, Bergdorf Goodman, Last Call, and Horchow. There are 38 full-line Neiman Marcus stores in cosmopolitan markets across the United States and a sophisticated digital platform that attracts shoppers worldwide. Bergdorf Goodman operates two stores in landmark locations on Fifth Avenue in New York City and BergdorfGoodman.com, catering to loyal luxury customers globally. NMG also owns five Last Call stores and Horchow.com, an e-commerce site that offers premium furniture and home decor. 
+
+</strong><strong> As an organization, NMG is on a transformational journey to become the preeminent luxury customer platform. NMG continues to deliver the best integrated customer experience and has evolved the business to succeed in the ever-changing retail landscape. NMG is a relationship business. What differentiates the organization from other luxury retailers are its unique assets: a strong store footprint, the most knowledgeable associates, an engaging online experience, solid brand partnerships, innovative digital and in-store experiences, the most loyal luxury customer base, and a strong balance sheet. 
+
+</strong><strong> Our customers will always be at the center of everything NMG does. The company continues to reinvest in new technologies that enhance the customer experience. NMG meets customers where they are. NMG’s goal is to offer customers a seamless experience across its stores, online, and remote digital selling. 
+
+</strong><strong> NMG’s priority is to develop a highly engaged and high-performing team where everyone belongs. The business attracts and retains best-in-class talent through unique offerings provided to associates in addition to standard employer benefits. These include an innovative way of working, associate discounts on merchandise, tuition reimbursement, associate hardship fund, and paid time off to volunteer, to name a few. 
+
+</strong><strong> As part of NMG’s Environmental, Social, Governance (ESG) work, the organization is focused on driving its core value of being “All Heart.” NMG is also assessing its current environmental and social impact while developing a three-year plan to lead the luxury industry in its commitment and transparency to environmental and social sustainability. NMG strives to become an employer of choice, driven by a culture of Belonging. A dedicated team focuses on this journey, directly impacting how NMG conducts business throughout the workforce, workplace, and marketplace dimensions. 
+
+</strong><strong> NMG has incredibly passionate and committed corporate and store associates. NMG offers associates an environment where everyone feels welcomed, nurtured, and empowered. Our associates are the heart of NMG. As an organization, NMG leads with love – love for customers, love for associates, and love for brand partners. 
+
+</strong><strong>Knowledge/Skills/Abilities:
+
+</strong><ul><li> Preferred experience in remote work environments, demonstrating the ability to work autonomously and taking initiative. </li><li> Extract meaningful insights that inform business strategies and enhance the customer experience. </li><li> Understanding of predictive modeling techniques. </li><li> Effective prioritization and collaboration across teams, managing tight timelines with attention to detail. </li><li> Demonstrated ability to build strong working relationships with business leads and internal partners. </li><li> Ensure accuracy in data analysis by reviewing and validating datasets, identifying anomalies, and conducting thorough quality checks on your own work. </li><li> Excellent verbal and written communication skills. Ability to effectively present analytics data to business users. 
+
+</li></ul>Note: This role requires a self-driven individual comfortable with independent work in a remote setting, capable of making decisions, independent problem-solving, and effective task management without constant supervision.
+
+<ul><li> Bachelor's degree, preferably in a quantitative or technical subject such as in Marketing, Finance, Economics, Mathematics, Engineering, or Computer Science. </li><li> 3+ years of experience in as a Data/BI Analyst or Data Scientist. </li><li> 3+ years of expertise in intermediate to advanced SQL, including joining multiple tables, writing subqueries, and using functions such as CASE, WINDOW, JOIN, GROUP BY, HAVING, and CTE. </li><li> 2+ years of experience in developing Tableau dashboards. </li><li> Python experience to complement data analysis tasks, and to automate processes that facilitate data manipulation and visualization workflows. 
+
+</li></ul><strong>Career Level Summary
+
+</strong>Individual contributor with responsibility in a professional or technical discipline or specialty.
+
+May provide guidance/direction to junior level professionals.
+
+Drives projects / processes with medium and sometimes large complexity and scope
+
+Subject Matter Expert for an area of expertise within a portfolio
+
+Technical expert driving portfolio ownership
+
+Manages difficult to complex processes and works independently with limited supervision.
+
+Problems faced are difficult and sometime complex.
+
+<strong>Education
+
+</strong>Bachelors Degree or equivalent experience
+
+<strong>Preferred Experience
+
+</strong>5+ Years Experience
+
+<strong>Role Summary
+
+</strong>Analyst role is focused on and accountable for analyzing business requirements and map them to application requirements, defining, documenting and managing
+
+processes and policies (Organizational, Industry and regulatory). Analyst role focuses on : Business of IT, Compliance and Business/Application Analysis and
+
+activities slightly vary based on the area
+
+<strong>Responsibilities include:
+
+</strong><ul><li>Accountable for identifying and analyzing business/stakeholder needs, conducting requirements gathering, and defining scope and objectives for large projects/programs/initiatives</li><li>Accountable for researching requirements, developing detailed specifications, and validating with the stakeholders for large projects/programs/initiatives</li><li>Communicating business / stakeholder needs to the implementation/servicing teams by translating them into implementable requirements</li><li>Oversees and create documentation of policies, standards, and procedures is created and managed to support the requirements. </li><li>Research & evaluation of the vendors, tools or services addressing the business/stakeholder needs. </li><li>Provides oversight for delivery of the requirements/services</li><li>Analyzes financial /business /compliance data ; prepares and distributes reporting</li><li>Collaborates with cross functional teams and external stakeholders; Serves as a liaison between IT and various stakeholders</li><li>Mentors and coaches other team members on application functionality/ business process, standards and policies
+
+</li></ul><strong>The responsibilities may include few or more of the below based on area of focus:
+
+</strong><ul><li>Develops, implement, maintain and ensure adherence to the corporate and IT compliance policies, standards, processes and processes to assess, monitor, report and escalate compliance related issues</li><li>Designs and performs periodic access reviews, vendor compliance assessment and audits to identify areas of improvement/deficiencies and work with teams to address these to ensure user satisfaction, compliance and delivery</li><li>Leads and facilitate risk and compliance assessments and reviews the compliance assessment results</li><li>Manages outsourcing vendors according to organization's standards and policies and analyzes performance metrics to ensure contractual obligations are met, resolves vendor problems related to quality, performance, and service level</li><li>Performs complex data modeling, preparing reports, build configuration and end to end functional workflows to meet business needs</li><li>Coordinate with developers to build and implement technology solutions and drives system conversions, upgrades, enhancements</li><li>Ensures technical solutions match functional and non‐functional requirements throughout the project lifecycle</li><li>Research on technology trends & developments in functional area of focus and apply the same for business process improvements
+
+</li></ul><strong>NMG Leadership Competencies
+
+</strong><strong>Collaborating With Others ‐ Level 2
+
+</strong>Encourages teamwork and collaboration, and respects the opinions and abilities of others
+
+Resolves conflicts as soon as they arise, finding common ground and settling disputes fairly and with minimal disruption
+
+Builds relationships both internal and external to the company that enhance both individual and company interests
+
+Values people with different perspectives and backgrounds
+
+Gains trust and support of peers across the organization, and is seen as a team player
+
+<strong>Communicating Effectively ‐ Level 2
+
+</strong>Uses direct, tactful and respectful communication with consideration for audience perspective
+
+Structures messages in a clear, logical manner using the most appropriate communication medium
+
+Uses language and a delivery style that captures the attention of an audience and persuades others to think or act differently
+
+<strong>Inspiring Trust ‐ Level 2
+
+</strong>Treats people fairly and consistently in both public and private settings
+
+Gives credit and advocacy to their team members
+
+Serves as a positive role model by establishing and adhering to high ethical standards of doing business
+
+Anticipates negative impacts to work deadlines or outcomes and communicates them proactively to his/her manager
+
+<strong>Serving Our Customers ‐ Level 2
+
+</strong>Encourages a gracious and welcoming environment for internal/external customers and all other partners
+
+Coaches others on how to build excellent customer service skills
+
+Anticipates and addresses the customer implications of any changes
+
+Proactively applies internal/external customer feedback and data to continuously improve customer service
+
+<strong>Demonstrates Strategic Ability ‐ Level 2
+
+</strong>Defines and reviews strategies with others across the organization in order to gather feedback and optimize plans
+
+Anticipates future consequences and trends, and considers alternative scenarios when defining strategies
+
+Identifies clear priorities for self and team based upon goals and objectives, and anticipates and eliminates roadblocks
+
+Demonstrates strong decision‐making skills
+
+<strong>Driving For Results ‐ Level 2
+
+</strong>Establishes well‐thought‐out plans and manages execution of plans, anticipating and adjusting for risks and roadblocks
+
+Seeks opportunities to improve business and get results
+
+Uses strong critical thinking skills and analytical methods to analyze problems and recommends viable solutions
+
+Creates a positive sense of urgency towards achieving results, identifying problems promptly, and moving swiftly to find solutions
+
+<strong>Innovating ‐ Level 2
+
+</strong>Proactively shares information, best practices and ideas with other teams/groups
+
+Encourages their team to constantly look for better ways of doing things and welcomes challenges to the status quo
+
+Serves as a role model and advocate for trying out new ideas and solutions, including using new technology
+
+Measures the results of new ideas, and makes adjustments to ensure new solutions result in real business benefits over time
+
+<strong>Personal Agility‐ All Levels
+
+</strong>Maintains effectiveness in diverse work environments where circumstances and priorities are changing
+
+Maintains a positive outlook, patience and sense of humor in difficult situations
+
+Reads others well, and recognizes the need to adjust their behavior accordingly
+
+Can accurately project what people are likely to do across a variety of situations, and adjusts their approach accordingly
+
+Additional Information
+
+<ul><li> Posting Date: Jan 3, 2024 </li><li> Overtime Status: Exempt </li><li> Minimum Pay Range $: 95,000 </li><li> Maximum Pay Range $: 105,000</li></ul>","Neiman Marcus Group · New York, NY","https://www.linkedin.com/jobs/view/3797868427/","New York, New York, United States","6 of 10 skills match your profile - you may be a good fit","10,001+ employees · Retail
+5 school alumni work here","LISTED","528278236","Neiman Marcus Group","https://media.licdn.com/dms/image/D560BAQEIPK8AQnUZQQ/company-logo_400_400/0/1687550109932/neimanmarcusgroup_logo?e=1718841600&v=beta&t=VKqqZiv-li5b-V3vZo2nh6WrgclugAMddU8CUdJZ8uU","2024-01-03T18:19:44.000Z","2024-03-15T13:53:26.942Z"
+"Senior, Data Analyst","Position Summary...
+
+What you'll do...
+
+Are you a creative and driven data analyst ready to take on an exciting opportunity?
+
+As a Senior Data analyst, you'll be part of a collaborative team that's dedicated to empowering transportation and end to end supply chain operators and leadership with actionable insights, reporting, and automation. You'll be responsible for creating and maintaining backend data pipelines, frontend interactive reports, and business logic automation for business-critical decision support. We're looking for someone who has experience with SQL, Python, Dataiku, Tableau, Tableau (Prep), Power BI, Google Big Query on cloud service and local server environments. The products managed and built by this role have a high degree of visibility with stakeholder consumers in the thousands or possess positions of significance. This is an exciting opportunity to work on projects that have a real impact on the success of the organization and to collaborate with others who share your passion for data analysis. Join our team and help us unleash the power of data to drive business success. The role is located in Bentonville, AR.
+
+What You'll Do
+
+Data Source Identification:
+
+Identify and evaluate potential data sources from internal and external sources.
+
+Implement processes for acquiring and integrating data from various sources.
+
+Ensure that the data is accurate, complete, and accessible.
+
+Understand Business Context
+
+Work closely with stakeholders to understand business goals and requirements.
+
+Translate business requirements into data requirements.
+
+Develop an understanding of the industry and competitive landscape.
+
+Technical Problem Formulation
+
+Formulate technical problems and solutions for data-related challenges.
+
+Develop and implement algorithms for data analysis and modeling.
+
+Evaluate and select appropriate software tools, frameworks, and technologies.
+
+Data Visualization
+
+Design and execute effective data visualization strategies for presenting complex data.
+
+Develop and implement effective dashboards and reports.
+
+Collaborate with other teams to create impactful visualizations that support business decisions.
+
+Data Quality Management
+
+Plan and lead efforts to ensure data quality and integrity.
+
+Develop and implement data governance policies and procedures.
+
+Monitor data quality metrics and proactively identify and address issues.
+
+Exploratory Data Analysis
+
+Conduct exploratory analyses to generate insights and identify patterns in data.
+
+Develop and implement statistical analyses and models.
+
+Communicate findings and insights to stakeholders in a clear and impactful manner.
+
+You'll sweep us off our feet if...
+
+Proficiency in Python, SQL, GCP, Tableau, Dataiku. You have strong exploratory data analysis skills and ability to make analytical, data driven recommendations and solutions.Project Management experience with end-to-end ownership of projects.You have compelling, persuasive oral and written communication skills and can build strong cross-functional relationships.Ability to thrive in ambiguity and often lack of clarity, demonstrated ability to thrive in a fast-paced environment while managing multiple projects and tight deadlines.
+
+You'll make an impact by...
+
+ Advanced Analytics : In-depth investigation of key drivers of transportation dynamic optimization and data quality. Work with large, disparate datasets to measure business KPIs and to conduct strategic analyses to inform critical business decisions. Develop data visualization to monitor and quantify the impact of changes and unique business challenges and use data to influence strategic decision making. Partnership and Collaboration : Engaging with team members and cross-functional partners on a consistent basis and establish credibility and influence change. Drive process optimization and collaboration across the organization. Analyze stakeholder needs and partner with them to share relevant information.  Planning : Thinking strategically to identify the key metrics and initiatives needed to drive change within the organization. Quickly translate strategic, conceptual ideas into clear action plans, roadmaps, and timelines. Ensure final deliverables are actionable and communicated in a way that drives quantifiable business benefit in terms of improved efficiencies or improved decision making.
+
+Minimum Qualifications
+
+Bachelor's degree in Supply Chain, Data Science, Computer Science, Analytics, Statistics or relevant field with 4 years of experience in analytics related field or Master's degree in Supply Chain, Data Science, Computer Science, Analytics, Statistics or relevant field with 2 years of experience in analytics related.Six Sigma Certification (Green, Black) a plus
+
+The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.
+
+Benefits & Perks
+
+Beyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer
+
+Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.
+
+Who We Are
+
+Join Walmart and your work could help over 275 million global customers live better every week. Yes, we are the Fortune #1 company. But you'll quickly find we're a company who wants you to feel comfortable bringing your whole self to work. A career at Walmart is where the world's most complex challenges meet a kinder way of life. Our mission spreads far beyond the walls of our stores. Join us and you'll discover why we are a world leader in diversity and inclusion, sustainability, and community involvement. From day one, you'll be empowered and equipped to do the best work of your life. careers.walmart.com
+
+Minimum Qualifications...
+
+Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelor's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Arts, Finance or related field and 2 years' experience in data analysis, data science, statistics, or related field. Option 2: Master's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field. Option 3: 4 years' experience in data analysis, data science, statistics, or related field.
+
+Preferred Qualifications...
+
+Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, data analysis, statistics, or related field, Master's degree in Business, Computer Science, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field, Related industry experience (for example, retail, merchandising, healthcare, eCommerce), Successful completion of assessments in data analysis and Business Intelligence tools and scripting languages (for example, SQL, Python, Spark, Scala, R, Power BI, or Tableau)
+
+Primary Location...
+
+311 NORTH WALTON BOULEVARD, BENTONVILLE, AR 72716, United States of America","Position Summary...
+
+What you'll do...
+
+Are you a creative and driven data analyst ready to take on an exciting opportunity?
+
+As a Senior Data analyst, you'll be part of a collaborative team that's dedicated to empowering transportation and end to end supply chain operators and leadership with actionable insights, reporting, and automation. You'll be responsible for creating and maintaining backend data pipelines, frontend interactive reports, and business logic automation for business-critical decision support. We're looking for someone who has experience with SQL, Python, Dataiku, Tableau, Tableau (Prep), Power BI, Google Big Query on cloud service and local server environments. The products managed and built by this role have a high degree of visibility with stakeholder consumers in the thousands or possess positions of significance. This is an exciting opportunity to work on projects that have a real impact on the success of the organization and to collaborate with others who share your passion for data analysis. Join our team and help us unleash the power of data to drive business success. The role is located in Bentonville, AR.
+
+<strong>What You'll Do
+
+</strong>Data Source Identification:
+
+Identify and evaluate potential data sources from internal and external sources.
+
+Implement processes for acquiring and integrating data from various sources.
+
+Ensure that the data is accurate, complete, and accessible.
+
+<strong>Understand Business Context
+
+</strong>Work closely with stakeholders to understand business goals and requirements.
+
+Translate business requirements into data requirements.
+
+Develop an understanding of the industry and competitive landscape.
+
+<strong>Technical Problem Formulation
+
+</strong>Formulate technical problems and solutions for data-related challenges.
+
+Develop and implement algorithms for data analysis and modeling.
+
+Evaluate and select appropriate software tools, frameworks, and technologies.
+
+<strong>Data Visualization
+
+</strong>Design and execute effective data visualization strategies for presenting complex data.
+
+Develop and implement effective dashboards and reports.
+
+Collaborate with other teams to create impactful visualizations that support business decisions.
+
+<strong>Data Quality Management
+
+</strong>Plan and lead efforts to ensure data quality and integrity.
+
+Develop and implement data governance policies and procedures.
+
+Monitor data quality metrics and proactively identify and address issues.
+
+<strong>Exploratory Data Analysis
+
+</strong>Conduct exploratory analyses to generate insights and identify patterns in data.
+
+Develop and implement statistical analyses and models.
+
+Communicate findings and insights to stakeholders in a clear and impactful manner.
+
+You'll sweep us off our feet if...
+
+<ul><li>Proficiency in Python, SQL, GCP, Tableau, Dataiku. </li><li>You have strong exploratory data analysis skills and ability to make analytical, data driven recommendations and solutions.</li><li>Project Management experience with end-to-end ownership of projects.</li><li>You have compelling, persuasive oral and written communication skills and can build strong cross-functional relationships.</li><li>Ability to thrive in ambiguity and often lack of clarity, demonstrated ability to thrive in a fast-paced environment while managing multiple projects and tight deadlines.
+
+</li></ul>You'll make an impact by...
+
+<ul><li> Advanced Analytics : In-depth investigation of key drivers of transportation dynamic optimization and data quality. Work with large, disparate datasets to measure business KPIs and to conduct strategic analyses to inform critical business decisions. Develop data visualization to monitor and quantify the impact of changes and unique business challenges and use data to influence strategic decision making.</li><li> Partnership and Collaboration : Engaging with team members and cross-functional partners on a consistent basis and establish credibility and influence change. Drive process optimization and collaboration across the organization. Analyze stakeholder needs and partner with them to share relevant information. </li><li> Planning : Thinking strategically to identify the key metrics and initiatives needed to drive change within the organization. Quickly translate strategic, conceptual ideas into clear action plans, roadmaps, and timelines. Ensure final deliverables are actionable and communicated in a way that drives quantifiable business benefit in terms of improved efficiencies or improved decision making.
+
+</li></ul><strong>Minimum Qualifications
+
+</strong><ul><li>Bachelor's degree in Supply Chain, Data Science, Computer Science, Analytics, Statistics or relevant field with 4 years of experience in analytics related field or Master's degree in Supply Chain, Data Science, Computer Science, Analytics, Statistics or relevant field with 2 years of experience in analytics related.</li><li>Six Sigma Certification (Green, Black) a plus
+
+</li></ul>The above information has been designed to indicate the general nature and level of work performed in the role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The full Job Description can be made available as part of the hiring process.
+
+<strong>Benefits & Perks
+
+</strong>Beyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.
+
+Equal Opportunity Employer
+
+Walmart, Inc. is an Equal Opportunity Employer - By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions - while being inclusive of all people.
+
+Who We Are
+
+Join Walmart and your work could help over 275 million global customers live better every week. Yes, we are the Fortune #1 company. But you'll quickly find we're a company who wants you to feel comfortable bringing your whole self to work. A career at Walmart is where the world's most complex challenges meet a kinder way of life. Our mission spreads far beyond the walls of our stores. Join us and you'll discover why we are a world leader in diversity and inclusion, sustainability, and community involvement. From day one, you'll be empowered and equipped to do the best work of your life. careers.walmart.com
+
+<strong>Minimum Qualifications...
+
+</strong>Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications.
+
+Option 1: Bachelor's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Arts, Finance or related field and 2 years' experience in data analysis, data science, statistics, or related field. Option 2: Master's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field. Option 3: 4 years' experience in data analysis, data science, statistics, or related field.
+
+<strong>Preferred Qualifications...
+
+</strong>Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.
+
+Data science, data analysis, statistics, or related field, Master's degree in Business, Computer Science, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field, Related industry experience (for example, retail, merchandising, healthcare, eCommerce), Successful completion of assessments in data analysis and Business Intelligence tools and scripting languages (for example, SQL, Python, Spark, Scala, R, Power BI, or Tableau)
+
+Primary Location...
+
+311 NORTH WALTON BOULEVARD, BENTONVILLE, AR 72716, United States of America","Walmart · Bentonville, AR","https://www.linkedin.com/jobs/view/3836020138/","Bentonville, Arkansas, United States","6 of 10 skills match your profile - you may be a good fit","10,001+ employees · Retail
+79 school alumni work here","LISTED","517508886","Walmart","https://media.licdn.com/dms/image/C560BAQE4Th_qgWovfg/company-logo_400_400/0/1655487552700/walmart_logo?e=1718841600&v=beta&t=U98XzpYNhvxWK6Fv1cqoKfK8rT7bH70VlhzpvIaSCU0","2024-02-21T04:09:57.000Z","2024-03-15T13:53:26.942Z"
+"Business Intelligence Analyst","Location: Remote First Team, EST Time Zone Preferred
+
+About The Role
+
+As a Business Intelligence Analyst at Cabinet Health, you will manage and oversee business analytics projects and processes to provide data-driven insights related to performance in our business. Your work will advise and help develop strategies for operational improvements and future business initiatives. You will utilize internal data, KPI targets, industry trends, competitor intelligence, customer information to develop analytical tools, reports, and models across the organization to inform and support decision-making. You will consult with stakeholders to understand the business model, objectives, issues, and challenges that analytics can support, developing standards and collection processes to support robust analytics and reporting data procedures. You will report into our VP of Digital and Analytics and work closely with our Pharmacy and Retail teams.
+
+What You’ll Do
+
+ Build out weekly reporting for Rx scorecard reporting for operations  Build out series of ad-hoc projects to solve key business questions as they arise  Contribute spatial analysis to inform retail decisions (GIS / mapping to visualize data for retail customers)  Support our engineering team in the development of new data generation/capture initiatives, warehousing, and integrated application reporting (automated scorecards and dashboards.)  Identify and execute complex data projects, such as funnel analysis, churn modeling, and time series analysis  Engage with stakeholders across the business (Pharmacy, Retail, and Operations) to contribute an in-depth perspective on planning exercises 
+
+Who You Are
+
+4+ years experience and mastery of SQL (specifically PostgreSQL and Snowflake)3+ years experience working with advanced time-series analysis models3+ years experience working with unstructured and event data (JSON, etc.)Comfortable profiling and optimizing SQL QueriesExperience with Geospatial analysisRigorous educational background in Mathematics, Statistics, Information Systems or similar programWorked remotely before, or know that you'd work well with a remote team
+
+Bonus Qualifications
+
+Building ETL and ELT data warehousing pipelinesComfort with Python for Data Science (e.g. NumPy, SciPy, Pandas, PyTorch)Experience building and managing an organization’s data governance practice (standardizing data transformations, documenting analytic data models, working with CI/CD tools to verify data structures, etc.)Experience in pharmacy, retail, and operations
+
+Your personal and professional values
+
+Highly motivated by Cabinet’s mission: to eliminate single-use plastic in medicine - making getting better, better through healthcare that is more sustainable, higher quality, and personalTrustworthy: dependable, prepared, and authenticCare-centric: care is at the center of everything we do, starting with care for ourselves, our team, and our communities. It goes beyond the medicines we sell.Growth-minded, growth-driven: progress over perfection is key for our company, our team, and our own personal development. We are looking for someone who is equipped to both relish in obstacles and excel in growth momentum.You are comfortable dealing with ambiguity and are extremely flexible and nimble, fluidly pivoting and responding to the evolving needs of the businessYou have a naturally collaborative demeanor and you thrive in a dynamic, fast-paced and highly-fluid environmentYou are highly analytical with the ability to turn quantitative data into insight and actionable process optimizationYou are strongly motivated by results, and possess the ability to manage independently and take calculated risksYou are optimistic, passionate, and humble
+
+Salary Range: $115,000-$165,000 depending on experience
+
+Other perks
+
+Competitive Base Salary and Equity PackageHealth, Dental, Vision Insurance (100% coverage of 'gold' tier plan for health, 50% coverage for dependents/spouses)Flexible PTO Policy and generous holiday scheduleCabinet 401(k), with 100% match up to 3% of salary3 months paid parental leave programStipend towards cell phone/internet for work from homeStipend towards home office set upCompany sponsored development and wellness programs (One Medical, Talkspace, Health Advocate, Kindbody Fertility)Summer Fridays - company office hours are closed after 2pm on Fridays during period between Memorial to Labor Day
+
+About Cabinet
+
+Cabinet began with a deep curiosity about how medicine was made and more importantly, how to improve it. Built on top of a supply chain with 3 generations of medicine manufacturing expertise, we’ve set out to provide high quality and fairly priced health essentials -- but we’re not stopping there. Our mission is to build the world’s most human and earth centric healthcare company. We offer batch-level tested and quality certified products, and are creating an innovative platform to provide content and care beyond a pill; one that’s also focused on the elimination of pharmaceutical packaging and pill waste. We hope you will join us on this journey.
+
+Alongside cabinethealth.com , we retail with Amazon, Grove Collaborative, Walmart.com and national physical retail chains. Our investors are predominantly healthcare and consumer founders and operators, with institutional investment from SoGal Ventures, Global Impact Fund, and Techstars - all of whom prioritize societal and environmental impact alongside financial success. Our team has diverse experience in the top consumer startups and healthcare worlds. Cabinet Health’s headquarters are based in New York City but our team is set up to operate remotely (we meet quarterly in-person a team.)","<strong>Location: Remote First Team, EST Time Zone Preferred
+
+</strong><strong>About The Role
+
+</strong>As a Business Intelligence Analyst at Cabinet Health, you will manage and oversee business analytics projects and processes to provide data-driven insights related to performance in our business. Your work will advise and help develop strategies for operational improvements and future business initiatives. You will utilize internal data, KPI targets, industry trends, competitor intelligence, customer information to develop analytical tools, reports, and models across the organization to inform and support decision-making. You will consult with stakeholders to understand the business model, objectives, issues, and challenges that analytics can support, developing standards and collection processes to support robust analytics and reporting data procedures. You will report into our VP of Digital and Analytics and work closely with our Pharmacy and Retail teams.
+
+<strong><strong>What You’ll Do
+
+</strong></strong><ul><li> Build out weekly reporting for Rx scorecard reporting for operations </li><li> Build out series of ad-hoc projects to solve key business questions as they arise </li><li> Contribute spatial analysis to inform retail decisions (GIS / mapping to visualize data for retail customers) </li><li> Support our engineering team in the development of new data generation/capture initiatives, warehousing, and integrated application reporting (automated scorecards and dashboards.) </li><li> Identify and execute complex data projects, such as funnel analysis, churn modeling, and time series analysis </li><li> Engage with stakeholders across the business (Pharmacy, Retail, and Operations) to contribute an in-depth perspective on planning exercises 
+
+</li></ul><strong><strong>Who You Are
+
+</strong></strong><ul><li>4+ years experience and mastery of SQL (specifically PostgreSQL and Snowflake)</li><li>3+ years experience working with advanced time-series analysis models</li><li>3+ years experience working with unstructured and event data (JSON, etc.)</li><li>Comfortable profiling and optimizing SQL Queries</li><li>Experience with Geospatial analysis</li><li>Rigorous educational background in Mathematics, Statistics, Information Systems or similar program</li><li>Worked remotely before, or know that you'd work well with a remote team
+
+</li></ul><strong>Bonus Qualifications
+
+</strong><ul><li>Building ETL and ELT data warehousing pipelines</li><li>Comfort with Python for Data Science (e.g. NumPy, SciPy, Pandas, PyTorch)</li><li>Experience building and managing an organization’s data governance practice (standardizing data transformations, documenting analytic data models, working with CI/CD tools to verify data structures, etc.)</li><li>Experience in pharmacy, retail, and operations
+
+</li></ul><strong><strong>Your personal and professional values
+
+</strong></strong><ul><li>Highly motivated by Cabinet’s mission: to eliminate single-use plastic in medicine - making getting better, better through healthcare that is more sustainable, higher quality, and personal</li><li>Trustworthy: dependable, prepared, and authentic</li><li>Care-centric: care is at the center of everything we do, starting with care for ourselves, our team, and our communities. It goes beyond the medicines we sell.</li><li>Growth-minded, growth-driven: progress over perfection is key for our company, our team, and our own personal development. We are looking for someone who is equipped to both relish in obstacles and excel in growth momentum.</li><li>You are comfortable dealing with ambiguity and are extremely flexible and nimble, fluidly pivoting and responding to the evolving needs of the business</li><li>You have a naturally collaborative demeanor and you thrive in a dynamic, fast-paced and highly-fluid environment</li><li>You are highly analytical with the ability to turn quantitative data into insight and actionable process optimization</li><li>You are strongly motivated by results, and possess the ability to manage independently and take calculated risks</li><li>You are optimistic, passionate, and humble
+
+</li></ul><strong>Salary Range:</strong> $115,000-$165,000 depending on experience
+
+<strong><strong>Other perks
+
+</strong></strong><ul><li>Competitive Base Salary and Equity Package</li><li>Health, Dental, Vision Insurance (100% coverage of 'gold' tier plan for health, 50% coverage for dependents/spouses)</li><li>Flexible PTO Policy and generous holiday schedule</li><li>Cabinet 401(k), with 100% match up to 3% of salary</li><li>3 months paid parental leave program</li><li>Stipend towards cell phone/internet for work from home</li><li>Stipend towards home office set up</li><li>Company sponsored development and wellness programs (One Medical, Talkspace, Health Advocate, Kindbody Fertility)</li><li>Summer Fridays - company office hours are closed after 2pm on Fridays during period between Memorial to Labor Day
+
+</li></ul><strong>About Cabinet
+
+</strong>Cabinet began with a deep curiosity about how medicine was made and more importantly, how to improve it. Built on top of a supply chain with 3 generations of medicine manufacturing expertise, we’ve set out to provide high quality and fairly priced health essentials -- but we’re not stopping there. Our mission is to build the world’s most human and earth centric healthcare company. We offer batch-level tested and quality certified products, and are creating an innovative platform to provide content and care beyond a pill; one that’s also focused on the elimination of pharmaceutical packaging and pill waste. We hope you will join us on this journey.
+
+Alongside cabinethealth.com , we retail with Amazon, Grove Collaborative, Walmart.com and national physical retail chains. Our investors are predominantly healthcare and consumer founders and operators, with institutional investment from SoGal Ventures, Global Impact Fund, and Techstars - all of whom prioritize societal and environmental impact alongside financial success. Our team has diverse experience in the top consumer startups and healthcare worlds. Cabinet Health’s headquarters are based in New York City but our team is set up to operate remotely (we meet quarterly in-person a team.)","Cabinet Health · New York, NY (Remote)","https://www.linkedin.com/jobs/view/3850013665/","New York, New York, United States","8 of 10 skills match your profile - you may be a good fit","11-50 employees · Wellness and Fitness Services","LISTED","103154309","Cabinet Health","https://media.licdn.com/dms/image/C4E0BAQEJVGJ21JanAw/company-logo_400_400/0/1647018346291/cabinet_health_logo?e=1718841600&v=beta&t=MIJz-dNvf5CVLz5d3oP8PxdFVsL8iODNKJU9p7of4Fo","2024-03-08T00:13:38.000Z","2024-03-15T13:53:26.942Z"
+"Data Analyst","Title: Data Analyst Duration: Long Term Contract Location: Greenwood Village, CO (Hybrid Onsite) Pay: $50-$58/hour DOE 
+Our fortune 75 MSO client is in need of a data analyst to enable data-driven decision making and in-time health monitoring of WiFi and Mobile products by building and deploying product and feature specific analytics capabilities. You will support product teams with the complex design, development and implementation of automated reporting and dashboards. You will have the opportunity to build complex ad hoc reports and analytics. The end result will be robust analytics for measuring product health, usage and customer value. 
+QUALIFICATIONSDesign, develop, and implement complex reports and analyticsVery Strong SQLBe able to write and do code reviewsTableau experience preferred, some visualization required (Power BI, SSRS, etc.)Strong communication and collaboration • Ability to help others when needed instead of just delegating tasks 
+NICE TO HAVESLinuxShellGitHive/Hadoop 
+RESPONSIBILITIES/DAY TO DAYExpertly use analytical tools to provide insight and make recommendations • Interact with various stakeholders to understand their business needs, communicate project status and develop relationships to ensure satisfactionProvide ad-hoc analysis to address specific business questions from stakeholder groups • Perform code reviews with other developersCollaborate with other members of the team 
+TEAM INFORMATION This team is focused on analytics across a product portfolio dedicated to network management for devices connected to home WiFi. They are a team of 5 analysts dedicated to this project, and they are growing by 3 to support additional efforts on these product enhancements. 
+BENEFITS OF WORKING WITH BROOKSOURCE:Previous experience working with this client and placing both permanent employees and contractors.Direct communication with the hiring manager, which allows us to have a clear understanding of the timeline and move candidates through the interview process faster.Dedication to keep an open line of communication and provide full transparency. 
+Eight Eleven Group (Brooksource) provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local law","<p><strong>Title: Data Analyst </strong></p><p><strong>Duration: Long Term Contract </strong></p><p><strong>Location: Greenwood Village, CO (Hybrid Onsite) </strong></p><p><strong>Pay: $50-$58/hour DOE </strong></p><p>
+</p><p>Our fortune 75 MSO client is in need of a data analyst to enable data-driven decision making and in-time health monitoring of WiFi and Mobile products by building and deploying product and feature specific analytics capabilities. You will support product teams with the complex design, development and implementation of automated reporting and dashboards. You will have the opportunity to build complex ad hoc reports and analytics. The end result will be robust analytics for measuring product health, usage and customer value. </p><p>
+</p><p><strong>QUALIFICATIONS</strong></p><ul><li>Design, develop, and implement complex reports and analytics</li><li>Very Strong SQL</li><li>Be able to write and do code reviews</li><li>Tableau experience preferred, some visualization required (Power BI, SSRS, etc.)</li><li>Strong communication and collaboration • Ability to help others when needed instead of just delegating tasks </li></ul><p>
+</p><p><strong>NICE TO HAVES</strong></p><ul><li>Linux</li><li>Shell</li><li>Git</li><li>Hive/Hadoop </li></ul><p>
+</p><p><strong>RESPONSIBILITIES/DAY TO DAY</strong></p><ul><li>Expertly use analytical tools to provide insight and make recommendations • Interact with various stakeholders to understand their business needs, communicate project status and develop relationships to ensure satisfaction</li><li>Provide ad-hoc analysis to address specific business questions from stakeholder groups • Perform code reviews with other developers</li><li>Collaborate with other members of the team </li></ul><p>
+</p><p><strong>TEAM INFORMATION </strong></p><p>This team is focused on analytics across a product portfolio dedicated to network management for devices connected to home WiFi. They are a team of 5 analysts dedicated to this project, and they are growing by 3 to support additional efforts on these product enhancements. </p><p>
+</p><p><strong>BENEFITS OF WORKING WITH BROOKSOURCE:</strong></p><ul><li>Previous experience working with this client and placing both permanent employees and contractors.</li><li>Direct communication with the hiring manager, which allows us to have a clear understanding of the timeline and move candidates through the interview process faster.</li><li>Dedication to keep an open line of communication and provide full transparency. </li></ul><p>
+</p><p><i>Eight Eleven Group (Brooksource) provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local law</i></p>","Brooksource · Greenwood Village, CO (On-site)","https://www.linkedin.com/jobs/view/3849545918/","Greenwood Village, Colorado, United States","6 of 10 skills match your profile - you may be a good fit","1,001-5,000 employees · IT Services and IT Consulting
+1 school alum works here","LISTED","653385921","Brooksource","https://media.licdn.com/dms/image/C4D0BAQEpBYagiK3vWA/company-logo_400_400/0/1631310603865?e=1718841600&v=beta&t=GmrsUqYax-TGdgv9suGtbJH_tLs_D_8X_nFl-tZM_Zc","2024-03-08T17:45:00.000Z","2024-03-15T13:53:26.942Z"
+"Senior BI Analyst","About Sotheby's
+
+Established in 1744, Sotheby’s is the world’s premier destination for art and luxury. Synonymous with innovation, Sotheby’s promotes access, connoisseurship and preservation of fine art and rare objects through auctions, private sales and retail locations. Our trusted global marketplace is supported by a network of specialists spanning 40 countries and 50 categories, which include Contemporary Art, Modern and Impressionist Art, Old Masters, Chinese Works of Art, Jewelry, Watches, Wine and Spirits, and Interiors, among many others.
+
+THE ROLE 
+
+Sotheby's Data & Analytics team is seeking a hardworking and motivated candidate to accelerate our efforts to drive trust in and the usage of data to drive decision making across the company.
+
+Responsibilities
+
+Understand business requirements from various team members and plan a solution to address data requirementsCollect, refine, and prepare data for analytics and visualizationDevelop, design, and maintain Tableau dashboards and analyticsDefine new critical metrics and analyze them to form actionable recommendationsPresent to business leaders in both ad-hoc forums and routine business review to drive strategic decision making.Identify new data functionalities or enhancements needed to support better decision making and business growth.Tackle any data or performance issues related to workbooks and data sources
+
+Ideal Experience And Competencies
+
+Bachelor’s Degree3-5 years relevant work experience: SQL, conducting large scale data analyses to support business decision making, working with structured and unstructured data, joining large and complex data sets.3-5 years proven experience in all phases of the BI lifecycle in a Tableau environment including dashboard design, development, testing, implementation, and post-production support.Solid experience with data preparation for reporting (e.g., data profiling, data cleansing, volume assessment and partitioning) including ETL and data modeling (relational and dimensional)Ability to move between high level architectural review/design and the “roll up the sleeves” level of providing oversight and execution for project delivery.Proficient in Excel, SQL (DBT), and TableauExcellent verbal and written communication skills; professional and adaptable
+
+The proposed base salary for this position ranges from $115,000-$130,000. In addition to base salary successful candidates are eligible to receive a discretionary bonus, as well as a competitive benefits package. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, licensure or certifications obtained. Market and organizational factors are also considered.
+
+To view our Candidate Privacy Notice for the US, please click here .
+
+To view our Candidate Privacy Notice for the UK, Hong Kong, France and Switzerland, please click here .
+
+ The Company is an equal opportunity employer and considers all applicants for employment without regard to race (including, without limitation, traits historically associated with race, such as natural hair, hair texture, and protective and treated or untreated hairstyles), color, creed, religion, sex, sexual orientation, marital or civil partnership/union status, national origin, age, disability, pregnancy, genetic predisposition, genetic information, reproductive health decision, sexual orientation, gender identity or expression, alienage or citizenship status, domestic violence victim status, military or veteran status, or any other characteristic protected by federal, state/province or local law. The Company complies with applicable state and local laws prohibiting discrimination in employment in every jurisdiction in which it operates.","<strong>About Sotheby's
+
+</strong>Established in 1744, Sotheby’s is the world’s premier destination for art and luxury. Synonymous with innovation, Sotheby’s promotes access, connoisseurship and preservation of fine art and rare objects through auctions, private sales and retail locations. Our trusted global marketplace is supported by a network of specialists spanning 40 countries and 50 categories, which include Contemporary Art, Modern and Impressionist Art, Old Masters, Chinese Works of Art, Jewelry, Watches, Wine and Spirits, and Interiors, among many others.
+
+<strong>THE ROLE 
+
+</strong>Sotheby's Data & Analytics team is seeking a hardworking and motivated candidate to accelerate our efforts to drive trust in and the usage of data to drive decision making across the company.
+
+<strong>Responsibilities
+
+</strong><ul><li>Understand business requirements from various team members and plan a solution to address data requirements</li><li>Collect, refine, and prepare data for analytics and visualization</li><li>Develop, design, and maintain Tableau dashboards and analytics</li><li>Define new critical metrics and analyze them to form actionable recommendations</li><li>Present to business leaders in both ad-hoc forums and routine business review to drive strategic decision making.</li><li>Identify new data functionalities or enhancements needed to support better decision making and business growth.</li><li>Tackle any data or performance issues related to workbooks and data sources
+
+</li></ul><strong>Ideal Experience And Competencies
+
+</strong><ul><li>Bachelor’s Degree</li><li>3-5 years relevant work experience: SQL, conducting large scale data analyses to support business decision making, working with structured and unstructured data, joining large and complex data sets.</li><li>3-5 years proven experience in all phases of the BI lifecycle in a Tableau environment including dashboard design, development, testing, implementation, and post-production support.</li><li>Solid experience with data preparation for reporting (e.g., data profiling, data cleansing, volume assessment and partitioning) including ETL and data modeling (relational and dimensional)</li><li>Ability to move between high level architectural review/design and the “roll up the sleeves” level of providing oversight and execution for project delivery.</li><li>Proficient in Excel, SQL (DBT), and Tableau</li><li>Excellent verbal and written communication skills; professional and adaptable
+
+</li></ul>The proposed base salary for this position ranges from $115,000-$130,000. In addition to base salary successful candidates are eligible to receive a discretionary bonus, as well as a competitive benefits package. Salary offers are based on a wide range of factors including relevant skills, training, experience, education, and, where applicable, licensure or certifications obtained. Market and organizational factors are also considered.
+
+To view our <strong>Candidate Privacy Notice</strong> for the US, please <strong>click here</strong> <strong>.
+
+</strong>To view our <strong>Candidate Privacy Notice </strong>for the UK, Hong Kong, France and Switzerland, please <strong>click here</strong> <strong>.
+
+</strong><strong> The Company is an equal opportunity employer and considers all applicants for employment without regard to race (including, without limitation, traits historically associated with race, such as natural hair, hair texture, and protective and treated or untreated hairstyles), color, creed, religion, sex, sexual orientation, marital or civil partnership/union status, national origin, age, disability, pregnancy, genetic predisposition, genetic information, reproductive health decision, sexual orientation, gender identity or expression, alienage or citizenship status, domestic violence victim status, military or veteran status, or any other characteristic protected by federal, state/province or local law. The Company complies with applicable state and local laws prohibiting discrimination in employment in every jurisdiction in which it operates.</strong>","Sotheby's · New York, United States (On-site)","https://www.linkedin.com/jobs/view/3813673105/","New York, United States","Skills: Dashboards, Tableau, +8 more","1,001-5,000 employees · Artists and Writers
+8 school alumni work here","LISTED","52629572","Sotheby's","https://media.licdn.com/dms/image/C4D0BAQEzMCCDfF2kzA/company-logo_400_400/0/1630466964803/sothebys_logo?e=1718841600&v=beta&t=4PGiJL204sj255MyliXw4bMNRGAzaZTJO-yDhgfWyBI","2024-01-30T21:08:37.000Z","2024-03-15T13:53:26.942Z"
+"Quantitative Researcher","Senior Quantitative Researcher - Equity Statistical Arbitrage
+A market leading trading firm are seeking a highly skilled and experienced QR to join there top performing Equity Statistical Arbitrage desk. In this role, you will be responsible for constructing and managing the portfolio as well as conducting alpha research, identifying and evaluating potential alpha signals through rigorous data analysis and implementing backtested systematic strategies into production.
+Responsibilities:Design, and conduct alpha research to optimize and generate high performing equity statistical arbitrage strategies.Collaborate with the best academic minds in engineering as well as a specialised Machine Learning QR team to continually improve existing strategies and trading infrastructure.Manage risk effectively to optimize trading performance.Investigate and implement new trading products and strategies.Mentor junior traders and provide leadership in trading activities.
+Qualifications:Experience in systematic equities trading, preferably statistical arbitrage strategies.Bachelor's or Master's degree in a quantitative field such as Mathematics, Physics, Statistics, Computer Science, or related fields.A track record of successful alpha generation with a shape>2.Strong coding skills in languages such as Python, C++, or Java.
+A competitive compensation package, including base salary and PnL bonuses, is offered. You will have the opportunity to work with cutting-edge technology and collaborate with top academic minds in the field of quantitative trading.
+Please follow Algo Capital for the latest job updates: https://www.linkedin.com/company/algocapitalgroup","<p><undefined><i><strong>Senior Quantitative Researcher - Equity Statistical Arbitrage</undefined></i></strong></p><p>
+</p><p>A market leading trading firm are seeking a highly skilled and experienced QR to join there top performing Equity Statistical Arbitrage desk. In this role, you will be responsible for constructing and managing the portfolio as well as conducting alpha research, identifying and evaluating potential alpha signals through rigorous data analysis and implementing backtested systematic strategies into production.</p><p>
+</p><p>Responsibilities:</p><ul><li>Design, and conduct alpha research to optimize and generate high performing equity statistical arbitrage strategies.</li><li>Collaborate with the best academic minds in engineering as well as a specialised Machine Learning QR team to continually improve existing strategies and trading infrastructure.</li><li>Manage risk effectively to optimize trading performance.</li><li>Investigate and implement new trading products and strategies.</li><li>Mentor junior traders and provide leadership in trading activities.</li></ul><p>
+</p><p>Qualifications:</p><ul><li>Experience in systematic equities trading, preferably statistical arbitrage strategies.</li><li>Bachelor's or Master's degree in a quantitative field such as Mathematics, Physics, Statistics, Computer Science, or related fields.</li><li>A track record of successful alpha generation with a shape>2.</li><li>Strong coding skills in languages such as Python, C++, or Java.</li></ul><p>
+</p><p>A competitive compensation package, including base salary and PnL bonuses, is offered. You will have the opportunity to work with cutting-edge technology and collaborate with top academic minds in the field of quantitative trading.</p><p>
+</p><p>Please follow Algo Capital for the latest job updates: https://www.linkedin.com/company/algocapitalgroup</p>","Algo Capital Group · New York, United States (Hybrid)","https://www.linkedin.com/jobs/view/3849501866/","New York, United States","Skills: Machine Learning, Statistics, +8 more","11-50 employees · Staffing and Recruiting","LISTED","1064137765","Algo Capital Group","https://media.licdn.com/dms/image/C4E0BAQFSVfy9UWuUyA/company-logo_400_400/0/1637420284961/algocapitalgroup_logo?e=1718841600&v=beta&t=yO92VUey8n-BIcDl-B417Y6HdbLY_fqiXZnA0IZvcxY","2024-03-08T15:39:34.000Z","2024-03-15T13:53:26.942Z"
+"Business Intelligence Analyst","Scientific Games is seeking a Business Intelligence Analyst, this person must be located within a feasible commuting distance to Solon, as this is a hybrid position.
+Job Summary: The SGEP Insights Analyst will provide analytical support dedicated to the Scientific Games Enhanced Partnership (SGEP) team. This role represents a blend of analytical and business development tasks aligned with SGEP growth targets.The analyst will primarily be responsible for a number of regularly occurring analytical deliverables spanning a variety of topics. This role requires adept technical skills—primarily focused on Excel, SQL, and Tableau.This may include tasks such as coordinating forecasting for future business opportunities, evaluating demand drivers for new business opportunities or existing customers, and presenting analytical findings to customers.This role is uniquely positioned in expressing the story of “why SGEP?” as part of business development processes.We are seeking an organized, attentive candidate who is driven to execute and comfortable working with variable data sources and file types to create reporting.Much of the work will be routinized reporting making this a great entry into the data analytics profession.The successful candidate will exhibit an ability to generate insight from recurring reporting.
+Key Responsibilities
+Answer complex ad-hoc questions that arise from internal/external stakeholdersSupport critical reporting including data manipulation, report creation, and ongoing executionProduce and present high-impact analytical findings and insights to internal and external customers on an ongoing basisParticipate in business development tasks such as customer presentations and present in formal strategy session.Proactively generate insights based on regular evaluations of SGEP customersEvaluation of the business with known KPIs through regular reportingProvide regular reporting of industry trends and happenings to key stakeholdersUse Business Intelligence tools such as Tableau to create and distribute content for our many stakeholders.Ability to maintain and grow relationships with client-side data owners.
+Required Skills and Experience
+Critical thinker who can provide valuable business insights based on the analysis of multiple complex datasetsDeep experience with Excel is a must including pivot tables, lookup functions, etc.Must be highly organized, as this role requires concurrent work across multiple streamsWillingness to own detailed data validation and routine tasks associated with data projectsExperience creating reporting from multiple data sources and with multiple tools desired (Tableau, Microsoft Excel, and Microsoft PowerPoint).Capable of managing report communication and distribution to multiple stakeholder groups at various cadences.Mentality that aligns with continuous learning, improvement, and personal growth is desiredAdept technical skills and abilities—experience with SQL is required and must be self-sufficientStrong Tableau capabilities and background are highly desirable.Ability to independently research, identify appropriate methods, and solve problems a plus.Moderate travel is required for this role (10%).Must have attained at least a bachelor’s degree from an accredited University.2 to 5 years of experience in a similar role.
+EducationBachelor's Degree in a related field.
+Years of Related ExperienceYears of experience 2 to 5 years","<p>Scientific Games is seeking a Business Intelligence Analyst, this person must be located within a feasible commuting distance to Solon, as this is a hybrid position.</p><p>
+</p><p><strong>Job Summary:</strong></p><p><strong> </strong></p><ul><li>The SGEP Insights Analyst will provide analytical support dedicated to the Scientific Games Enhanced Partnership (SGEP) team. This role represents a blend of analytical and business development tasks aligned with SGEP growth targets.</li><li>The analyst will primarily be responsible for a number of regularly occurring analytical deliverables spanning a variety of topics. This role requires adept technical skills—primarily focused on Excel, SQL, and Tableau.</li><li>This may include tasks such as coordinating forecasting for future business opportunities, evaluating demand drivers for new business opportunities or existing customers, and presenting analytical findings to customers.</li><li>This role is uniquely positioned in expressing the story of “why SGEP?” as part of business development processes.</li><li>We are seeking an organized, attentive candidate who is driven to execute and comfortable working with variable data sources and file types to create reporting.</li><li>Much of the work will be routinized reporting making this a great entry into the data analytics profession.</li><li>The successful candidate will exhibit an ability to generate insight from recurring reporting.</li></ul><p>
+</p><p><strong>Key Responsibilities</strong></p><p>
+</p><ul><li>Answer complex ad-hoc questions that arise from internal/external stakeholders</li><li>Support critical reporting including data manipulation, report creation, and ongoing execution</li><li>Produce and present high-impact analytical findings and insights to internal and external customers on an ongoing basis</li><li>Participate in business development tasks such as customer presentations and present in formal strategy session.</li><li>Proactively generate insights based on regular evaluations of SGEP customers</li><li>Evaluation of the business with known KPIs through regular reporting</li><li>Provide regular reporting of industry trends and happenings to key stakeholders</li><li>Use Business Intelligence tools such as Tableau to create and distribute content for our many stakeholders.</li><li>Ability to maintain and grow relationships with client-side data owners.</li></ul><p>
+</p><p><strong>Required Skills and Experience</strong></p><p>
+</p><ul><li>Critical thinker who can provide valuable business insights based on the analysis of multiple complex datasets</li><li>Deep experience with Excel is a must including pivot tables, lookup functions, etc.</li><li>Must be highly organized, as this role requires concurrent work across multiple streams</li><li>Willingness to own detailed data validation and routine tasks associated with data projects</li><li>Experience creating reporting from multiple data sources and with multiple tools desired (Tableau, Microsoft Excel, and Microsoft PowerPoint).</li><li>Capable of managing report communication and distribution to multiple stakeholder groups at various cadences.</li><li>Mentality that aligns with continuous learning, improvement, and personal growth is desired</li><li>Adept technical skills and abilities—experience with SQL is required and must be self-sufficient</li><li>Strong Tableau capabilities and background are highly desirable.</li><li>Ability to independently research, identify appropriate methods, and solve problems a plus.</li><li>Moderate travel is required for this role (10%).</li><li>Must have attained at least a bachelor’s degree from an accredited University.</li><li>2 to 5 years of experience in a similar role.</li></ul><p>
+</p><p><strong>Education</strong></p><ul><li>Bachelor's Degree in a related field.</li></ul><p>
+</p><p><strong>Years of Related Experience</strong></p><ul><li>Years of experience 2 to 5 years</li></ul>","SCIENTIFIC GAMES · Solon, OH (On-site)","https://www.linkedin.com/jobs/view/3849917219/","Solon, Ohio, United States","Skills: Business Intelligence (BI), Microsoft Excel, +5 more","1,001-5,000 employees · IT Services and IT Consulting
+1 school alum works here","LISTED","443240433","SCIENTIFIC GAMES","https://media.licdn.com/dms/image/C4E0BAQEzbM2sQwuUvA/company-logo_400_400/0/1649426623466/scientific_games_lottery_logo?e=1718841600&v=beta&t=hyfGJ7hKffzkqB1i-JKMuTL8e9T42JbOEySFa9biqfU","2024-03-12T14:30:03.000Z","2024-03-15T13:53:26.942Z"
+"Senior Data Analyst","At Hy-Vee our people are our strength. We promise “a helpful smile in every aisle” and those smiles can only come from a workforce that is fully engaged and committed to supporting our customers and each other.
+Program Language RequirementsPythonRPower BIExcelSQL
+Primary Duties and ResponsibilitiesAdvanced understanding of Hy-Vee’s business and opportunities our industry is facingWorks closely with the business and management to gather requirements, identify critical metrics and KPIsAdvanced ability to transform data into readable, goal-driven insights for continued innovation and growthUnderstands, anticipates and influences how our work integrates with other teamsCollects, cleans, and transforms data for analysesIdentifies trends and opportunities for growth through analysis of complex datasets·Create and maintain best-practice reports and rich interactive visualizations based on data mining, interpretation, analysis, and the integrating of various components from multiple data sources.
+Knowledge, Skills, Abilities, and Worker CharacteristicsAdvanced data visualization skillsAdvanced analytics skills including data mining, evaluation, and analysis through the use of statistical packagesTechnical writing experience in presentations, queries, and reportsExperience with database and model designExperience using various data structures and common methods in data transformationExperience using GCP, Azure or other cloud tools and environmentsAbility to propose solutions before actively developing a feature or requestUnderstanding of data warehousing conceptsUnderstanding of tabular models and multidimensional cubes..Formulates options including assessing their relative merits and risks, and works to determine the best solution.Demonstrates an advanced understanding of the relevant data management and analytics tools and technologies for the area supported.Demonstrates an advanced understanding of data life cycle Management (DLCM)Acts as a resource to others on the existing data supporting a business area.Serves as a key resource to ensure the data is fit for purpose.Works independently and provides guidance within technical area, applying in-depth knowledge of multiple technologies and business processes, as appropriate.Understands architectural issues, and factors them into decisions and recommendations.Provides leadership in their area(s) of technical specialization.
+Experience and EducationBachelor’s degree in Business, Economics, Mathematics, Computer Science, Statistics, or related field is preferred.5+ years’ experience as a data analyst","<p>At Hy-Vee our people are our strength. We promise “a helpful smile in every aisle” and those smiles can only come from a workforce that is fully engaged and committed to supporting our customers and each other.</p><p>
+</p><p><undefined>Program Language Requirements</undefined></p><ul><li>Python</li><li>R</li><li>Power BI</li><li>Excel</li><li>SQL</li></ul><p>
+</p><p><undefined>Primary Duties and Responsibilities</undefined></p><ul><li>Advanced understanding of Hy-Vee’s business and opportunities our industry is facing</li><li>Works closely with the business and management to gather requirements, identify critical metrics and KPIs</li><li>Advanced ability to transform data into readable, goal-driven insights for continued innovation and growth</li><li>Understands, anticipates and influences how our work integrates with other teams</li><li>Collects, cleans, and transforms data for analyses</li><li>Identifies trends and opportunities for growth through analysis of complex datasets</li><li>·Create and maintain best-practice reports and rich interactive visualizations based on data mining, interpretation, analysis, and the integrating of various components from multiple data sources.</li></ul><p>
+</p><p><undefined>Knowledge, Skills, Abilities, and Worker Characteristics</undefined></p><ul><li>Advanced data visualization skills</li><li>Advanced analytics skills including data mining, evaluation, and analysis through the use of statistical packages</li><li>Technical writing experience in presentations, queries, and reports</li><li>Experience with database and model design</li><li>Experience using various data structures and common methods in data transformation</li><li>Experience using GCP, Azure or other cloud tools and environments</li><li>Ability to propose solutions before actively developing a feature or request</li><li>Understanding of data warehousing concepts</li><li>Understanding of tabular models and multidimensional cubes..</li><li>Formulates options including assessing their relative merits and risks, and works to determine the best solution.</li><li>Demonstrates an advanced understanding of the relevant data management and analytics tools and technologies for the area supported.</li><li>Demonstrates an advanced understanding of data life cycle Management (DLCM)</li><li>Acts as a resource to others on the existing data supporting a business area.</li><li>Serves as a key resource to ensure the data is fit for purpose.</li><li>Works independently and provides guidance within technical area, applying in-depth knowledge of multiple technologies and business processes, as appropriate.</li><li>Understands architectural issues, and factors them into decisions and recommendations.</li><li>Provides leadership in their area(s) of technical specialization.</li></ul><p>
+</p><p><undefined>Experience and Education</undefined></p><ul><li>Bachelor’s degree in Business, Economics, Mathematics, Computer Science, Statistics, or related field is preferred.</li><li>5+ years’ experience as a data analyst</li></ul>","Hy-Vee, Inc. · Grimes, IA (On-site)","https://www.linkedin.com/jobs/view/3852300711/","Grimes, Iowa, United States","Skills: SQL, Data Visualization, +5 more","10,001+ employees · Retail
+1 school alum works here","LISTED","370891007","Hy-Vee, Inc.","https://media.licdn.com/dms/image/C4D0BAQEILGU2ryppLQ/company-logo_400_400/0/1630486340454?e=1718841600&v=beta&t=_l3QMkYWHTEAb8PWrjIy1xDAMdGQ85s8ktb3jCu-5so","2024-03-13T15:18:21.000Z","2024-03-15T13:53:26.942Z"
+"Data Analyst, News Analytics, Insights & Training","Application Instructions
+
+Please list all professional experience and explain any gaps in employment history. All of your application materials, which may include PDF files of work samples and/or links to audio, video, photography or graphics, must be uploaded to the field labeled Resume/Cover Letter/Work Samples to be considered for the position.
+
+Job Description
+
+The Washington Post is seeking a data analyst with proven experience in journalism or digital media for the expansion of a team dedicated to providing the newsroom with meaningful, data-based insights and training. Understanding audience behavior, trends and desires and translating them into actionable strategies that can be implemented across all The Post’s newsroom teams will be integral to our goal of expanding the reach and impact of our journalism.
+
+As part of the News Analytics, Insights & Training team, you will be responsible for parsing data and establishing insightful takeaways that editors and reporters can use to better understand the needs of audiences as we continue to push The Post’s world-class journalism into a variety of formats. Ideal candidates for this position will have a passion for uncovering trends and insights from data, understanding audience behavior, following the latest trends and experiments in the industry, and creating replicable workflows to scale analysis and our team’s impact. They will be thoughtful about the large and small strategies that can be implemented to improve our audience’s experience of Post journalism while maintaining a deep commitment to our public service mission.
+
+Responsibilities: 
+
+Support key strategic analyses on audience behavior and trends for the newsroomDesign reports, dashboards and data workflows that support the daily analytics needs of audience and curation editorsAnswer ad hoc questions about how The Post’s journalism reaches and engages audiencesPartner with colleagues in the data, analytics and product teams to design data tools that scale to the needs of The Post’s newsroomSupport editors by conducting regular deep dives on coverage reach and engagement
+
+Minimum qualifications: 
+
+3+ years of experience in website analyticsProven expertise and deep experience with Google Analytics (or similar) and data analysis using Google Sheets or ExcelExperience building user-friendly reports and dashboards using tools like Tableau, Looker Studio or similarSkills in visualizing data, drawing conclusions and explaining them to a non-technical audienceGood understanding of basic web technology and HTMLAbility to work independently with minimal day-to-day supervision as well as in a collaborative team environment
+
+Preferred qualifications:
+
+Experience fetching and analyzing data using tools such as SQL, Python, R and/or analytics APIsExperience working in a newsroom with a variety of stakeholders including editors, reporters and senior leadersStrong analysis and experimental design skills with a keen sense for data gaps and inconsistenciesStrong written and verbal communication skills, particularly the ability to develop narratives around findings and adjust delivery for different audiencesSelf-starter with the ability to work in a constantly changing environment
+
+We will consider strong candidates who do not meet all the qualifications above. This position is based in our Washington newsroom.
+
+Candidates should upload a résumé to our jobs portal and may include a cover letter to tell us about other skills and experience that you think would be valuable for this role. Applications will be reviewed on a rolling basis until the position is filled, but those received by Mar. 1 will be prioritized. The cover letter should be addressed to Lizzy Raben, Team Lead for News Analytics, Insights & Training and Christina Macholan, Deputy Head of Audience Strategy.
+
+Wherever you are in your life or career, The Washington Post offers comprehensive and inclusive benefits for every step of your journey:
+
+Competitive medical, dental and vision coverageCompany-paid pension and 401(k) matchThree weeks of vacation and up to three weeks of paid sick leaveNine paid holidays and two personal days20 weeks paid parental leave for any new parentRobust mental health resourcesBackup care and caregiver concierge servicesGender affirming servicesPet insuranceFree Post digital subscriptionLeadership and career development programs
+
+Benefits may vary based on the job, full-time or part-time schedule, location, and collectively bargained status.
+
+The Post strives to provide its readers with high-quality, trustworthy news and information while constantly innovating. That mission is best served by a diverse, multi-generational workforce with varied life experiences and perspectives. All cultures and backgrounds are welcomed. 
+
+Ever wondered if what you are doing will Impact Tomorrow? At The Washington Post, every employee shapes the way we deliver the news. Find the career that’s right for you
+
+#washpostlife","<strong>Application Instructions
+
+</strong>Please list all professional experience and explain any gaps in employment history. <strong>All of your application materials, which may include PDF files of work samples and/or links to audio, video, photography or graphics, must be uploaded to the field labeled </strong><strong>Resume/Cover Letter/Work Samples</strong> <strong>to be considered for the position.
+
+</strong><strong>Job Description
+
+</strong>The Washington Post is seeking a data analyst with proven experience in journalism or digital media for the expansion of a team dedicated to providing the newsroom with meaningful, data-based insights and training. Understanding audience behavior, trends and desires and translating them into actionable strategies that can be implemented across all The Post’s newsroom teams will be integral to our goal of expanding the reach and impact of our journalism.
+
+As part of the News Analytics, Insights & Training team, you will be responsible for parsing data and establishing insightful takeaways that editors and reporters can use to better understand the needs of audiences as we continue to push The Post’s world-class journalism into a variety of formats. Ideal candidates for this position will have a passion for uncovering trends and insights from data, understanding audience behavior, following the latest trends and experiments in the industry, and creating replicable workflows to scale analysis and our team’s impact. They will be thoughtful about the large and small strategies that can be implemented to improve our audience’s experience of Post journalism while maintaining a deep commitment to our public service mission.
+
+<strong>Responsibilities: 
+
+</strong><ul><li>Support key strategic analyses on audience behavior and trends for the newsroom</li><li>Design reports, dashboards and data workflows that support the daily analytics needs of audience and curation editors</li><li>Answer ad hoc questions about how The Post’s journalism reaches and engages audiences</li><li>Partner with colleagues in the data, analytics and product teams to design data tools that scale to the needs of The Post’s newsroom</li><li>Support editors by conducting regular deep dives on coverage reach and engagement
+
+</li></ul><strong>Minimum qualifications: 
+
+</strong><ul><li>3+ years of experience in website analytics</li><li>Proven expertise and deep experience with Google Analytics (or similar) and data analysis using Google Sheets or Excel</li><li>Experience building user-friendly reports and dashboards using tools like Tableau, Looker Studio or similar</li><li>Skills in visualizing data, drawing conclusions and explaining them to a non-technical audience</li><li>Good understanding of basic web technology and HTML</li><li>Ability to work independently with minimal day-to-day supervision as well as in a collaborative team environment
+
+</li></ul><strong>Preferred qualifications:
+
+</strong><ul><li>Experience fetching and analyzing data using tools such as SQL, Python, R and/or analytics APIs</li><li>Experience working in a newsroom with a variety of stakeholders including editors, reporters and senior leaders</li><li>Strong analysis and experimental design skills with a keen sense for data gaps and inconsistencies</li><li>Strong written and verbal communication skills, particularly the ability to develop narratives around findings and adjust delivery for different audiences</li><li>Self-starter with the ability to work in a constantly changing environment
+
+</li></ul>We will consider strong candidates who do not meet all the qualifications above. This position is based in our Washington newsroom.
+
+Candidates should upload a résumé to our jobs portal and may include a cover letter to tell us about other skills and experience that you think would be valuable for this role. Applications will be reviewed on a rolling basis until the position is filled, but those received by Mar. 1 will be prioritized. The cover letter should be addressed to Lizzy Raben, Team Lead for News Analytics, Insights & Training and Christina Macholan, Deputy Head of Audience Strategy.
+
+Wherever you are in your life or career, The Washington Post offers comprehensive and inclusive benefits for every step of your journey:
+
+<ul><li>Competitive medical, dental and vision coverage</li><li>Company-paid pension and 401(k) match</li><li>Three weeks of vacation and up to three weeks of paid sick leave</li><li>Nine paid holidays and two personal days</li><li>20 weeks paid parental leave for any new parent</li><li>Robust mental health resources</li><li>Backup care and caregiver concierge services</li><li>Gender affirming services</li><li>Pet insurance</li><li>Free Post digital subscription</li><li>Leadership and career development programs
+
+</li></ul>Benefits may vary based on the job, full-time or part-time schedule, location, and collectively bargained status.
+
+<strong>The Post strives to provide its readers with high-quality, trustworthy news and information while constantly innovating. That mission is best served by a diverse, multi-generational workforce with varied life experiences and perspectives. All cultures and backgrounds are welcomed. 
+
+</strong>Ever wondered if what you are doing will <strong>Impact Tomorrow</strong>? At <strong>The Washington Post</strong>, every employee shapes the way we deliver the news. Find the career that’s right for you
+
+<i>#washpostlife</i>","The Washington Post · Washington, DC (On-site)","https://www.linkedin.com/jobs/view/3834741394/","Washington, District of Columbia, United States","6 of 10 skills match your profile - you may be a good fit","1,001-5,000 employees · Newspaper Publishing
+9 school alumni work here","LISTED","113449432","The Washington Post","https://media.licdn.com/dms/image/C4E0BAQHIAe2TVGy_0w/company-logo_400_400/0/1630608589327/the_washington_post_logo?e=1718841600&v=beta&t=BvKoEBba3RBrkK4cQWXiw-suKCqcjFWhqBE7_VsMv_4","2024-02-20T22:29:12.000Z","2024-03-15T13:53:26.942Z"
+"Data Analyst (Cat Digital)","Career Area
+
+Business Technologies, Digital and Data
+
+Job Description
+
+ Your Work Shapes the World at Caterpillar Inc. 
+
+When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+
+Cat Digital is the digital and technology arm of Caterpillar Inc., leveraging the latest technologies to build industry leading digital solutions for our customers and dealers. With over 1.5 million connected assets worldwide, our teams use data, technology, advanced analytics, telematics and AI capabilities to help our customers build a better, more sustainable world.
+
+Job Summary
+
+Join the team that is leads the continuous improvement of data quality for our enterprise platform.
+
+What You Will Do
+
+ Performs data analysis and visualization to answer business questions.  Applies relevant digital technologies in processing both the inputs and outputs from the models.  Develops and deploys statistical models.  Receives direction from a project or team lead who might review both methods and results.  Works independently on moderately complex analytics problems.  Makes decisions on routine, limited risk issues that may affect the project team, or internal customers.  Considers alternative courses of actions and makes timely decisions.  Collaborates with engineering, architecture, and business organizations.  Communicates analysis results effectively to wide range of audiences with different backgrounds.  Builds basic knowledge of Caterpillar Inc., and its products and services.  Meets challenges deadlines and delivers results.  Demonstrates above average planning and organization, teamwork, and decision-making skills as well as a strong concern for customers.  Understands and complies with the company’s processes, products, and organization. 
+
+What You Will Have
+
+ Effective Communications: Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors.  Business Data Analysis: Knowledge of business data analysis; ability to collect, identify, analyze and interpret business data using various kinds of techniques to meet business needs and requirements.  Requirements Analysis: Knowledge of tools, methods, and techniques of requirement analysis; ability to elicit, analyze and record required business functionality and non-functionality requirements to ensure the success of a system or software development project. 
+
+Consideration For Top Candidates
+
+ Extensive experience in predictive analytics  Proficient programing in Python and SQL  Ability to develop internal and customer facing dashboards in Tableau or PowerBI.  Experience visualizing data using BI software such as MS Power BI, Tableau a plus 
+
+What You Will Get
+
+Working with a Fortune 100 leader, you can build your career on a global scale and take advantage of development opportunities with emerging technologies. We’ve created an inclusive environment for you to explore your passions, make an impact and do the work that really matters. Join Us.
+
+About Caterpillar
+
+Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.
+
+ Additional Details: (Optional) 
+
+This position has the option to be based out of either our Chicago, IL or Peoria, IL
+
+Visa sponsorship available for eligible applicants.
+
+Posting Dates
+
+March 12, 2024 - March 24, 2024
+
+Any offer of employment is conditioned upon the successful completion of a drug screen.
+
+EEO/AA Employer. All qualified individuals - Including minorities, females, veterans and individuals with disabilities - are encouraged to apply.
+
+Not ready to apply? Join our Talent Community .","<strong>Career Area
+
+</strong>Business Technologies, Digital and Data
+
+<strong>Job Description
+
+</strong><strong> Your Work Shapes the World at Caterpillar Inc. 
+
+</strong>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+
+Cat Digital is the digital and technology arm of Caterpillar Inc., leveraging the latest technologies to build industry leading digital solutions for our customers and dealers. With over 1.5 million connected assets worldwide, our teams use data, technology, advanced analytics, telematics and AI capabilities to help our customers build a better, more sustainable world.
+
+<strong>Job Summary
+
+</strong>Join the team that is leads the continuous improvement of data quality for our enterprise platform.
+
+<strong>What You Will Do
+
+</strong><ul><li> Performs data analysis and visualization to answer business questions. </li><li> Applies relevant digital technologies in processing both the inputs and outputs from the models. </li><li> Develops and deploys statistical models. </li><li> Receives direction from a project or team lead who might review both methods and results. </li><li> Works independently on moderately complex analytics problems. </li><li> Makes decisions on routine, limited risk issues that may affect the project team, or internal customers. </li><li> Considers alternative courses of actions and makes timely decisions. </li><li> Collaborates with engineering, architecture, and business organizations. </li><li> Communicates analysis results effectively to wide range of audiences with different backgrounds. </li><li> Builds basic knowledge of Caterpillar Inc., and its products and services. </li><li> Meets challenges deadlines and delivers results. </li><li> Demonstrates above average planning and organization, teamwork, and decision-making skills as well as a strong concern for customers. </li><li> Understands and complies with the company’s processes, products, and organization. 
+
+</li></ul><strong>What You Will Have
+
+</strong><ul><li> Effective Communications: Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors. </li><li> Business Data Analysis: Knowledge of business data analysis; ability to collect, identify, analyze and interpret business data using various kinds of techniques to meet business needs and requirements. </li><li> Requirements Analysis: Knowledge of tools, methods, and techniques of requirement analysis; ability to elicit, analyze and record required business functionality and non-functionality requirements to ensure the success of a system or software development project. 
+
+</li></ul><strong>Consideration For Top Candidates
+
+</strong><ul><li> Extensive experience in predictive analytics </li><li> Proficient programing in Python and SQL </li><li> Ability to develop internal and customer facing dashboards in Tableau or PowerBI. </li><li> Experience visualizing data using BI software such as MS Power BI, Tableau a plus 
+
+</li></ul><strong>What You Will Get
+
+</strong>Working with a Fortune 100 leader, you can build your career on a global scale and take advantage of development opportunities with emerging technologies. We’ve created an inclusive environment for you to explore your passions, make an impact and do the work that really matters. Join Us.
+
+<strong>About Caterpillar
+
+</strong>Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.
+
+<strong> Additional Details: (Optional) 
+
+</strong>This position has the option to be based out of either our Chicago, IL or Peoria, IL
+
+Visa sponsorship available for eligible applicants.
+
+<strong>Posting Dates
+
+</strong>March 12, 2024 - March 24, 2024
+
+Any offer of employment is conditioned upon the successful completion of a drug screen.
+
+EEO/AA Employer. All qualified individuals - Including minorities, females, veterans and individuals with disabilities - are encouraged to apply.
+
+Not ready to apply? Join our Talent Community .","Caterpillar Inc. · Chicago, IL","https://www.linkedin.com/jobs/view/3854806909/","Chicago, Illinois, United States","6 of 10 skills match your profile - you may be a good fit","10,001+ employees · Machinery Manufacturing
+9 school alumni work here","LISTED","10573374","Caterpillar Inc.","https://media.licdn.com/dms/image/D560BAQG5bofxzT4nIw/company-logo_400_400/0/1666113238735/caterpillar_inc_logo?e=1718841600&v=beta&t=KtNsHW4qvQn-UXUsU9-cXRDojtgT5NXr6kIkaY3Qc1Q","2024-03-12T20:57:35.000Z","2024-03-15T13:53:26.942Z"
+"Business Intelligence Analyst II","$120,200.00-$192,300.00
+
+Company Overview
+
+The people of Memorial Sloan Kettering Cancer Center (MSK) are united by a singular mission: ending cancer for life. Our specialized care teams provide personalized, compassionate, expert care to patients of all ages. Informed by basic research done at our Sloan Kettering Institute, scientists across MSK collaborate to conduct innovative translational and clinical research that is driving a revolution in our understanding of cancer as a disease and improving the ability to prevent, diagnose, and treat it. MSK is dedicated to training the next generation of scientists and clinicians, who go on to pursue our mission at MSK and around the globe.
+
+ Please review important announcements about vaccination requirements and our upcoming EHR implementation by clicking here . 
+
+ Important Note for MSK Employees: 
+
+Your Career Hub profile is submitted to the hiring team as your internal resume. Please be sure your profile is fully complete with your skills, relevant experience and education (if required). Click here to learn more. Please note, this link is only accessible for MSK employees.
+
+Job Description
+
+Do you want to lead projects that directly impact patient care and operational efficiency? We need you! We are seeking a Data Scientist/Business Intelligence Analyst who has strong technical skills, is adept at applying them to real-world problems, and is comfortable communicating complex topics to non-technical audiences. By leveraging your analytical and communication skills, you will partner with senior hospital leadership to understand and optimize operations across MSK’s clinical enterprise. By helping MSK leadership better serve our patients and employees, you will contribute to our legacy of innovation with lasting impact and help us achieve our mission of ending cancer for life.
+
+You will:
+
+ Serve as a critical thought partner to senior leadership in Hospital Administration.  Translate ambiguous business problems into a structured set of questions that can be answered analytically.  Develop metrics, analyses, and tools that shed light on our operations and facilitate smooth coordination across different groups.  Effectively communicate your findings with your business partners; collaboratively identify key opportunities, and translate those into a clear, actionable data strategy.  Manage analytical projects from ""question to answer"", including problem framing, data collection and validation, exploratory analysis, statistical modeling, visualization, synthesis, and ongoing maintenance of reusable tools 
+
+Sample Projects:
+
+ We want to find ways to reduce wait times for patients in our outpatient facilities. How can we use data to identify bottlenecks and pain points in our outpatient operations? What data driven improvements can we identify? How do we know if our interventions are working?  We need to supply our providers with all of the resources they need to give our patients the best care possible without generating unnecessary overheard. Based on our patient volumes, how much office support should we supply to our different providers and locations? 
+
+You have:
+
+ 4-7 years of experience using analytics and data science to impact key business decisions  Deep comfort working in relational database and SQL  Proficiency using R (preferred) or Python to create reproducible data analyses  The ability to develop production grade dashboards using Tableau, Shiny, Power BI etc.  Excellent written and verbal communication skills  The ability to choose the right technical approach for a question (from a statistical model to a dashboard and everything in between) and know that the simplest solution is often the best  Curiosity, self motivation, and a strong desire to use your technical skills to help improve experiences and outcomes for MSK Patients and staff. 
+
+2 days a week onsite. Location 633 Third Avenue. NY
+
+Are you ready to learn more about our  Benefits? 
+
+Pay Range: $120,200.00-$192,300.00
+
+Please click to learn more about MSK’s compensation philosophy.
+
+ Closing 
+
+MSK is an equal opportunity and affirmative action employer committed to diversity and inclusion in all aspects of recruiting and employment. All qualified individuals are encouraged to apply and will receive consideration without regard to race, color, gender, gender identity or expression, sexual orientation, national origin, age, religion, creed, disability, veteran status or any other factor which cannot lawfully be used as a basis for an employment decision.
+
+Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+
+","$120,200.00-$192,300.00
+
+<strong>Company Overview
+
+</strong>The people of Memorial Sloan Kettering Cancer Center (MSK) are united by a singular mission: ending cancer for life. Our specialized care teams provide personalized, compassionate, expert care to patients of all ages. Informed by basic research done at our Sloan Kettering Institute, scientists across MSK collaborate to conduct innovative translational and clinical research that is driving a revolution in our understanding of cancer as a disease and improving the ability to prevent, diagnose, and treat it. MSK is dedicated to training the next generation of scientists and clinicians, who go on to pursue our mission at MSK and around the globe.
+
+<strong> Please review important announcements about vaccination requirements and our upcoming EHR implementation by clicking here . 
+
+</strong><strong> Important Note for MSK Employees: 
+
+</strong>Your Career Hub profile is submitted to the hiring team as your internal resume. Please be sure your profile is fully complete with your skills, relevant experience and education (if required). Click here to learn more. Please note, this link is only accessible for MSK employees.
+
+<strong>Job Description
+
+</strong>Do you want to lead projects that directly impact patient care and operational efficiency? We need you! We are seeking a Data Scientist/Business Intelligence Analyst who has strong technical skills, is adept at applying them to real-world problems, and is comfortable communicating complex topics to non-technical audiences. By leveraging your analytical and communication skills, you will partner with senior hospital leadership to understand and optimize operations across MSK’s clinical enterprise. By helping MSK leadership better serve our patients and employees, you will contribute to our legacy of innovation with lasting impact and help us achieve our mission of ending cancer for life.
+
+<strong>You will:
+
+</strong><ul><li> Serve as a critical thought partner to senior leadership in Hospital Administration. </li><li> Translate ambiguous business problems into a structured set of questions that can be answered analytically. </li><li> Develop metrics, analyses, and tools that shed light on our operations and facilitate smooth coordination across different groups. </li><li> Effectively communicate your findings with your business partners; collaboratively identify key opportunities, and translate those into a clear, actionable data strategy. </li><li> Manage analytical projects from ""question to answer"", including problem framing, data collection and validation, exploratory analysis, statistical modeling, visualization, synthesis, and ongoing maintenance of reusable tools 
+
+</li></ul><strong>Sample Projects:
+
+</strong><ul><li> We want to find ways to reduce wait times for patients in our outpatient facilities. How can we use data to identify bottlenecks and pain points in our outpatient operations? What data driven improvements can we identify? How do we know if our interventions are working? </li><li> We need to supply our providers with all of the resources they need to give our patients the best care possible without generating unnecessary overheard. Based on our patient volumes, how much office support should we supply to our different providers and locations? 
+
+</li></ul><strong>You have:
+
+</strong><ul><li> 4-7 years of experience using analytics and data science to impact key business decisions </li><li> Deep comfort working in relational database and SQL </li><li> Proficiency using R (preferred) or Python to create reproducible data analyses </li><li> The ability to develop production grade dashboards using Tableau, Shiny, Power BI etc. </li><li> Excellent written and verbal communication skills </li><li> The ability to choose the right technical approach for a question (from a statistical model to a dashboard and everything in between) and know that the simplest solution is often the best </li><li> Curiosity, self motivation, and a strong desire to use your technical skills to help improve experiences and outcomes for MSK Patients and staff. 
+
+</li></ul>2 days a week onsite. Location 633 Third Avenue. NY
+
+<strong>Are you ready to learn more about our</strong> <strong> Benefits? 
+
+</strong><strong>Pay Range: </strong>$120,200.00-$192,300.00
+
+Please click to learn more about MSK’s compensation philosophy.
+
+<strong> Closing 
+
+</strong>MSK is an equal opportunity and affirmative action employer committed to diversity and inclusion in all aspects of recruiting and employment. All qualified individuals are encouraged to apply and will receive consideration without regard to race, color, gender, gender identity or expression, sexual orientation, national origin, age, religion, creed, disability, veteran status or any other factor which cannot lawfully be used as a basis for an employment decision.
+
+Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
+
+","Memorial Sloan Kettering Cancer Center · New York, NY (Hybrid)","https://www.linkedin.com/jobs/view/3852977122/","New York, New York, United States","6 of 10 skills match your profile - you may be a good fit","10,001+ employees · Hospitals and Health Care
+55 school alumni work here","LISTED","105537993","Memorial Sloan Kettering Cancer Center","https://media.licdn.com/dms/image/D4E0BAQE7NfDXV6q8Lw/company-logo_400_400/0/1689020822741/memorial_sloan_kettering_cancer_center_logo?e=1718841600&v=beta&t=n_ot-b74Du2CU85akfmD6t4N4n5mCdHWKNiXLyKZp0A","2024-03-11T15:04:39.000Z","2024-03-15T13:53:26.942Z"
+"Sr. Data and Insights Analyst","Hey there, we’re Down Home, a new media and entertainment company founded by Tim McGraw and based in Nashville, Tenn. Tim founded Down Home because he recognized that people want more of the type of storytelling you hear in country music. It’s about real life, community, belonging— a focus on the things that matter. We’re creating TV shows, movies, experiences, and products that capture that “Down Home” feeling. And we’re looking for a social media and pop-culture savvy analyst to join our team. 
+Our partners in Down Home are the Hollywood studio Skydance Entertainment (Top Gun, Mission Impossible, Jack Ryan) and the LA-based brand consultancy Shareability. As a Down Home analyst, you’ll be working hand-in-hand with Shareability, which leverages the power of social media and influencers to help our brand — as well as clients like Google, YouTube, and Mars — to reach, engage, and activate key audiences. 
+This role will be designing analytics across various disciplines and performing marketplace research, resulting in actionable recommendations ranging from social strategy, user behavior trends, brand partnership support, and campaign optimization. Working at Down Home requires a rich and nuanced understanding of the middle American audience; a passion for country culture and country music is a plus. 
+The ideal candidate is a naturally curious person and a strong storyteller. For the analyst, BI is not just a series of reports and dashboards— you strive to provide a thoughtful analysis along with a visually impactful report. We value someone with the ability to take direction and understand the task at hand while applying their own creative solutions to deliver a final product. The ideal candidate has strong attention to detail and takes pride in the quality of their work. As a new organization, we’re looking for a self-starter who can support building the foundation while completing deliverables on quick timelines. 
+The ideal candidate... 
+Will... ● Conduct deep social listening analysis and surface key findings on the target audience ● Act as a resource and thought partner to strategists, specific to Down Home projects and/or clients, collaborating on deck slides, analysis summaries, and other presentation needs ● Partner with the Head of Data to establish the data foundation and infrastructure, including a centralized data store and automation of regular reporting needs ● Identify trends, find patterns, flag anomalies, and effectively communicate findings with team members and key stakeholders ● Conduct primary research, including IDIs, stakeholder interviews, and survey studies ● Support the Down Home brand partnerships and sales team with important audience insights ● Manage and fulfill requests for ad-hoc reporting ● Explore new datasets and conduct marketplace research ● Stay up-to-date on the latest technologies and trends in digital and social analytics and data collection Is... ● Able to present data to key stakeholders in a confident and effective manner that draws insights and leads to actionable recommendations ● Detail-oriented and extremely well-organized with strong time-management skills ● A self-starter and has the ability to multitask and pivot quickly in a fast-paced, deadline-driven environment, especially when there are multiple projects and deliverables ● An organized and professional analyst who works well in a group setting and collaboratively across departments can also thrive with independent assignments ● Comfortable with SQL queries and raw datasets 
+Has... ● A Bachelor’s degree (preferably in a business or quantitative field) and 5+ years of relevant professional experience ● Deep understanding of social platforms, including YouTube, TikTok, Instagram, Twitter and beyond ● Experience in a fast-paced digital and/or entertainment environment is a plus ● Strong Excel skills and the ability to manage and analyze large sets of data ● Strong social analytics skills and analysis experience ● 4+ years experience with SQL (BigQuery, Redshift, Snowflake, etc) ● Excellent interpersonal, verbal, and written communication skills both internally and with outside clients ● Experience with survey studies, primary research, and IDIs ● Experience with Social Listening (Infegy, BrandWatch, Talkwalker, or others) 
+** The salary range is $125k annually to $160k annually. Starting salary will vary based on criteria such as location, experience, and qualifications. 
+EQUAL EMPLOYMENT OPPORTUNITYShareability and Down Home strongly support equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, national origin, ancestry, citizenship, age, marital status, disability, medical condition, sexual orientation, or any other characteristic protected by state or federal law. ","<p>Hey there, we’re Down Home, a new media and entertainment company founded by Tim McGraw and based in Nashville, Tenn. Tim founded Down Home because he recognized that people want more of the type of storytelling you hear in country music. It’s about real life, community, belonging— a focus on the things that matter. We’re creating TV shows, movies, experiences, and products that capture that “Down Home” feeling. And we’re looking for a social media and pop-culture savvy analyst to join our team. </p><p>
+</p><p>Our partners in Down Home are the Hollywood studio Skydance Entertainment (Top Gun, Mission Impossible, Jack Ryan) and the LA-based brand consultancy Shareability. As a Down Home analyst, you’ll be working hand-in-hand with Shareability, which leverages the power of social media and influencers to help our brand — as well as clients like Google, YouTube, and Mars — to reach, engage, and activate key audiences. </p><p>
+</p><p>This role will be designing analytics across various disciplines and performing marketplace research, resulting in actionable recommendations ranging from social strategy, user behavior trends, brand partnership support, and campaign optimization. Working at Down Home requires a rich and nuanced understanding of the middle American audience; a passion for country culture and country music is a plus. </p><p>
+</p><p>The ideal candidate is a naturally curious person and a strong storyteller. For the analyst, BI is not just a series of reports and dashboards— you strive to provide a thoughtful analysis along with a visually impactful report. </p><p>We value someone with the ability to take direction and understand the task at hand while applying their own creative solutions to deliver a final product. The ideal candidate has strong attention to detail and takes pride in the quality of their work. As a new organization, we’re looking for a self-starter who can support building the foundation while completing deliverables on quick timelines. </p><p>
+</p><p>The ideal candidate... </p><p>
+</p><p>Will... </p><p>● Conduct deep social listening analysis and surface key findings on the target audience </p><p>● Act as a resource and thought partner to strategists, specific to Down Home projects and/or clients, collaborating on deck slides, analysis summaries, and other presentation needs </p><p>● Partner with the Head of Data to establish the data foundation and infrastructure, including a centralized data store and automation of regular reporting needs </p><p>● Identify trends, find patterns, flag anomalies, and effectively communicate findings with team members and key stakeholders </p><p>● Conduct primary research, including IDIs, stakeholder interviews, and survey studies </p><p>● Support the Down Home brand partnerships and sales team with important audience insights </p><p>● Manage and fulfill requests for ad-hoc reporting </p><p>● Explore new datasets and conduct marketplace research </p><p>● Stay up-to-date on the latest technologies and trends in digital and social analytics and data collection Is... </p><p>● Able to present data to key stakeholders in a confident and effective manner that draws insights and leads to actionable recommendations </p><p>● Detail-oriented and extremely well-organized with strong time-management skills </p><p>● A self-starter and has the ability to multitask and pivot quickly in a fast-paced, deadline-driven environment, especially when there are multiple projects and deliverables </p><p>● An organized and professional analyst who works well in a group setting and collaboratively across departments can also thrive with independent assignments </p><p>● Comfortable with SQL queries and raw datasets </p><p>
+</p><p>Has... </p><p>● A Bachelor’s degree (preferably in a business or quantitative field) and 5+ years of relevant professional experience </p><p>● Deep understanding of social platforms, including YouTube, TikTok, Instagram, Twitter and beyond </p><p>● Experience in a fast-paced digital and/or entertainment environment is a plus </p><p>● Strong Excel skills and the ability to manage and analyze large sets of data </p><p>● Strong social analytics skills and analysis experience </p><p>● 4+ years experience with SQL (BigQuery, Redshift, Snowflake, etc) </p><p>● Excellent interpersonal, verbal, and written communication skills both internally and with outside clients </p><p>● Experience with survey studies, primary research, and IDIs </p><p>● Experience with Social Listening (Infegy, BrandWatch, Talkwalker, or others) </p><p>
+</p><p><i>** The salary range is $125k annually to $160k annually. Starting salary will vary based on criteria such as location, experience, and qualifications. </i></p><p>
+</p><p><i>EQUAL EMPLOYMENT OPPORTUNITY</i></p><p><i>Shareability and Down Home strongly support equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, national origin, ancestry, citizenship, age, marital status, disability, medical condition, sexual orientation, or any other characteristic protected by state or federal law. </i></p>","Shareability · Nashville, TN (Remote)","https://www.linkedin.com/jobs/view/3846434916/","Nashville, Tennessee, United States","7 of 10 skills match your profile - you may be a good fit","11-50 employees
+1 school alum works here","LISTED","30572050","Shareability","https://media.licdn.com/dms/image/C4D0BAQFA5uUDedVFuw/company-logo_400_400/0/1630488331548/shareability_logo?e=1718841600&v=beta&t=b8vLcxxXsgbJmaAloVeBe1iXKXUe98Sj1F8kuwjdHx0","2024-03-09T00:00:01.000Z","2024-03-15T13:53:26.942Z"
+"Data Analyst","The ideal candidate will use their passion for big data and analytics in evaluating and comparing different computational pipelines for NGS data analysis.  ResponsibilitiesCommitment to solving biological problems and communicating these solutionsAbility to multi-task across projectsManagement of large genomic data sets including integration with data available from public sourcesEvaluating and comparing different computational pipelines for NGS data analysis
+QualificationsA Masters’ or PhD degree in any quantitative science is preferred2 years' Data Analysis experienceFamiliarity with public databases: NCBI, Ensembl, TCGA, cBioPortal, Broad FireHoseProficiency in at least two of the following programming languages: Python, R, Perl, Java and C/C++Experience in submitting data sets to public repositories
+Please do not contact me directly via e-mail or messenger. We will only reach out to candidates that meet our job criteria.","<p>The ideal candidate will use their passion for big data and analytics in evaluating and comparing different computational pipelines for NGS data analysis. </p><p> </p><p><strong>Responsibilities</strong></p><ul><li>Commitment to solving biological problems and communicating these solutions</li><li>Ability to multi-task across projects</li><li>Management of large genomic data sets including integration with data available from public sources</li><li>Evaluating and comparing different computational pipelines for NGS data analysis</li></ul><p>
+</p><p><strong>Qualifications</strong></p><ul><li>A Masters’ or PhD degree in any quantitative science is preferred</li><li>2 years' Data Analysis experience</li><li>Familiarity with public databases: NCBI, Ensembl, TCGA, cBioPortal, Broad FireHose</li><li>Proficiency in at least two of the following programming languages: Python, R, Perl, Java and C/C++</li><li>Experience in submitting data sets to public repositories</li></ul><p>
+</p><p><strong>Please do not contact me directly via e-mail or messenger. We will only reach out to candidates that meet our job criteria.</strong></p>","Icahn School of Medicine at Mount Sinai · New York, NY (On-site)","https://www.linkedin.com/jobs/view/3854658741/","New York, New York, United States","8 of 10 skills match your profile - you may be a good fit","1,001-5,000 employees
+25 school alumni work here","LISTED","261689929","Icahn School of Medicine at Mount Sinai","https://media.licdn.com/dms/image/C4D0BAQHRqzWcbfxu1g/company-logo_400_400/0/1630575074351?e=1718841600&v=beta&t=_wXi-QnjTRJApR6rgLDtlTTWGONAE9hjXY9Qg360LWg","2024-03-12T18:59:09.000Z","2024-03-15T13:53:26.942Z"
+"Data Analyst","Geo-Techvp is seeking a skilled Data Analyst who will design and maintain functional programs and applications, producing fully functional software applications according to requirements. As a Data Analyst, you play a key role in serving our clients and team members. This will be a full-time, work-from-home ""remote"" position. Geo-Techvp is a rapidly growing company. We offer a unique experience that fosters individual growth and rewards performance. Our culture at Geo-Techvp is extremely important to us. The work environment is fast-paced and dynamic. We value teamwork, quality, innovation, and customer success. Our ideal candidate is self-motivated, detail-oriented, has excellent problem-solving abilities, is passionate about delivering results on-time, exceeding expectations, and ensuring success for our teams.
+Work with large amounts of data to draw meaningful conclusionsDevelop and implement data collection systems and other strategies that optimize statistical efficiency and data qualityProvide regular reporting and analysis to teamDevelop and maintain dashboards and reports to track key metrics and performance indicatorsCollaborate with cross-functional teams to identify areas for improvement and to develop solutions to enhance business operationsProvide training and support to team members on data analysis techniques and tools
+
+Requirements:Experience in data analysis, reporting, business intelligence or financial analysis and a Bachelor's Degree in Business, Statistics, Mathematics, Analytics, Computer Sciences or related field or equivalent experience2 years experience in providing people analytics reporting to organizationsExperience with sensitive and confidential people data in a global environmentAnalyze, evaluate, improve, and document processes and workflows. Identify and take advantage of opportunities for process automation and simplification.Proven ability to design and implement new processes and facilitate user adoption.Strong understanding of Salesforce.com best practices and functionalityStrong data management abilitiesA documented history of successfully driving projects to completionA demonstrated ability to understand and articulate complex requirementsExcellent project management skills and a positive attitudeMust demonstrate exceptional verbal and written communication skillsMust demonstrate ability to communicate effectively at all levels of the organizationMust own a Mac computer and be fluent with the Apple ecosystem of software (iOS, macOS, iWork, etc.)
+
+Benefits:
+Health InsuranceDental InsuranceVision InsuranceLife InsurancePTOSick and Safe TimePaid Holidays Off
+Geo-Techvp is proudly an Equal Opportunity Employer. We value diversity of all types and are excited to work with talented individuals from a wide range of backgrounds. Geo-Techvp is committed to inclusion and we invite people of any race, creed, color, national origin, ancestry, marital status, sexual orientation, gender identity or expression, disability, nationality or sex, age groups (18+), and levels of education to apply. Authorized to work in the US and background check required.
+
+
+","<p>Geo-Techvp is seeking a skilled Data Analyst who will design and maintain functional programs and applications, producing fully functional software applications according to requirements. As a Data Analyst, you play a key role in serving our clients and team members. This will be a full-time, work-from-home ""remote"" position. Geo-Techvp is a rapidly growing company. We offer a unique experience that fosters individual growth and rewards performance. Our culture at Geo-Techvp is extremely important to us. The work environment is fast-paced and dynamic. We value teamwork, quality, innovation, and customer success. Our ideal candidate is self-motivated, detail-oriented, has excellent problem-solving abilities, is passionate about delivering results on-time, exceeding expectations, and ensuring success for our teams.</p><p>
+</p><ul><li>Work with large amounts of data to draw meaningful conclusions</li><li>Develop and implement data collection systems and other strategies that optimize statistical efficiency and data quality</li><li>Provide regular reporting and analysis to team</li><li>Develop and maintain dashboards and reports to track key metrics and performance indicators</li><li>Collaborate with cross-functional teams to identify areas for improvement and to develop solutions to enhance business operations</li><li>Provide training and support to team members on data analysis techniques and tools</li></ul><p>
+</p><p>
+</p><p><strong>Requirements:</strong></p><ul><li>Experience in data analysis, reporting, business intelligence or financial analysis and a Bachelor's Degree in Business, Statistics, Mathematics, Analytics, Computer Sciences or related field or equivalent experience</li><li>2 years experience in providing people analytics reporting to organizations</li><li>Experience with sensitive and confidential people data in a global environment</li><li>Analyze, evaluate, improve, and document processes and workflows. Identify and take advantage of opportunities for process automation and simplification.</li><li>Proven ability to design and implement new processes and facilitate user adoption.</li><li>Strong understanding of Salesforce.com best practices and functionality</li><li>Strong data management abilities</li><li>A documented history of successfully driving projects to completion</li><li>A demonstrated ability to understand and articulate complex requirements</li><li>Excellent project management skills and a positive attitude</li><li>Must demonstrate exceptional verbal and written communication skills</li><li>Must demonstrate ability to communicate effectively at all levels of the organization</li><li>Must own a Mac computer and be fluent with the Apple ecosystem of software (iOS, macOS, iWork, etc.)</li></ul><p>
+</p><p>
+</p><p><strong>Benefits:</strong></p><p>
+</p><ul><li>Health Insurance</li><li>Dental Insurance</li><li>Vision Insurance</li><li>Life Insurance</li><li>PTO</li><li>Sick and Safe Time</li><li>Paid Holidays Off</li></ul><p>
+</p><p><i>Geo-Techvp is proudly an Equal Opportunity Employer. We value diversity of all types and are excited to work with talented individuals from a wide range of backgrounds. Geo-Techvp is committed to inclusion and we invite people of any race, creed, color, national origin, ancestry, marital status, sexual orientation, gender identity or expression, disability, nationality or sex, age groups (18+), and levels of education to apply. Authorized to work in the US and background check required.</i></p><p>
+</p><p>
+</p><p>
+</p>","Texas Geographic Society · United States (Remote)","https://www.linkedin.com/jobs/view/3849304803/","United States","7 of 10 skills match your profile - you may be a good fit","","LISTED","143346523","","","2024-03-12T01:25:16.000Z","2024-03-15T13:53:26.942Z"
