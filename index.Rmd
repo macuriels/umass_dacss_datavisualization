@@ -152,7 +152,10 @@ ggplot(company_size, aes(y = SalaryLowRange, fill = EnterpriseSize)) +
   scale_y_continuous(labels = scales::number_format(scale = 1e-3, 
                                                     prefix = "$",
                                                     suffix = "k")) +
-  scale_fill_manual(values = fill_colors)
+  scale_fill_manual(values = fill_colors) +
+  geom_text(aes(label = "Bigger companies tend to pay better"),
+              x = Inf, y = Inf, vjust = 2.5, hjust = 1.0, 
+            size = 3.0, color = "#00abff") 
   # coord_flip()
 ```
 
@@ -204,8 +207,11 @@ ggplot(merged_geo_data, aes(x = long, y = lat, group = group, fill = Count)) +
   theme(aspect.ratio = .75) +
   geom_text(data = state_centers
             , aes(x = long, y = lat, label = state_code)
-            , size = 2
-            , color = "black")
+            , size = 2.5
+            , color = "black") +
+  geom_text(aes(label = "California = where most jobs are HQ'ed"),
+              x = Inf, y = Inf, vjust = 2.5, hjust = 1, 
+            size = 3.0, color = "orange") 
 
 ```
 
@@ -244,13 +250,13 @@ Below is the list of key words that were used to find jobs:
 
 -   UX Researcher
 
-Each key word was searched on a Thursday, filtering only for jobs that were posted in the past week.
+Each key word was searched on a Thursday (with a couple of exceptions of this occuring on Fridays), filtering only for jobs that were posted in the past week.
 
 Upon downloading all of the job posts, multiple data wrangling operations were performed to clean and enhance the dataset.
 
 The data wrangling operations were performed using R, and include deduplicating job postings, searching for salary information in the job description, and locating mentions of key words such as "artificial intelligence".
 
-Below is a snipper of the resulting dataframe, which is also used to render all the plots and insights.
+Below is a snippet of the resulting dataframe, which is also used to render all the plots and insights.
 
 ```{r, echo=FALSE}
 # Render the table using datatable
