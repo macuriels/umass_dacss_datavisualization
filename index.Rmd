@@ -218,6 +218,10 @@ ggplot(merged_geo_data, aes(x = long, y = lat, group = group, fill = Count)) +
 
 ### Methodology
 
+Click on the GitHub repository below to view the data and code behind this dashboard:
+
+https://github.com/macuriels/umass_dacss_datavisualization
+
 Job openings posted on LinkedIn are manually extracted by using a Google Chrome Extension ([Jobs Scraper & Exporter for LinkedIn](https://chromewebstore.google.com/detail/jobs-scraper-for-linkedin/jhmlphenakpfjkieogpinommlgjdjnhb)).
 
 This extension allows users to download the first 20 jobs that appear on LinkedIn for any given search, along with multiple data points, such as the date published and the job poster.
