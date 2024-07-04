@@ -1,0 +1,949 @@
+﻿"Title","Description","Description HTML","Primary Description","Detail URL","Location","Skill","Insight","Job State","Poster Id","Company Name","Company Logo","Created At","Scraped At"
+"Senior Data Analyst, External Games","Now is an amazing time to join Netflix as we seek to entertain the world. We have over 200 million paid members in over 190 countries, and we won’t stop there. Games are our next big frontier and an incredible opportunity for us to deliver new experiences to delight and entertain our quickly growing membership. You will be jumping in at the early stages of this adventure and be in a position to help us redefine what a Netflix subscription means for our members around the world.
+
+Data Science and Engineering (‘DSE’) at Netflix is aimed at using data, analytics, and sciences to improve various aspects of our business. We are looking for a Senior Analytics Engineer to join our Games DSE team, leading end-to-end analytics & data needs for the Games space. This role will be partnering closely with our Game stakeholders to define key metrics, build and maintain key dashboards and analytic tools and scale data access across our stakeholder set. As an early member of the team, you will also help shape our overall Games Data Strategy at Netflix.
+
+
+What You Will Do
+
+
+Partner directly with our Game stakeholders (e.g., Netflix Games Studio, Games Product, Game Strategy, Planning & Analysis team) on data, metrics & analytics initiativesLead end-to-end development of reports/dashboards/tools used by your direct stakeholders and a diverse set of teams across the companyProactively perform data exploration and analytical deep dives to discover insights or future testing opportunitiesBe a bridge between the business and tech, scaling access to insights that can empower better decision-makingMaintain and rethink existing data solutions to service a wider variety of use cases Balance handling ad hoc requests while also driving larger projects forward
+
+
+
+Who You Are
+
+
+6+ years of experience in data analytics function in gaming industryExtensive experience in driving Live Service performance insightsYou are an engineering-minded analyst with a strong bias towards action, delivering results quickly with iteration instead of waiting for perfectionYou are comfortable taking vague requirements and crystallizing them into valuable tools, metrics, or analysis.You have strong technical skills in manipulating large data sets with complex SQL and Python (or similar languages), big data technologies (e.g., Hadoop, Spark) and visualization tools (e.g., Tableau)You are a self-starter that can work effectively in a fast-paced, ambiguous environment with changing priorities and minimally defined processesYou are experienced in managing stakeholder asks, expectations, and relationships across a variety of stakeholders
+
+
+Our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $170,000 - $720,000.
+
+Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more detail about our Benefits here.
+
+Netflix is a unique culture and environment. Learn more here.
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity of thought and background builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.","Now is an amazing time to join Netflix as we seek to entertain the world. We have over 200 million paid members in over 190 countries, and we won’t stop there. Games are our next big frontier and an incredible opportunity for us to deliver new experiences to delight and entertain our quickly growing membership. You will be jumping in at the early stages of this adventure and be in a position to help us redefine what a Netflix subscription means for our members around the world.
+
+Data Science and Engineering (‘DSE’) at Netflix is aimed at using data, analytics, and sciences to improve various aspects of our business. We are looking for a Senior Analytics Engineer to join our Games DSE team, leading end-to-end analytics & data needs for the Games space. This role will be partnering closely with our Game stakeholders to define key metrics, build and maintain key dashboards and analytic tools and scale data access across our stakeholder set. As an early member of the team, you will also help shape our overall Games Data Strategy at Netflix.
+
+
+<strong>What You Will Do
+
+
+</strong><ul><li>Partner directly with our Game stakeholders (e.g., Netflix Games Studio, Games Product, Game Strategy, Planning & Analysis team) on data, metrics & analytics initiatives</li><li>Lead end-to-end development of reports/dashboards/tools used by your direct stakeholders and a diverse set of teams across the company</li><li>Proactively perform data exploration and analytical deep dives to discover insights or future testing opportunities</li><li>Be a bridge between the business and tech, scaling access to insights that can empower better decision-making</li><li>Maintain and rethink existing data solutions to service a wider variety of use cases </li><li>Balance handling ad hoc requests while also driving larger projects forward
+
+
+
+</li></ul><strong>Who You Are
+
+
+</strong><ul><li>6+ years of experience in data analytics function in gaming industry</li><li>Extensive experience in driving Live Service performance insights</li><li>You are an engineering-minded analyst with a strong bias towards action, delivering results quickly with iteration instead of waiting for perfection</li><li>You are comfortable taking vague requirements and crystallizing them into valuable tools, metrics, or analysis.</li><li>You have strong technical skills in manipulating large data sets with complex SQL and Python (or similar languages), big data technologies (e.g., Hadoop, Spark) and visualization tools (e.g., Tableau)</li><li>You are a self-starter that can work effectively in a fast-paced, ambiguous environment with changing priorities and minimally defined processes</li><li>You are experienced in managing stakeholder asks, expectations, and relationships across a variety of stakeholders
+
+
+</li></ul>Our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $170,000 - $720,000.
+
+Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more detail about our Benefits here.
+
+Netflix is a unique culture and environment. Learn more here.
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity of thought and background builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.","Netflix · Los Angeles, CA","https://www.linkedin.com/jobs/view/3818061255/","Los Angeles, California, United States","7 of 10 skills match your profile - you may be a good fit","10,001+ employees · Entertainment Providers
+23 school alumni work here","LISTED","368130583","Netflix","https://media.licdn.com/dms/image/C4E0BAQEVb0ZISWk8vQ/company-logo_400_400/0/1631355051964?e=1722470400&v=beta&t=Nr9hwwd5ZP_uWNJjl22l3O5KQyD-xIgh5IN_TEiC5aI","2024-01-30T20:37:41.000Z","2024-04-30T00:08:16.455Z"
+"Technical Operations & Insights Analyst, Product Support","Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+As a member of our Product Support Operations and Strategy team, the Operations and Insights Analyst will use data to refine our Product Support experience, build dashboards and data pipelines, and deliver reporting to ensure our leadership team has a clear pulse on the business. You’ll identify opportunities to optimize Figma’s product support operations. As a problem solver, you will dig into data to find root causes, identify trends, uncover blind spots, and help to answer questions about the customer and employee experience. YoYou will present data to the team in a manner that is effective, tangible, and tells a clear story.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you’ll do at Figma:
+
+Build data pipelines that enable reliable, accurate, and timely data insightsEnable product support to capture customer, product, and team performance insightsDevelop and maintain workforce capacity models to forecast staffing needsDesign scalable data pipelines, and communicate design recommendations to leadership and our internal partnersCollaborate with our data science and engineering teams to build, document, and manage our Product Support data structure and pipelines.
+
+We'd love to hear from you if you have:
+
+Proficiency in SQL and querying databases using tools like Tableau, Mode, Looker, or Zendesk Explore (we use Mode, Explore, and Hex)A deep understanding of statistical analysis and data modeling techniquesExperience building complex ETL jobsProven track record of presenting technical findings to non-technical stakeholdersExperience problem-solving through issues that impact the customer and product support teams
+
+While not required, it’s an added plus if you also have:
+
+Experience supporting a technical SaaS company in a senior analyst capacityExperience developing in DBTProficiency in R and/or PythonApplied ML experience
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+Pay Transparency Disclosure
+
+If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$102,000—$215,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+Examples of accommodations include but are not limited to:
+
+Holding interviews in an accessible locationEnabling closed captioning on video conferencingEnsuring all written communication be compatible with screen readersChanging the mode or format of interviews 
+
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.","Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+As a member of our Product Support Operations and Strategy team, the Operations and Insights Analyst will use data to refine our Product Support experience, build dashboards and data pipelines, and deliver reporting to ensure our leadership team has a clear pulse on the business. You’ll identify opportunities to optimize Figma’s product support operations. As a problem solver, you will dig into data to find root causes, identify trends, uncover blind spots, and help to answer questions about the customer and employee experience. YoYou will present data to the team in a manner that is effective, tangible, and tells a clear story.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you’ll do at Figma:
+
+<ul><li>Build data pipelines that enable reliable, accurate, and timely data insights</li><li>Enable product support to capture customer, product, and team performance insights</li><li>Develop and maintain workforce capacity models to forecast staffing needs</li><li>Design scalable data pipelines, and communicate design recommendations to leadership and our internal partners</li><li>Collaborate with our data science and engineering teams to build, document, and manage our Product Support data structure and pipelines.
+
+</li></ul>We'd love to hear from you if you have:
+
+<ul><li>Proficiency in SQL and querying databases using tools like Tableau, Mode, Looker, or Zendesk Explore (we use Mode, Explore, and Hex)</li><li>A deep understanding of statistical analysis and data modeling techniques</li><li>Experience building complex ETL jobs</li><li>Proven track record of presenting technical findings to non-technical stakeholders</li><li>Experience problem-solving through issues that impact the customer and product support teams
+
+</li></ul>While not required, it’s an added plus if you also have:
+
+<ul><li>Experience supporting a technical SaaS company in a senior analyst capacity</li><li>Experience developing in DBT</li><li>Proficiency in R and/or Python</li><li>Applied ML experience
+
+</li></ul>At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+<strong>Pay Transparency Disclosure
+
+</strong>If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$102,000—$215,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status<strong>, </strong>or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+Examples of accommodations include but are not limited to:
+
+<ul><li>Holding interviews in an accessible location</li><li>Enabling closed captioning on video conferencing</li><li>Ensuring all written communication be compatible with screen readers</li><li>Changing the mode or format of interviews 
+
+</li></ul>By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.","Figma · United States (Remote)","https://www.linkedin.com/jobs/view/3866851762/","United States","Skills: Looker (Software), Databases, +8 more","1,001-5,000 employees · Design Services
+4 school alumni work here","LISTED","92944770","Figma","https://media.licdn.com/dms/image/D560BAQGjPX8xmdHxgw/company-logo_400_400/0/1690557728311/figma_logo?e=1722470400&v=beta&t=f0ANi8UPNY2j63R5pgdschlKwPFKjDoB9MxaIj3IcIs","2024-03-21T19:52:37.000Z","2024-04-30T00:08:16.455Z"
+"Technical Operations & Insights Analyst, Product Support","Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+As a member of our Product Support Operations and Strategy team, the Operations and Insights Analyst will use data to refine our Product Support experience, build dashboards and data pipelines, and deliver reporting to ensure our leadership team has a clear pulse on the business. You’ll identify opportunities to optimize Figma’s product support operations. As a problem solver, you will dig into data to find root causes, identify trends, uncover blind spots, and help to answer questions about the customer and employee experience. YoYou will present data to the team in a manner that is effective, tangible, and tells a clear story.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you’ll do at Figma:
+
+Build data pipelines that enable reliable, accurate, and timely data insightsEnable product support to capture customer, product, and team performance insightsDevelop and maintain workforce capacity models to forecast staffing needsDesign scalable data pipelines, and communicate design recommendations to leadership and our internal partnersCollaborate with our data science and engineering teams to build, document, and manage our Product Support data structure and pipelines.
+
+We'd love to hear from you if you have:
+
+Proficiency in SQL and querying databases using tools like Tableau, Mode, Looker, or Zendesk Explore (we use Mode, Explore, and Hex)A deep understanding of statistical analysis and data modeling techniquesExperience building complex ETL jobsProven track record of presenting technical findings to non-technical stakeholdersExperience problem-solving through issues that impact the customer and product support teams
+
+While not required, it’s an added plus if you also have:
+
+Experience supporting a technical SaaS company in a senior analyst capacityExperience developing in DBTProficiency in R and/or PythonApplied ML experience
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+Pay Transparency Disclosure
+
+If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$102,000—$215,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+Examples of accommodations include but are not limited to:
+
+Holding interviews in an accessible locationEnabling closed captioning on video conferencingEnsuring all written communication be compatible with screen readersChanging the mode or format of interviews 
+
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.","Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+As a member of our Product Support Operations and Strategy team, the Operations and Insights Analyst will use data to refine our Product Support experience, build dashboards and data pipelines, and deliver reporting to ensure our leadership team has a clear pulse on the business. You’ll identify opportunities to optimize Figma’s product support operations. As a problem solver, you will dig into data to find root causes, identify trends, uncover blind spots, and help to answer questions about the customer and employee experience. YoYou will present data to the team in a manner that is effective, tangible, and tells a clear story.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you’ll do at Figma:
+
+<ul><li>Build data pipelines that enable reliable, accurate, and timely data insights</li><li>Enable product support to capture customer, product, and team performance insights</li><li>Develop and maintain workforce capacity models to forecast staffing needs</li><li>Design scalable data pipelines, and communicate design recommendations to leadership and our internal partners</li><li>Collaborate with our data science and engineering teams to build, document, and manage our Product Support data structure and pipelines.
+
+</li></ul>We'd love to hear from you if you have:
+
+<ul><li>Proficiency in SQL and querying databases using tools like Tableau, Mode, Looker, or Zendesk Explore (we use Mode, Explore, and Hex)</li><li>A deep understanding of statistical analysis and data modeling techniques</li><li>Experience building complex ETL jobs</li><li>Proven track record of presenting technical findings to non-technical stakeholders</li><li>Experience problem-solving through issues that impact the customer and product support teams
+
+</li></ul>While not required, it’s an added plus if you also have:
+
+<ul><li>Experience supporting a technical SaaS company in a senior analyst capacity</li><li>Experience developing in DBT</li><li>Proficiency in R and/or Python</li><li>Applied ML experience
+
+</li></ul>At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+<strong>Pay Transparency Disclosure
+
+</strong>If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$102,000—$215,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status<strong>, </strong>or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+Examples of accommodations include but are not limited to:
+
+<ul><li>Holding interviews in an accessible location</li><li>Enabling closed captioning on video conferencing</li><li>Ensuring all written communication be compatible with screen readers</li><li>Changing the mode or format of interviews 
+
+</li></ul>By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.","Figma · New York, NY","https://www.linkedin.com/jobs/view/3866855290/","New York, New York, United States","Skills: Looker (Software), Databases, +8 more","1,001-5,000 employees · Design Services
+4 school alumni work here","LISTED","92944770","Figma","https://media.licdn.com/dms/image/D560BAQGjPX8xmdHxgw/company-logo_400_400/0/1690557728311/figma_logo?e=1722470400&v=beta&t=f0ANi8UPNY2j63R5pgdschlKwPFKjDoB9MxaIj3IcIs","2024-03-21T19:52:37.000Z","2024-04-30T00:08:16.455Z"
+"Technical Operations & Insights Analyst, Product Support","Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+As a member of our Product Support Operations and Strategy team, the Operations and Insights Analyst will use data to refine our Product Support experience, build dashboards and data pipelines, and deliver reporting to ensure our leadership team has a clear pulse on the business. You’ll identify opportunities to optimize Figma’s product support operations. As a problem solver, you will dig into data to find root causes, identify trends, uncover blind spots, and help to answer questions about the customer and employee experience. YoYou will present data to the team in a manner that is effective, tangible, and tells a clear story.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you’ll do at Figma:
+
+Build data pipelines that enable reliable, accurate, and timely data insightsEnable product support to capture customer, product, and team performance insightsDevelop and maintain workforce capacity models to forecast staffing needsDesign scalable data pipelines, and communicate design recommendations to leadership and our internal partnersCollaborate with our data science and engineering teams to build, document, and manage our Product Support data structure and pipelines.
+
+We'd love to hear from you if you have:
+
+Proficiency in SQL and querying databases using tools like Tableau, Mode, Looker, or Zendesk Explore (we use Mode, Explore, and Hex)A deep understanding of statistical analysis and data modeling techniquesExperience building complex ETL jobsProven track record of presenting technical findings to non-technical stakeholdersExperience problem-solving through issues that impact the customer and product support teams
+
+While not required, it’s an added plus if you also have:
+
+Experience supporting a technical SaaS company in a senior analyst capacityExperience developing in DBTProficiency in R and/or PythonApplied ML experience
+
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+Pay Transparency Disclosure
+
+If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$102,000—$215,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+Examples of accommodations include but are not limited to:
+
+Holding interviews in an accessible locationEnabling closed captioning on video conferencingEnsuring all written communication be compatible with screen readersChanging the mode or format of interviews 
+
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.","Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web, Figma helps entire product teams brainstorm, design and build better products — from start to finish. Whether it’s consolidating tools, simplifying workflows, or collaborating across teams and time zones, Figma makes the design process faster, more efficient, and fun while keeping everyone on the same page. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!
+
+As a member of our Product Support Operations and Strategy team, the Operations and Insights Analyst will use data to refine our Product Support experience, build dashboards and data pipelines, and deliver reporting to ensure our leadership team has a clear pulse on the business. You’ll identify opportunities to optimize Figma’s product support operations. As a problem solver, you will dig into data to find root causes, identify trends, uncover blind spots, and help to answer questions about the customer and employee experience. YoYou will present data to the team in a manner that is effective, tangible, and tells a clear story.
+
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+
+What you’ll do at Figma:
+
+<ul><li>Build data pipelines that enable reliable, accurate, and timely data insights</li><li>Enable product support to capture customer, product, and team performance insights</li><li>Develop and maintain workforce capacity models to forecast staffing needs</li><li>Design scalable data pipelines, and communicate design recommendations to leadership and our internal partners</li><li>Collaborate with our data science and engineering teams to build, document, and manage our Product Support data structure and pipelines.
+
+</li></ul>We'd love to hear from you if you have:
+
+<ul><li>Proficiency in SQL and querying databases using tools like Tableau, Mode, Looker, or Zendesk Explore (we use Mode, Explore, and Hex)</li><li>A deep understanding of statistical analysis and data modeling techniques</li><li>Experience building complex ETL jobs</li><li>Proven track record of presenting technical findings to non-technical stakeholders</li><li>Experience problem-solving through issues that impact the customer and product support teams
+
+</li></ul>While not required, it’s an added plus if you also have:
+
+<ul><li>Experience supporting a technical SaaS company in a senior analyst capacity</li><li>Experience developing in DBT</li><li>Proficiency in R and/or Python</li><li>Applied ML experience
+
+</li></ul>At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+
+<strong>Pay Transparency Disclosure
+
+</strong>If based in Figma’s San Francisco or New York hub offices, this role has the annual base salary range stated below.
+
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location. The listed range is a guideline, and the range for this role may be modified. For roles that are available to be filled remotely, the pay range is localized according to employee work location by a factor of between 80% and 100% of range. Please discuss your specific work location with your recruiter for more information.
+
+Figma offers equity to employees, as well a competitive package of additional benefits, including health, dental & vision, retirement with company contribution, parental leave & reproductive or family planning support, mental health & wellness benefits, generous PTO, company recharge days, a learning & development stipend, a work from home stipend, and cell phone reimbursement. Figma also offers sales incentive pay for most sales roles. Figma’s compensation and benefits are subject to change and may be modified in the future. You may view our Pay Transparency Policy by clicking on the corresponding link.
+
+Annual Base Salary Range (SF/NY Hub):
+
+$102,000—$215,000 USD
+
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status<strong>, </strong>or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+
+Examples of accommodations include but are not limited to:
+
+<ul><li>Holding interviews in an accessible location</li><li>Enabling closed captioning on video conferencing</li><li>Ensuring all written communication be compatible with screen readers</li><li>Changing the mode or format of interviews 
+
+</li></ul>By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with the applicable candidate section of Figma's Privacy Policy.","Figma · San Francisco, CA","https://www.linkedin.com/jobs/view/3866855291/","San Francisco, California, United States","Skills: Looker (Software), Databases, +8 more","1,001-5,000 employees · Design Services
+4 school alumni work here","LISTED","92944770","Figma","https://media.licdn.com/dms/image/D560BAQGjPX8xmdHxgw/company-logo_400_400/0/1690557728311/figma_logo?e=1722470400&v=beta&t=f0ANi8UPNY2j63R5pgdschlKwPFKjDoB9MxaIj3IcIs","2024-03-21T19:52:38.000Z","2024-04-30T00:08:16.455Z"
+"Senior Data Analyst, Platform Product","ABOUT ROCKET MONEY 🔮Rocket Money’s mission is to empower people to live their best financial lives. Rocket Money offers members a unique understanding of their finances and a suite of valuable services that save them time and money – ultimately giving them a leg up on their financial journey.
+We’re looking for a Senior Data Analyst with expertise in monetization and/or user onboarding analytics to join our growing team. As a member of the Rocket Money Data team, you’ll collaborate closely with product and engineering teams to foster a culture of data-driven decision-making across the organizations. As a senior individual contributor, you’ll proactively work with the product teams to recommend how we analyze the performance of the onboarding and monetization funnel and drive strategies for growth.
+You’ll partner with colleagues across, Product, Engineering, Research, CRM, and Data, to build a mature set of reporting and analytics. This requires being forward-looking and thinking through the team and company’s initiatives to better understand user journey behavior, while building tooling and frameworks that not only measure performance, but also ladder up to key company KPIs.
+
+ABOUT THE ROLE 🤹In this role, you will:Independently lead the analysis for our Platform product group; focusing on user onboarding and monetization performance metrics such as onboarding completion rates, ASP, and payments.Leverage your expertise in user onboarding and/or monetization to identify trends, patterns, and anomalies in our data, and ultimately help provide actionable insights to inform and recommend strategies to optimize product offerings and customer experiences.Be the expert on new user journey and monetization data, understanding the nitty gritty details of the program, and partnering with Analytics Engineering to ensure accurate and timely availability of data for analysis.Form strong relationships between Data Analytics and the Product teams by proactively identifying and driving analytics projects that help inform the strategic direction and becoming an integral part of the product planning process.Float from thinking about big strategic data questions to getting your hands dirty building out the processes, systems, and ultimately analyses to answer those questions. Be the person responsible for ongoing maintenance of what you have built.Translate complex analytical findings into clear and concise reports, dashboards, and presentations for stakeholders at all levels of the organization.Continue to improve our culture of experimentation. You’ll be the go-to person for the product platform team to guide the design of experiments and jump in to analyze particularly complex or important experiments yourself. Within the data team, you’ll help us think of new ways to improve our experimentation systems and processes across the company.
+
+ ABOUT YOU 🦄5+ years of experience in the analytics space, taking on progressively more complex work and senior roles.Experience in SAAS companies and particularly around user onboarding, user journey flows, and/or monetization analytics.Have a good understanding of experimental design and statistics and can leverage that for analysis and assessment of A/B tests.Intuitively understand how to measure a monetization and users journeys and how various KPIs are interrelated.Have a strong SQL background. You are comfortable spinning up a quick analysis or proof of concept data model.Expertise in data visualization tools (e.g., Looker, Tableau, Power BI).Excellent communication skills, with the ability to explain complex analytical findings to non-technical stakeholders and comfortable speaking with senior/executive level leadership.
+Bonus points if:Experience with our stack (BigQuery/GCP, Fivetran, Looker, Amplitude)Proficient in using python and R for statistical analysis
+
+WE OFFER 💫Health, Dental & Vision PlansCompetitive PayMatching 401kUnlimited PTOLunch dailySnacks, Kombucha & Coffee on tapCommuter benefits
+
+Additional information: Salary range of $125,000 - $150,000 + bonus + benefits. Base pay offered may vary depending on job-related knowledge, skills, and experience.
+Rocket Money, Inc. is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.","<p><strong>ABOUT ROCKET MONEY �</strong></p><p>�Rocket Money’s mission is to empower people to live their best financial lives. Rocket Money offers members a unique understanding of their finances and a suite of valuable services that save them time and money – ultimately giving them a leg up on their financial journey</p><p>.</p><p>
+We’re looking for a Senior Data Analyst with expertise in monetization and/or user onboarding analytics to join our growing team. As a member of the Rocket Money Data team, you’ll collaborate closely with product and engineering teams to foster a culture of data-driven decision-making across the organizations. As a senior individual contributor, you’ll proactively work with the product teams to recommend how we analyze the performance of the onboarding and monetization funnel and drive strategies for growth</p><p>.</p><p>
+You’ll partner with colleagues across, Product, Engineering, Research, CRM, and Data, to build a mature set of reporting and analytics. This requires being forward-looking and thinking through the team and company’s initiatives to better understand user journey behavior, while building tooling and frameworks that not only measure performance, but also ladder up to key company KPIs</p><p>.</p><p>
+</p><p><strong>
+ABOUT THE ROLE </strong></p><p>🤹In this role, you wil</p><ul><li>l:Independently lead the analysis for our Platform product group; focusing on user onboarding and monetization performance metrics such as onboarding completion rates, ASP, and payment</li><li>s.Leverage your expertise in user onboarding and/or monetization to identify trends, patterns, and anomalies in our data, and ultimately help provide actionable insights to inform and recommend strategies to optimize product offerings and customer experience</li><li>s.Be the expert on new user journey and monetization data, understanding the nitty gritty details of the program, and partnering with Analytics Engineering to ensure accurate and timely availability of data for analysi</li><li>s.Form strong relationships between Data Analytics and the Product teams by proactively identifying and driving analytics projects that help inform the strategic direction and becoming an integral part of the product planning proces</li><li>s.Float from thinking about big strategic data questions to getting your hands dirty building out the processes, systems, and ultimately analyses to answer those questions. Be the person responsible for ongoing maintenance of what you have buil</li><li>t.Translate complex analytical findings into clear and concise reports, dashboards, and presentations for stakeholders at all levels of the organizatio</li><li>n.Continue to improve our culture of experimentation. You’ll be the go-to person for the product platform team to guide the design of experiments and jump in to analyze particularly complex or important experiments yourself. Within the data team, you’ll help us think of new ways to improve our experimentation systems and processes across the compan</li></ul><p>y</p><p>.</p><p><strong>
+
+ ABOUT YOU</strong></p><ul><li> 🦄5+ years of experience in the analytics space, taking on progressively more complex work and senior rol</li><li>es.Experience in SAAS companies and particularly around user onboarding, user journey flows, and/or monetization analyti</li><li>cs.Have a good understanding of experimental design and statistics and can leverage that for analysis and assessment of A/B tes</li><li>ts.Intuitively understand how to measure a monetization and users journeys and how various KPIs are interrelat</li><li>ed.Have a strong SQL background. You are comfortable spinning up a quick analysis or proof of concept data mod</li><li>el.Expertise in data visualization tools (e.g., Looker, Tableau, Power B</li><li>I).Excellent communication skills, with the ability to explain complex analytical findings to non-technical stakeholders and comfortable speaking with senior/executive level leadersh</li></ul><p>i</p><p>p.
+Bonus points </p><ul><li>if:Experience with our stack (BigQuery/GCP, Fivetran, Looker, Amplitu</li><li>de)Proficient in using python and R for statistical analy</li></ul><p>s</p><p>i</p><p><strong>s
+
+WE OFFE</strong></p><ul><li>R 💫Health, Dental & Vision P</li><li>lansCompetitive</li><li> PayMatching </li><li>401kUnlimited</li><li> PTOLunch d</li><li>ailySnacks, Kombucha & Coffee on</li><li> tapCommuter bene</li></ul><p>f</p><p>i</p><p>ts
+
+Additional information: Salary range of $125,000 - $150,000 + bonus + benefits. Base pay offered may vary depending on job-related knowledge, skills, and experie</p><p>n</p><p>ce.
+Rocket Money, Inc. is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disabil</p><p>i</p><p>ty.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction reco</p>rds.","Rocket Money · United States (Remote)","https://www.linkedin.com/jobs/view/3870701847/","United States","Skills: Analytics, Key Performance Indicators, +8 more","201-500 employees · Financial Services","LISTED","691218236","Rocket Money","https://media.licdn.com/dms/image/C4E0BAQEIvwsuURIwfg/company-logo_400_400/0/1660582160116/truebill_logo?e=1722470400&v=beta&t=mkAs0XNwLxiSYWm9oAkJQuX0vg0DCVmJVBBIbCSUEl0","2024-03-27T22:20:17.000Z","2024-04-30T00:08:16.455Z"
+"Data Analyst","About Stripe
+
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+About The Team
+
+Data Science at Stripe is a vibrant community where data analysts, data scientists and engineers learn and grow together. You will work with some of Stripe’s most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.
+
+What you'll do
+
+In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripe's rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+Minimum Requirements
+
+2-8+ years experience in Business Intelligence Engineering, Data Engineering, Data Analysis or Data Science roles, building data pipelines and analyzing large datasets to solve problemsProficiency in SQL and PythonStrong statistical knowledgeExpertise in visualization and using data insights to make recommendations and achieve goalsProven ability to manage and deliver on multiple projects with great attention to detailAbility to clearly communicate results and drive impactComfortable collaborating across functions to identify data analytics problems and execute solutions with technical rigor and data-driven insights.
+
+
+Preferred Qualifications
+
+Master’s degree in Mathematics, Statistics, Economics, Engineering, or a related technical field.Prior experience at a growth stage internet or software company.Experience with distributed data frameworks like Hadoop and Spark to write and debug data pipelines.Good understanding of development processes and best practices like engineering standards, code reviews, and testing.
+
+
+Hybrid work at Stripe
+
+This role is available either in an office or a remote location (typically, 35+ miles or 56+ km from a Stripe office).
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+A remote location, in most cases, is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently or plan to live.
+
+Pay and benefits
+
+The annual US base salary range for this role is $121,800 - $220,300. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.","<strong>About Stripe
+
+</strong>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+<strong>About The Team
+
+</strong>Data Science at Stripe is a vibrant community where data analysts, data scientists and engineers learn and grow together. You will work with some of Stripe’s most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.
+
+What you'll do
+
+In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripe's rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+<strong>Minimum Requirements
+
+</strong><ul><li>2-8+ years experience in Business Intelligence Engineering, Data Engineering, Data Analysis or Data Science roles, building data pipelines and analyzing large datasets to solve problems</li><li>Proficiency in SQL and Python</li><li>Strong statistical knowledge</li><li>Expertise in visualization and using data insights to make recommendations and achieve goals</li><li>Proven ability to manage and deliver on multiple projects with great attention to detail</li><li>Ability to clearly communicate results and drive impact</li><li>Comfortable collaborating across functions to identify data analytics problems and execute solutions with technical rigor and data-driven insights.
+
+
+</li></ul><strong>Preferred Qualifications
+
+</strong><ul><li>Master’s degree in Mathematics, Statistics, Economics, Engineering, or a related technical field.</li><li>Prior experience at a growth stage internet or software company.</li><li>Experience with distributed data frameworks like Hadoop and Spark to write and debug data pipelines.</li><li>Good understanding of development processes and best practices like engineering standards, code reviews, and testing.
+
+
+</li></ul>Hybrid work at Stripe
+
+This role is available either in an office or a remote location (typically, 35+ miles or 56+ km from a Stripe office).
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+A remote location, in most cases, is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently or plan to live.
+
+Pay and benefits
+
+The annual US base salary range for this role is $121,800 - $220,300. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.","Stripe · United States (Remote)","https://www.linkedin.com/jobs/view/3802580013/","United States","6 of 10 skills match your profile - you may be a good fit","1,001-5,000 employees · Technology, Information and Internet
+14 school alumni work here","LISTED","113060463","Stripe","https://media.licdn.com/dms/image/C560BAQF1NNJs-2xA5g/company-logo_400_400/0/1630643399686/stripe_logo?e=1722470400&v=beta&t=_anhm8BD_E51tVAjD_PGLO7ifYuKaCraAEhmDxaYXPc","2024-01-10T05:03:34.000Z","2024-04-30T00:08:16.455Z"
+"Data Analyst","About Stripe
+
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+About The Team
+
+Data Science at Stripe is a vibrant community where data analysts, data scientists and engineers learn and grow together. You will work with some of Stripe’s most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.
+
+What you'll do
+
+In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripe's rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+Minimum Requirements
+
+2-8+ years experience in Business Intelligence Engineering, Data Engineering, Data Analysis or Data Science roles, building data pipelines and analyzing large datasets to solve problemsProficiency in SQL and PythonStrong statistical knowledgeExpertise in visualization and using data insights to make recommendations and achieve goalsProven ability to manage and deliver on multiple projects with great attention to detailAbility to clearly communicate results and drive impactComfortable collaborating across functions to identify data analytics problems and execute solutions with technical rigor and data-driven insights.
+
+
+Preferred Qualifications
+
+Master’s degree in Mathematics, Statistics, Economics, Engineering, or a related technical field.Prior experience at a growth stage internet or software company.Experience with distributed data frameworks like Hadoop and Spark to write and debug data pipelines.Good understanding of development processes and best practices like engineering standards, code reviews, and testing.
+
+
+Hybrid work at Stripe
+
+This role is available either in an office or a remote location (typically, 35+ miles or 56+ km from a Stripe office).
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+A remote location, in most cases, is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently or plan to live.
+
+Pay and benefits
+
+The annual US base salary range for this role is $121,800 - $220,300. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.","<strong>About Stripe
+
+</strong>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+<strong>About The Team
+
+</strong>Data Science at Stripe is a vibrant community where data analysts, data scientists and engineers learn and grow together. You will work with some of Stripe’s most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.
+
+What you'll do
+
+In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripe's rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+<strong>Minimum Requirements
+
+</strong><ul><li>2-8+ years experience in Business Intelligence Engineering, Data Engineering, Data Analysis or Data Science roles, building data pipelines and analyzing large datasets to solve problems</li><li>Proficiency in SQL and Python</li><li>Strong statistical knowledge</li><li>Expertise in visualization and using data insights to make recommendations and achieve goals</li><li>Proven ability to manage and deliver on multiple projects with great attention to detail</li><li>Ability to clearly communicate results and drive impact</li><li>Comfortable collaborating across functions to identify data analytics problems and execute solutions with technical rigor and data-driven insights.
+
+
+</li></ul><strong>Preferred Qualifications
+
+</strong><ul><li>Master’s degree in Mathematics, Statistics, Economics, Engineering, or a related technical field.</li><li>Prior experience at a growth stage internet or software company.</li><li>Experience with distributed data frameworks like Hadoop and Spark to write and debug data pipelines.</li><li>Good understanding of development processes and best practices like engineering standards, code reviews, and testing.
+
+
+</li></ul>Hybrid work at Stripe
+
+This role is available either in an office or a remote location (typically, 35+ miles or 56+ km from a Stripe office).
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+A remote location, in most cases, is defined as being 35 miles (56 kilometers) or more from one of our offices. While you would be welcome to come into the office for team/business meetings, on-sites, meet-ups, and events, our expectation is you would regularly work from home rather than a Stripe office. Stripe does not cover the cost of relocating to a remote location. We encourage you to apply for roles that match the location where you currently or plan to live.
+
+Pay and benefits
+
+The annual US base salary range for this role is $121,800 - $220,300. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.","Stripe · Chicago, IL","https://www.linkedin.com/jobs/view/3840850458/","Chicago, Illinois, United States","6 of 10 skills match your profile - you may be a good fit","1,001-5,000 employees · Technology, Information and Internet
+14 school alumni work here","LISTED","113060463","Stripe","https://media.licdn.com/dms/image/C560BAQF1NNJs-2xA5g/company-logo_400_400/0/1630643399686/stripe_logo?e=1722470400&v=beta&t=_anhm8BD_E51tVAjD_PGLO7ifYuKaCraAEhmDxaYXPc","2024-02-27T04:36:53.000Z","2024-04-30T00:08:16.455Z"
+"Lead Insights Analyst, Restaurant Performance Insights","The role is responsible for responding to emerging business challenges with insightful analysis solutions. In addition to providing ad-hoc support, the role is expected to influence the design of analytical tools that allow users to understand business performance by navigating data visualizations on their own. This role is expected to partner with stakeholders responsible for strategic work that is highly prioritized at Chick-fil-A. The role is expected to provide analytical support as bodies of work emerge that support organizational work. The role is team-based and requires the analyst to demonstrate excellence in their ability to partner with teammates to ensure a consistent and high-quality outcome for stakeholders. The ideal candidate will have a strong understanding of the hospitality industry and the QSR landscape and fully understand the strategic position of Chick-fil-A. In addition to having industry knowledge, the role will require significant expertise in data structure, data systems, data analysis, and process effectiveness. The role will rely on partnerships with colleagues in various parts of the business to create scalable solutions that require low levels of ongoing maintenance.
+
+Our Flexible Future model offers a healthy mix of working in person and remotely, strengthening key elements of the Chick-fil-A culture by fostering collaboration and community.
+
+Responsibilities
+
+ Partner with analysts in RPI and other areas to help develop a seamless insight experience for Operators and Restaurant teams.  Develop and execute projects to enhance the efficiency and effectiveness of RPI products that support restaurants and Operators.  Partner with RPI teammates to develop relevant & insightful solutions for Operators.  Manage multiple complex assignments simultaneously.  Engage in ad-hoc analysis projects as needed.  Apply advanced knowledge of data systems, existing KPIs, and analysis to complete complex projects . 
+
+Minimum Qualifications
+
+ Bachelor's degree in Finance, Business Analytics, Statistics, Mathematics, Economics, Industrial Engineering or a related field.  Strong project leadership skills  Ability to self-navigate organizational and technical challenges.  Excellent problem-solving skills and the ability to translate data into actionable insights.  Strong understanding of data system structure & data system uses.  Experience with data visualization tools such as Tableau or Power BI  Strong communication skills with the ability to present complex findings clearly and concisely to both technical and non-technical audiences.  Excellent listener who seeks to understand and build common ground.  Ability to learn quickly and work independently.  Proficiency in programming languages commonly used in data analysis such as Python, R, or SQL 
+
+Preferred Qualifications
+
+ Experience working within the restaurant & hospitality industry  Experience with cloud-based analytical software and methods  Experience building automated and scalable analytical tools  Experience leading complex projects 
+
+Minimum Years Of Experience
+
+3
+
+Travel Requirements
+
+10%
+
+Required Level Of Education
+
+Bachelor's Degree
+
+Preferred Level Of Education
+
+Masters Degree
+
+ Major/Concentration 
+
+Finance, Business Analytics, Statistics, Mathematics, Economics or a related field
+
+ Minimum GPA (4.0 Scale) 
+
+3.0","The role is responsible for responding to emerging business challenges with insightful analysis solutions. In addition to providing ad-hoc support, the role is expected to influence the design of analytical tools that allow users to understand business performance by navigating data visualizations on their own. This role is expected to partner with stakeholders responsible for strategic work that is highly prioritized at Chick-fil-A. The role is expected to provide analytical support as bodies of work emerge that support organizational work. The role is team-based and requires the analyst to demonstrate excellence in their ability to partner with teammates to ensure a consistent and high-quality outcome for stakeholders. The ideal candidate will have a strong understanding of the hospitality industry and the QSR landscape and fully understand the strategic position of Chick-fil-A. In addition to having industry knowledge, the role will require significant expertise in data structure, data systems, data analysis, and process effectiveness. The role will rely on partnerships with colleagues in various parts of the business to create scalable solutions that require low levels of ongoing maintenance.
+
+Our Flexible Future model offers a healthy mix of working in person and remotely, strengthening key elements of the Chick-fil-A culture by fostering collaboration and community.
+
+<strong>Responsibilities
+
+</strong><ul><li> Partner with analysts in RPI and other areas to help develop a seamless insight experience for Operators and Restaurant teams. </li><li> Develop and execute projects to enhance the efficiency and effectiveness of RPI products that support restaurants and Operators. </li><li> Partner with RPI teammates to develop relevant & insightful solutions for Operators. </li><li> Manage multiple complex assignments simultaneously. </li><li> Engage in ad-hoc analysis projects as needed. </li><li> Apply advanced knowledge of data systems, existing KPIs, and analysis to complete complex projects . 
+
+</li></ul><strong>Minimum Qualifications
+
+</strong><ul><li> Bachelor's degree in Finance, Business Analytics, Statistics, Mathematics, Economics, Industrial Engineering or a related field. </li><li> Strong project leadership skills </li><li> Ability to self-navigate organizational and technical challenges. </li><li> Excellent problem-solving skills and the ability to translate data into actionable insights. </li><li> Strong understanding of data system structure & data system uses. </li><li> Experience with data visualization tools such as Tableau or Power BI </li><li> Strong communication skills with the ability to present complex findings clearly and concisely to both technical and non-technical audiences. </li><li> Excellent listener who seeks to understand and build common ground. </li><li> Ability to learn quickly and work independently. </li><li> Proficiency in programming languages commonly used in data analysis such as Python, R, or SQL 
+
+</li></ul><strong>Preferred Qualifications
+
+</strong><ul><li> Experience working within the restaurant & hospitality industry </li><li> Experience with cloud-based analytical software and methods </li><li> Experience building automated and scalable analytical tools </li><li> Experience leading complex projects 
+
+</li></ul><strong>Minimum Years Of Experience
+
+</strong>3
+
+<strong>Travel Requirements
+
+</strong>10%
+
+<strong>Required Level Of Education
+
+</strong>Bachelor's Degree
+
+<strong>Preferred Level Of Education
+
+</strong>Masters Degree
+
+<strong> Major/Concentration 
+
+</strong>Finance, Business Analytics, Statistics, Mathematics, Economics or a related field
+
+<strong> Minimum GPA (4.0 Scale) 
+
+</strong>3.0","Chick-fil-A Corporate Support Center · Atlanta, GA","https://www.linkedin.com/jobs/view/3906881643/","Atlanta, Georgia, United States","8 of 10 skills match your profile - you may be a good fit","1,001-5,000 employees · Restaurants
+2 school alumni work here","LISTED","173285016","Chick-fil-A Corporate Support Center","https://media.licdn.com/dms/image/C4E0BAQFp7YtVucYbXQ/company-logo_400_400/0/1631324166255?e=1722470400&v=beta&t=QfHOzDbvgLMAM6CoQDZiYh5HvIIJ8HPPUEWD3lMs9o8","2024-04-25T21:37:44.000Z","2024-04-30T00:08:16.455Z"
+"Data Analyst","DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. 
+We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.
+In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.
+Benefits:
+This is a full-time or part-time REMOTE positionYou’ll be able to choose which projects you want to work onYou can work on your own scheduleProjects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work
+Responsibilities:
+Come up with diverse problems and solutions for a coding chatbotWrite high-quality answers and code snippetsEvaluate code quality produced by AI models for correctness and performance
+Qualifications:
+Fluency in English (native or bilingual)Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)Excellent writing and grammar skillsA bachelor's degree (completed or in progress)
+Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.","<p>DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. </p><p>
+</p><p>We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.</p><p>
+</p><p>In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.</p><p>
+</p><p>Benefits:</p><p>
+</p><ul><li>This is a full-time or part-time REMOTE position</li><li>You’ll be able to choose which projects you want to work on</li><li>You can work on your own schedule</li><li>Projects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work</li></ul><p>
+</p><p>Responsibilities:</p><p>
+</p><ul><li>Come up with diverse problems and solutions for a coding chatbot</li><li>Write high-quality answers and code snippets</li><li>Evaluate code quality produced by AI models for correctness and performance</li></ul><p>
+</p><p>Qualifications:</p><p>
+</p><ul><li>Fluency in English (native or bilingual)</li><li>Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)</li><li>Excellent writing and grammar skills</li><li>A bachelor's degree (completed or in progress)</li></ul><p>
+</p><p>Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.</p>","DataAnnotation · Oakland, CA (Remote)","https://www.linkedin.com/jobs/view/3901395329/","Oakland, California, United States","Skills: Python (Programming Language), SQL, +4 more","5,001-10,000 employees · Software Development
+1 school alum works here","LISTED","1265882026","DataAnnotation","https://media.licdn.com/dms/image/D560BAQHHSLItnYjK1g/company-logo_400_400/0/1689651238543/dataannotationtech_logo?e=1722470400&v=beta&t=nZ3FZdB-_Xm4FTRNdrKAd_pUc6c_H8J7qtGnew2j8Hs","2024-04-18T17:59:30.000Z","2024-04-30T00:08:16.455Z"
+"Customer Insights Analyst Intern","Job Description
+
+The purpose of this position is to develop empathy for members of the Church of Jesus Christ of Latter-day Saints as we support them to bind themselves to Jesus Christ and Heavenly Father as they receive ordinances for themselves and deceased family members.
+
+We are looking for a qualified contributor to join our team to assist in audience listening, user testing, and experience design. This role will look at the current journey a member takes to receive ordinances for themselves and deceased ancestors. In particular, look at the FamilySearch experience and propose data-driven improvements that will enhance the member experience. As temples are being constructed across the globe, it’s important that the candidate has experience with a culture outside of the intermountain west.
+
+Our ideal candidate has exceptional communication skills and is comfortable giving formal presentations to business professionals. Strong writing skills and being able to clearly and simply articulate complex ideas for a global audience is important. She or he is strategically-minded, data-driven, well-spoken, and enjoys working within a team to create new ways to achieve goals. Self-directed, the ideal candidate can be successful if he or she understands the end goal and the parameters in which to work. Any experience with ordinances, the house of the Lord, and preparing family names is a plus.
+
+Responsibilities
+
+ Work alongside experience managers to conduct and review audience listening results.  Help plan and organize for audience listening interviews.  Create reports and presentations to be given to stakeholders.  Analyze web traffic reports and key performance indicators to make recommendations.  Write draft documents to test messaging with users.  Test products and experience. 
+
+Qualifications
+
+ Excellent verbal communication skills  Excellent writing skills  Proficient in Microsoft Word, Excel, Powerpoint, Outlook, and Teams.  Majoring in a technical, marketing, communication, business, or family history related degree.  Experience using FamilySearch.org and the Family Tree App a plus  Speaks a foreign language a plus. 
+
+Paid Interns are qualified while enrolled in an educational institution and for one year following graduation. They must sign a Paid Internship Engagement Letter.
+
+About Us
+
+Church employees find joy and satisfaction in using their unique talents and abilities to further the Lord’s work. From the IT professional who develops an app that sends the gospel message worldwide, to the facilities manager who maintains our buildings— giving Church members places to worship, teach, learn, and receive sacred ordinances—our employees seek innovative ways to share the gospel of Jesus Christ with the world. They are literally working in His kingdom.
+
+Only members of the Church who are worthy of a temple recommend qualify for employment. Apart from this, the Church is an equal opportunity employer and does not discriminate in its employment decisions on any basis that would violate U.S. or local law.
+
+Qualified applicants will be considered for employment without regard to race, national origin, color, gender, pregnancy, marital status, age, disability, genetic information, veteran status, or other legally protected categories that apply to the Church. The Church will make reasonable accommodations for qualified individuals with known disabilities.","<strong>Job Description
+
+</strong>The purpose of this position is to develop empathy for members of the Church of Jesus Christ of Latter-day Saints as we support them to bind themselves to Jesus Christ and Heavenly Father as they receive ordinances for themselves and deceased family members.
+
+We are looking for a qualified contributor to join our team to assist in audience listening, user testing, and experience design. This role will look at the current journey a member takes to receive ordinances for themselves and deceased ancestors. In particular, look at the FamilySearch experience and propose data-driven improvements that will enhance the member experience. As temples are being constructed across the globe, it’s important that the candidate has experience with a culture outside of the intermountain west.
+
+Our ideal candidate has exceptional communication skills and is comfortable giving formal presentations to business professionals. Strong writing skills and being able to clearly and simply articulate complex ideas for a global audience is important. She or he is strategically-minded, data-driven, well-spoken, and enjoys working within a team to create new ways to achieve goals. Self-directed, the ideal candidate can be successful if he or she understands the end goal and the parameters in which to work. Any experience with ordinances, the house of the Lord, and preparing family names is a plus.
+
+<strong>Responsibilities
+
+</strong><ul><li> Work alongside experience managers to conduct and review audience listening results. </li><li> Help plan and organize for audience listening interviews. </li><li> Create reports and presentations to be given to stakeholders. </li><li> Analyze web traffic reports and key performance indicators to make recommendations. </li><li> Write draft documents to test messaging with users. </li><li> Test products and experience. 
+
+</li></ul><strong>Qualifications
+
+</strong><ul><li> Excellent verbal communication skills </li><li> Excellent writing skills </li><li> Proficient in Microsoft Word, Excel, Powerpoint, Outlook, and Teams. </li><li> Majoring in a technical, marketing, communication, business, or family history related degree. </li><li> Experience using FamilySearch.org and the Family Tree App a plus </li><li> Speaks a foreign language a plus. 
+
+</li></ul>Paid Interns are qualified while enrolled in an educational institution and for one year following graduation. They must sign a Paid Internship Engagement Letter.
+
+<strong>About Us
+
+</strong>Church employees find joy and satisfaction in using their unique talents and abilities to further the Lord’s work. From the IT professional who develops an app that sends the gospel message worldwide, to the facilities manager who maintains our buildings— giving Church members places to worship, teach, learn, and receive sacred ordinances—our employees seek innovative ways to share the gospel of Jesus Christ with the world. They are literally working in His kingdom.
+
+Only members of the Church who are worthy of a temple recommend qualify for employment. Apart from this, the Church is an equal opportunity employer and does not discriminate in its employment decisions on any basis that would violate U.S. or local law.
+
+Qualified applicants will be considered for employment without regard to race, national origin, color, gender, pregnancy, marital status, age, disability, genetic information, veteran status, or other legally protected categories that apply to the Church. The Church will make reasonable accommodations for qualified individuals with known disabilities.","The Church of Jesus Christ of Latter-day Saints · Salt Lake City, UT (Hybrid)","https://www.linkedin.com/jobs/view/3909852561/","Salt Lake City, Utah, United States","Skills: Key Performance Indicators, Web Analytics, +8 more","10,001+ employees · Religious Institutions
+3 school alumni work here","LISTED","3289948","The Church of Jesus Christ of Latter-day Saints","https://media.licdn.com/dms/image/C4E0BAQFzZK4NZJfplA/company-logo_400_400/0/1630655134817?e=1722470400&v=beta&t=SeTQi1vmileqvDw2myoI4LZgI_4QvHGhn3HSGHs-M3Y","2024-04-24T16:54:43.000Z","2024-04-30T00:08:16.455Z"
+"Data Analyst","DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. 
+We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.
+In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.
+Benefits:
+This is a full-time or part-time REMOTE positionYou’ll be able to choose which projects you want to work onYou can work on your own scheduleProjects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work
+Responsibilities:
+Come up with diverse problems and solutions for a coding chatbotWrite high-quality answers and code snippetsEvaluate code quality produced by AI models for correctness and performance
+Qualifications:
+Fluency in English (native or bilingual)Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)Excellent writing and grammar skillsA bachelor's degree (completed or in progress)
+Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.","<p>DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. </p><p>
+</p><p>We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.</p><p>
+</p><p>In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.</p><p>
+</p><p>Benefits:</p><p>
+</p><ul><li>This is a full-time or part-time REMOTE position</li><li>You’ll be able to choose which projects you want to work on</li><li>You can work on your own schedule</li><li>Projects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work</li></ul><p>
+</p><p>Responsibilities:</p><p>
+</p><ul><li>Come up with diverse problems and solutions for a coding chatbot</li><li>Write high-quality answers and code snippets</li><li>Evaluate code quality produced by AI models for correctness and performance</li></ul><p>
+</p><p>Qualifications:</p><p>
+</p><ul><li>Fluency in English (native or bilingual)</li><li>Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)</li><li>Excellent writing and grammar skills</li><li>A bachelor's degree (completed or in progress)</li></ul><p>
+</p><p>Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.</p>","DataAnnotation · Richmond, VA (Remote)","https://www.linkedin.com/jobs/view/3901938642/","Richmond, Virginia, United States","Skills: Python (Programming Language), SQL, +4 more","5,001-10,000 employees · Software Development
+1 school alum works here","LISTED","1265882026","DataAnnotation","https://media.licdn.com/dms/image/D560BAQHHSLItnYjK1g/company-logo_400_400/0/1689651238543/dataannotationtech_logo?e=1722470400&v=beta&t=nZ3FZdB-_Xm4FTRNdrKAd_pUc6c_H8J7qtGnew2j8Hs","2024-04-18T19:55:58.000Z","2024-04-30T00:08:16.455Z"
+"Data Analyst","DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. 
+We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.
+In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.
+Benefits:
+This is a full-time or part-time REMOTE positionYou’ll be able to choose which projects you want to work onYou can work on your own scheduleProjects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work
+Responsibilities:
+Come up with diverse problems and solutions for a coding chatbotWrite high-quality answers and code snippetsEvaluate code quality produced by AI models for correctness and performance
+Qualifications:
+Fluency in English (native or bilingual)Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)Excellent writing and grammar skillsA bachelor's degree (completed or in progress)
+Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.","<p>DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. </p><p>
+</p><p>We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.</p><p>
+</p><p>In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.</p><p>
+</p><p>Benefits:</p><p>
+</p><ul><li>This is a full-time or part-time REMOTE position</li><li>You’ll be able to choose which projects you want to work on</li><li>You can work on your own schedule</li><li>Projects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work</li></ul><p>
+</p><p>Responsibilities:</p><p>
+</p><ul><li>Come up with diverse problems and solutions for a coding chatbot</li><li>Write high-quality answers and code snippets</li><li>Evaluate code quality produced by AI models for correctness and performance</li></ul><p>
+</p><p>Qualifications:</p><p>
+</p><ul><li>Fluency in English (native or bilingual)</li><li>Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)</li><li>Excellent writing and grammar skills</li><li>A bachelor's degree (completed or in progress)</li></ul><p>
+</p><p>Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.</p>","DataAnnotation · Greater Chicago Area (Remote)","https://www.linkedin.com/jobs/view/3901389241/","Greater Chicago Area","Skills: Python (Programming Language), SQL, +4 more","5,001-10,000 employees · Software Development
+1 school alum works here","LISTED","1265882026","DataAnnotation","https://media.licdn.com/dms/image/D560BAQHHSLItnYjK1g/company-logo_400_400/0/1689651238543/dataannotationtech_logo?e=1722470400&v=beta&t=nZ3FZdB-_Xm4FTRNdrKAd_pUc6c_H8J7qtGnew2j8Hs","2024-04-18T17:11:13.000Z","2024-04-30T00:08:16.455Z"
+"Reporting & Insights Analyst ","The Aspen Group (TAG) is one of the largest and most trusted retail healthcare business support organizations in the U.S. and has supported over 20,000 healthcare professionals and team members at more than 1,300 health and wellness offices across 48 states in four distinct categories: dental care, urgent care, medical aesthetics, and animal health. Working in partnership with independent practice owners and clinicians, the team is united by a single purpose: to prove that healthcare can be better and smarter for everyone. TAG provides a comprehensive suite of centralized business support services that power the impact of five consumer-facing businesses: Aspen Dental, ClearChoice Dental Implant Centers, WellNow Urgent Care, Chapter Aesthetic Studio, and AZPetVet. Each brand has access to a deep community of experts, tools and resources to grow their practices, and an unwavering commitment to delivering high-quality consumer healthcare experiences at scale.
+As a reflection of our current needs and planned growth we are very pleased to offer an opportunity to join our FP&A team as a Reporting & Insights Analyst supporting our Revenue Cycle Management function. Core responsibilities and expectations for this position include reporting and analyzing key revenue cycle data, driving financial transparency, and providing insight into business drivers and key metrics. This is an exciting opportunity for someone looking to build a strong foundation in analysis. You'll have the chance to learn and grow in a supportive environment, making meaningful contributions from day one.
+Responsibilities:We are excited to present this position as part of one of the largest and most rapidly growing dental service organizations in the country. Reporting to the Manager of RCM Reporting & Data Analytics, this position will partner closely with business leadership to deliver regular RCM reporting packages, as well as support new projects and ad hoc analysis.• Supporting RCM (Revenue Cycle Management) & PSO (Practice Support Operations) management teams through comprehensive analyses of data and KPIs• Leading the timely and accurate development of regular RCM & PSO reports• Supporting leadership on new projects, strategic initiatives, and ad hoc requests• Communicating insights behind the numbers and anticipating challenges or opportunities• Developing a thorough understanding of key metrics and related drivers• Creating Tableau dashboards for the organization to derive insights and conclusions.• Building data models to gain insights, increase transparency, and provide recommendations to leadership.• Ensuring data integrity, accuracy, and governance in financial and management reporting
+Qualifications and Experience:• BS in Data Analytics, Accounting, Finance, or another Business/Technical related field • 1-2 years of experience in data analysis or other reporting desired. Experience in the RCM insurance environment is a plus.• Strong analytical and technical mindset with demonstrated experience of handling large, complex data sets is desired.• Experience with SQL Server or BigQuery is desired. Tableau experience is a plus.• Exposure to business analytics (descriptive and predictive), statistics, and/or data discovery techniques• Advanced skills with Microsoft Excel and PowerPoint• Ability to excel in a fast-paced environment, take direction, and handle multiple priorities.• Excellent communication and interpersonal skills are required. Must be a team player.• Willingness to take on new projects and a desire to learn.
+Salary Range $71,500 - $84,000 DOE
+If you are an applicant residing in California, please view our privacy policy here: https://careers.aspendental.com/us/en/tag-privacy-policy-for-california-employees","<p>The Aspen Group (TAG) is one of the largest and most trusted retail healthcare business support organizations in the U.S. and has supported over 20,000 healthcare professionals and team members at more than 1,300 health and wellness offices across 48 states in four distinct categories: dental care, urgent care, medical aesthetics, and animal health. Working in partnership with independent practice owners and clinicians, the team is united by a single purpose: to prove that healthcare can be better and smarter for everyone. TAG provides a comprehensive suite of centralized business support services that power the impact of five consumer-facing businesses: Aspen Dental, ClearChoice Dental Implant Centers, WellNow Urgent Care, Chapter Aesthetic Studio, and AZPetVet. Each brand has access to a deep community of experts, tools and resources to grow their practices, and an unwavering commitment to delivering high-quality consumer healthcare experiences at scale.</p><p>
+</p><p>As a reflection of our current needs and planned growth we are very pleased to offer an opportunity to join our FP&A team as a <strong>Reporting & Insights Analyst</strong> supporting our Revenue Cycle Management function. Core responsibilities and expectations for this position include reporting and analyzing key revenue cycle data, driving financial transparency, and providing insight into business drivers and key metrics. This is an exciting opportunity for someone looking to build a strong foundation in analysis. You'll have the chance to learn and grow in a supportive environment, making meaningful contributions from day one.</p><p>
+</p><p><strong>Responsibilities:</strong></p><p>We are excited to present this position as part of one of the largest and most rapidly growing dental service organizations in the country. Reporting to the Manager of RCM Reporting & Data Analytics, this position will partner closely with business leadership to deliver regular RCM reporting packages, as well as support new projects and ad hoc analysis.</p><p>• Supporting RCM (Revenue Cycle Management) & PSO (Practice Support Operations) management teams through comprehensive analyses of data and KPIs</p><p>• Leading the timely and accurate development of regular RCM & PSO reports</p><p>• Supporting leadership on new projects, strategic initiatives, and ad hoc requests</p><p>• Communicating insights behind the numbers and anticipating challenges or opportunities</p><p>• Developing a thorough understanding of key metrics and related drivers</p><p>• Creating Tableau dashboards for the organization to derive insights and conclusions.</p><p>• Building data models to gain insights, increase transparency, and provide recommendations to leadership.</p><p>• Ensuring data integrity, accuracy, and governance in financial and management reporting</p><p>
+</p><p><strong>Qualifications and Experience:</strong></p><p>• BS in Data Analytics, Accounting, Finance, or another Business/Technical related field </p><p>• 1-2 years of experience in data analysis or other reporting desired. Experience in the RCM insurance environment is a plus.</p><p>• Strong analytical and technical mindset with demonstrated experience of handling large, complex data sets is desired.</p><p>• Experience with SQL Server or BigQuery is desired. Tableau experience is a plus.</p><p>• Exposure to business analytics (descriptive and predictive), statistics, and/or data discovery techniques</p><p>• Advanced skills with Microsoft Excel and PowerPoint</p><p>• Ability to excel in a fast-paced environment, take direction, and handle multiple priorities.</p><p>• Excellent communication and interpersonal skills are required. Must be a team player.</p><p>• Willingness to take on new projects and a desire to learn.</p><p>
+</p><p><strong>Salary Range $71,500 - $84,000 DOE</strong></p><p>
+</p><p>If you are an applicant residing in California, please view our privacy policy here: https://careers.aspendental.com/us/en/tag-privacy-policy-for-california-employees</p>","Aspen Dental · Chicago, IL (Hybrid)","https://www.linkedin.com/jobs/view/3913560936/","Chicago, Illinois, United States","Skills: SQL, Google BigQuery","5,001-10,000 employees · Hospitals and Health Care
+3 school alumni work here","LISTED","15851369","Aspen Dental","https://media.licdn.com/dms/image/C4E0BAQGmDnqxDSjg5g/company-logo_400_400/0/1649774366589?e=1722470400&v=beta&t=Vy3tLqfJ_yWAWWVfRkT_hu_hwOWuujPJRJgcNlddKb4","2024-04-29T18:10:57.000Z","2024-04-30T00:08:16.455Z"
+"Customer Insights Sr Analyst - In Office","The Customer Insights Sr. Analyst drives customer satisfaction by managing surveys, analyzing data, and presenting actionable insights to stakeholders. We seek someone with a customer-centric mindset and excellent communication skills.
+
+Key Responsibilities:
+
+Works with Sr. Manager on the end-to-end management of Primary Customer Research. This includes designing, constructing, distributing, and reporting on surveys to gather customer feedback. Alongside the Sr. Manager, utilize best practices to design and construct surveys that effectively capture customer feedback and insights while managing the distribution and/or deployment to ensure maximum reach and response rate. Analyze customer feedback data and create reports that provide actionable insights for the business. Use your storytelling skills to communicate and convey the customer story to internal stakeholders. Highlight the pain points, needs, and expectations of our customers, and how Lowe’s can better serve them. With guidance from the Sr. Manager, present your findings and recommendations to all levels within the organization, from frontline staff to senior leaders. Use clear and engaging visuals and language to persuade and influence your audience. Proactively partners cross-functionally to ensure open dialogue and ongoing relationship development by finding common ground for alignment on common goals. Regularly review and optimize the survey process to ensure it continues to meet business needs and provides valuable, actionable insights. Partner with suppliers to bring in best-in-class research techniques. 
+
+Requirements:
+
+Bachelors or advanced degree in business, marketing or related field 3+ years experience in market research or consumer insights Expertise in understanding different quantitative and qualitative research methodologies Capable of managing project schedules and deadlines that run simultaneously Strong analytic and critical thinking skills Comfortable interacting with customers in-store Hands on end-to-end survey development experience (i.e., survey design and programming) Exceptional written, oral, and presentation communication abilities Able to quickly learn survey software and other tools Experience with or ability to learn analytic/research software (e.g. SPSS, Medallia/Qualtrics) Experience with Microsoft Office Tools (e.g. Word, Powerpoint, Excel) 
+
+Preferred Requirements
+
+Storytelling approach to writing insights reports Strong organization skills Strong analytic skills including ability to analyze complex datasets Strong data visualization skills Sense of curiosity Must be able to see the “big picture and be able to relate insights across different resources 
+
+About Lowe’s
+
+Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 16 million customer transactions a week in the United States. With total fiscal year 2023 sales of more than $86 billion, Lowe’s operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe’s supports the communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit Lowes.com.
+
+Lowe’s is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.
+
+Starting rate of pay may vary based on factors including, but not limited to, position offered, location, education, training, and/or experience. For information regarding our benefit programs and eligibility, please visit https://talent.lowes.com/us/en/benefits.","The Customer Insights Sr. Analyst drives customer satisfaction by managing surveys, analyzing data, and presenting actionable insights to stakeholders. We seek someone with a customer-centric mindset and excellent communication skills.
+
+<strong>Key Responsibilities:
+
+</strong><ul><li>Works with Sr. Manager on the end-to-end management of Primary Customer Research. This includes designing, constructing, distributing, and reporting on surveys to gather customer feedback. </li><li>Alongside the Sr. Manager, utilize best practices to design and construct surveys that effectively capture customer feedback and insights while managing the distribution and/or deployment to ensure maximum reach and response rate. </li><li>Analyze customer feedback data and create reports that provide actionable insights for the business. Use your storytelling skills to communicate and convey the customer story to internal stakeholders. Highlight the pain points, needs, and expectations of our customers, and how Lowe’s can better serve them. </li><li>With guidance from the Sr. Manager, present your findings and recommendations to all levels within the organization, from frontline staff to senior leaders. Use clear and engaging visuals and language to persuade and influence your audience. </li><li>Proactively partners cross-functionally to ensure open dialogue and ongoing relationship development by finding common ground for alignment on common goals. </li><li>Regularly review and optimize the survey process to ensure it continues to meet business needs and provides valuable, actionable insights. </li><li>Partner with suppliers to bring in best-in-class research techniques. 
+
+</li></ul><strong>Requirements:
+
+</strong><ul><li>Bachelors or advanced degree in business, marketing or related field </li><li>3+ years experience in market research or consumer insights </li><li>Expertise in understanding different quantitative and qualitative research methodologies </li><li>Capable of managing project schedules and deadlines that run simultaneously </li><li>Strong analytic and critical thinking skills </li><li>Comfortable interacting with customers in-store </li><li>Hands on end-to-end survey development experience (i.e., survey design and programming) </li><li>Exceptional written, oral, and presentation communication abilities </li><li>Able to quickly learn survey software and other tools </li><li>Experience with or ability to learn analytic/research software (e.g. SPSS, Medallia/Qualtrics) </li><li>Experience with Microsoft Office Tools (e.g. Word, Powerpoint, Excel) 
+
+</li></ul><strong>Preferred Requirements
+
+</strong><ul><li>Storytelling approach to writing insights reports </li><li>Strong organization skills </li><li>Strong analytic skills including ability to analyze complex datasets </li><li>Strong data visualization skills </li><li>Sense of curiosity </li><li>Must be able to see the “big picture and be able to relate insights across different resources 
+
+</li></ul><strong>About Lowe’s
+
+</strong>Lowe’s Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 16 million customer transactions a week in the United States. With total fiscal year 2023 sales of more than $86 billion, Lowe’s operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe’s supports the communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit Lowes.com.
+
+<i>Lowe’s is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.
+
+</i>Starting rate of pay may vary based on factors including, but not limited to, position offered, location, education, training, and/or experience. For information regarding our benefit programs and eligibility, please visit https://talent.lowes.com/us/en/benefits.","Lowe's Companies, Inc. · Mooresville, NC (Hybrid)","https://www.linkedin.com/jobs/view/3908165247/","Mooresville, North Carolina, United States","6 of 10 skills match your profile - you may be a good fit","10,001+ employees · Retail
+45 school alumni work here","LISTED","73015601","Lowe's Companies, Inc.","https://media.licdn.com/dms/image/C4E0BAQEhMN8M2HsC7Q/company-logo_400_400/0/1630610782611/lowes_home_improvement_logo?e=1722470400&v=beta&t=ikpjli5S0l8-ob6aZJTLWtZYtZi4sS0ih98iJPtqA7g","2024-04-23T03:35:03.000Z","2024-04-30T00:08:16.455Z"
+"Consumer Insights & Strategy Analyst","Company Description
+We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our theme parks and consumer experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, MSNBC, CNBC, NBC Sports, Telemundo, NBC Local Stations, Bravo, USA Network, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through Universal Filmed Entertainment Group and Universal Studio Group, and have world-renowned theme parks and attractions through Universal Destinations & Experiences. NBCUniversal is a subsidiary of Comcast Corporation.Here you can be your authentic self. As a company uniquely positioned to educate, entertain and empower through our platforms, Comcast NBCUniversal stands for including everyone. Our Diversity, Equity and Inclusion initiatives, coupled with our Corporate Social Responsibility work, is informed by our employees, audiences, park guests and the communities in which we live. We strive to foster a diverse, equitable and inclusive culture where our employees feel supported, embraced and heard. Together, we’ll continue to create and deliver content that reflects the current and ever-changing face of the world.
+Job Description
+The Analyst, Strategy & Insights will be responsible in supporting the collection, analysis and communication of consumer research for our growing portfolio of multiplatform brands. This role will help build partnerships with management by delighting internal clients with day-to-day, strategic and actionable insights and recommendations for continued growth. Translate consumer research from various sources and methodologies into meaningful stories and actionable growth recommendations. Manage multiple projects simultaneously and efficiently juggle workload in the face of shifting priorities and deadlines. Serve as the go-to expert on an organized repository of all quantitative and qualitative files and other assets produced in primary consumer initiatives. Translate research instruments between English and Spanish. Screen and review content to provide summaries and grow to become an expert on patterns across the company’s content products. Other duties and projects as assigned. Works under the direct supervision of the Manager, Insight & Strategy and is responsible for completing any other tasks as assigned by supervisor 
+Qualifications
+Basic Requirements: Bachelor’s degree and a minimum of one year research experience ideally at a broadcast/cable network, agency, media research supplier or digital media company; alternatively, other experience grounded in strategic thinking and quantitative/qualitative consumer research, or equivalent combination of education and experience Advanced SpanishPassion for Spanish-language content & the US Hispanic audience a must. Must also consume the category’s content regularly in order to test content products effectively. Demonstrated expertise using Microsoft Office applications including Excel (pivot tables and macros) and PowerPoint. 
+Desired Characteristics:Must possess strong analytic ability; critical thinker; fast learner; proactive problem solver. Strong verbal/written communication & relationship-building skills. Experience with Nielsen, digital/social analytics products & SPSS/SAS a plus Understanding of modeling and statistics a plus. Demonstrate leadership and adaptability skills to a fast-pace environment Certification as a qualitative research moderator a plus. Master’s degree a plus, ideally in fields like data science or sociology. 
+Additional Requirements:Hybrid: This position has been designated as hybrid, generally contributing from the office a minimum of three days per week in Miami.Must have unrestricted work authorization to work in the United StatesMust be 18 years or olderMust have a valid driver's licenseMust be fluent in English and Spanish (speak, read & write) 
+Additional information
+NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access nbcunicareers.com as a result of your disability. You can request reasonable accommodations by emailing AccessibilitySupport@nbcuni.com.","<p>Company Description</p><p>
+</p><p>We create world-class content, which we distribute across our portfolio of film, television, and streaming, and bring to life through our theme parks and consumer experiences. We own and operate leading entertainment and news brands, including NBC, NBC News, MSNBC, CNBC, NBC Sports, Telemundo, NBC Local Stations, Bravo, USA Network, and Peacock, our premium ad-supported streaming service. We produce and distribute premier filmed entertainment and programming through Universal Filmed Entertainment Group and Universal Studio Group, and have world-renowned theme parks and attractions through Universal Destinations & Experiences. NBCUniversal is a subsidiary of Comcast Corporation.</p><p>Here you can be your authentic self. As a company uniquely positioned to educate, entertain and empower through our platforms, Comcast NBCUniversal stands for including everyone. Our Diversity, Equity and Inclusion initiatives, coupled with our Corporate Social Responsibility work, is informed by our employees, audiences, park guests and the communities in which we live. We strive to foster a diverse, equitable and inclusive culture where our employees feel supported, embraced and heard. Together, we’ll continue to create and deliver content that reflects the current and ever-changing face of the world.</p><p>
+</p><p>Job Description</p><p>
+</p><p>The Analyst, Strategy & Insights will be responsible in supporting the collection, analysis and communication of consumer research for our growing portfolio of multiplatform brands. This role will help build partnerships with management by delighting internal clients with day-to-day, strategic and actionable insights and recommendations for continued growth. </p><ul><li>Translate consumer research from various sources and methodologies into meaningful stories and actionable growth recommendations. </li><li>Manage multiple projects simultaneously and efficiently juggle workload in the face of shifting priorities and deadlines. </li><li>Serve as the go-to expert on an organized repository of all quantitative and qualitative files and other assets produced in primary consumer initiatives. </li><li>Translate research instruments between English and Spanish. </li><li>Screen and review content to provide summaries and grow to become an expert on patterns across the company’s content products. </li><li>Other duties and projects as assigned. </li><li>Works under the direct supervision of the Manager, Insight & Strategy and is responsible for completing any other tasks as assigned by supervisor </li></ul><p>
+</p><p>Qualifications</p><p>
+</p><p><strong>Basic Requirements: </strong></p><ul><li>Bachelor’s degree and a minimum of one year research experience ideally at a broadcast/cable network, agency, media research supplier or digital media company; alternatively, other experience grounded in strategic thinking and quantitative/qualitative consumer research, or equivalent combination of education and experience </li><strong><li>Advanced Spanish</strong></li><li>Passion for Spanish-language content & the US Hispanic audience a must. Must also consume the category’s content regularly in order to test content products effectively. </li><li>Demonstrated expertise using Microsoft Office applications including Excel (pivot tables and macros) and PowerPoint. </li></ul><p>
+</p><p><strong>Desired Characteristics:</strong></p><ul><li>Must possess strong analytic ability; critical thinker; fast learner; proactive problem solver. </li><li>Strong verbal/written communication & relationship-building skills. </li><li>Experience with Nielsen, digital/social analytics products & SPSS/SAS a plus </li><li>Understanding of modeling and statistics a plus. </li><li>Demonstrate leadership and adaptability skills to a fast-pace environment </li><li>Certification as a qualitative research moderator a plus. </li><li>Master’s degree a plus, ideally in fields like data science or sociology. </li></ul><p>
+</p><p><strong>Additional Requirements:</strong></p><ul><li><strong>Hybrid:</strong> <strong>This position has been designated as hybrid, generally contributing from the office a minimum of three days per week in Miami.</strong></li><li>Must have unrestricted work authorization to work in the United States</li><li>Must be 18 years or older</li><li>Must have a valid driver's license</li><li>Must be fluent in English and Spanish (speak, read & write)</li></ul><p> </p><p>
+</p><p>Additional information</p><p>
+</p><p>NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.</p><p>If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access <undefined>nbcunicareers.com</undefined> as a result of your disability. You can request reasonable accommodations by emailing AccessibilitySupport@nbcuni.com.</p>","NBCUniversal · Doral, FL (Hybrid)","https://www.linkedin.com/jobs/view/3905566176/","Doral, Florida, United States","Skills: Analytical Skills, Spanish, +1 more","10,001+ employees · Entertainment Providers
+51 school alumni work here","LISTED","361185962","NBCUniversal","https://media.licdn.com/dms/image/C4E0BAQHEm_Niw0amtw/company-logo_400_400/0/1631300957327?e=1722470400&v=beta&t=sJxkiOAdRtG3Ut5-jAnjC0PfvLG9YnpCp1t2ALJA2yg","2024-04-24T18:19:36.000Z","2024-04-30T00:08:16.455Z"
+"Data Analyst","DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. 
+We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.
+In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.
+Benefits:
+This is a full-time or part-time REMOTE positionYou’ll be able to choose which projects you want to work onYou can work on your own scheduleProjects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work
+Responsibilities:
+Come up with diverse problems and solutions for a coding chatbotWrite high-quality answers and code snippetsEvaluate code quality produced by AI models for correctness and performance
+Qualifications:
+Fluency in English (native or bilingual)Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)Excellent writing and grammar skillsA bachelor's degree (completed or in progress)
+Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.","<p>DataAnnotation is committed to creating quality AI. Join our team to help train AI chatbots while gaining the flexibility of remote work and choosing your own schedule. </p><p>
+</p><p>We are looking for a proficient Data Analyst to join our team to train our AI chatbots. You will work with the chatbots that we are building in order to measure their progress, as well as write and evaluate code.</p><p>
+</p><p>In this role you will need to be proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL) and able to solve coding problems (think LeetCode, HackerRank, etc). For each coding problem, you must be able to explain how your solution solves the problem.</p><p>
+</p><p>Benefits:</p><p>
+</p><ul><li>This is a full-time or part-time REMOTE position</li><li>You’ll be able to choose which projects you want to work on</li><li>You can work on your own schedule</li><li>Projects are paid hourly, starting at $40+ USD per hour, with bonuses for high-quality and high-volume work</li></ul><p>
+</p><p>Responsibilities:</p><p>
+</p><ul><li>Come up with diverse problems and solutions for a coding chatbot</li><li>Write high-quality answers and code snippets</li><li>Evaluate code quality produced by AI models for correctness and performance</li></ul><p>
+</p><p>Qualifications:</p><p>
+</p><ul><li>Fluency in English (native or bilingual)</li><li>Proficient in at least one programming language (Python, JavaScript, HTML, C++, C# and SQL)</li><li>Excellent writing and grammar skills</li><li>A bachelor's degree (completed or in progress)</li></ul><p>
+</p><p>Note: Data Annotation payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD.</p>","DataAnnotation · Los Angeles Metropolitan Area (Remote)","https://www.linkedin.com/jobs/view/3901388800/","Los Angeles Metropolitan Area","Skills: Python (Programming Language), SQL, +4 more","5,001-10,000 employees · Software Development
+1 school alum works here","LISTED","1265882026","DataAnnotation","https://media.licdn.com/dms/image/D560BAQHHSLItnYjK1g/company-logo_400_400/0/1689651238543/dataannotationtech_logo?e=1722470400&v=beta&t=nZ3FZdB-_Xm4FTRNdrKAd_pUc6c_H8J7qtGnew2j8Hs","2024-04-18T18:00:59.000Z","2024-04-30T00:08:16.455Z"
+"Market Insights Analyst - Consumer Goods","Spate is seeking a detail-oriented, passionate Market Insights Analyst at Spate who is eager to make a substantial impact within our dynamic team. This role is ideal for someone who excels in data analysis, copywriting and editing, is detail-oriented, enthusiastic, and an exceptional presenter in both virtual and in-person settings. If you're ready to take on an exciting, challenging role in a flexible work environment, we'd love to welcome you aboard. We are looking for someone who is available 40 hours a week.With this being a hybrid role, there is the possibility to work from anywhere in the world, upon manager’s approval, depending on business projects & obligations of your role. The expectation is that you come to the NYC office 1 - 2 times a week when in town.About the Role:As our Market Insights Analyst, you'll contribute to the analytical powerhouse behind Spate, providing critical insights that drive decision-making and strategic planning for our clients. Your work will directly influence our marketing strategies and client interactions. Collaborating closely with various teams, you will ensure that our data-driven reports and marketing help Spate stay ahead in a competitive market.Responsibilities:Conduct detailed market research and analysis to identify consumer trends and insights relevant to the beauty, food, wellness, and personal care categories.Develop and present comprehensive reports on your findings to both internal teams and external clients, ensuring information is accessible and actionable.Confidently and accurately present findings to large audiences and key clients Manage the production of Spate’s weekly newsletter, including content coordination, distribution, and performance analysis.Support the content and marketing teams by providing data-driven insights to enhance client engagement, internal and external content, and marketing.Work with the Beauty Insights Coordinator with client engagement, reports, and scheduling Support ongoing partnerships and regular media outreach, communications, and external content 
+
+
+
+Requirements
+
+Minimum QualificationsA minimum of 3-5 years of experience in data analysis, market research, or a related field.Ability to effectively and efficiently explore large data sets and gather insights that are actionable and accessible for brands, distributors, marketers, and other professionalsExceptional analytical and quantitative problem-solving skills.Strong presentation and communication skills, with the ability to convey complex data in a clear and persuasive manner.Detail-oriented, organized, and capable of managing multiple projects simultaneously.A proactive ""can do"" attitude and a positive team player mentality.Located in New York and able to come into the office 1 to 2 times/week
+
+Preferred QualificationsProficient in using data analytics tools and software (e.g., Excel, Tableau, Google Analytics)Familiarity with marketing tools (HubSpot CRM, email marketing platforms, Canva).Experience with project management tools (e.g., Asana, Trello).Professional proficiency in FrenchEducational background including market research, statistics, data analysis or marketingExpertise in the consumer goods space, especially regarding beauty and food/beverage 
+
+
+
+Benefits
+
+Spate offers:Health Care Plan (Medical, Dental & Vision)Paid Time Off (Vacation, Sick & Public Holidays)Work From Anywhere flexibilitySalary for this role → $75k/year to $80k/year
+
+About SpateAt Spate, we use data science to predict the next big consumer trend in beauty, personal care & food.Spate was founded in 2018 by Yarden Horwitz & Olivier Zimmer, two ex-Googlers who led the trendspotting division at Google and uncovered trends such as turmeric, cold brew, and face masks. Spate has been funded by the prestigious Y Combinator incubator and Initialized Capital. We currently have ~180 clients in the U.S., mainly in the beauty space from direct-to-consumer brands to big names such as L’Oréal, Estée Lauder, Unilever. As two ex-Googlers with a passion for using data to spot new patterns in consumer behavior, and we have made it our mission to build the world’s greatest consumer trends prediction platform of all time. And not just because we want to be trendy, but because we want to help brands get better at giving consumers what they really want. Brands waste over $200BN every year due to product launch failures and inventory waste. By spotting Turmeric, we were able to tell brands to stop wasting money on kale products and provide consumers with glorious golden milk lattes instead - because that’s what consumers want.How do we do this? We tap into publicly available consumer data (anonymous and aggregated) to identify interesting shifts in consumer behavior. We leverage the latest available technology in ML to solve problems in ways that have never been explored before.Why Spate?Join a well-funded company that is working with the top brands in consumer goodsWork directly with the founders to set the direction of the companyGrow in a fast-paced environmentAlways be up-to-date on the latest trends!
+
+We enjoy a casual atmosphere, but our culture is about getting things done. We are passionate yet pragmatic when it comes to solving problems in a fast-paced environment. Our standards are high, but we thrive on working with people we respect and can learn from. We’re flexible on work styles, as long as everyone is getting their work done - and getting it done well.We are an equal opportunity employer where our diversity and inclusion are central pillars of our company strategy. We look for applicants who understand, embrace, and thrive in a multicultural and increasingly globalized world. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.We're excited to find a Market Insights Analyst who is passionate about consumer trends and data analysis and ready to make a meaningful impact at Spate. If you meet the criteria above, please apply to join our team and help shape the future of our company.","<p>Spate is seeking a detail-oriented, passionate Market Insights Analyst at Spate who is eager to make a substantial impact within our dynamic team. This role is ideal for someone who excels in data analysis, copywriting and editing, is detail-oriented, enthusiastic, and an exceptional presenter in both virtual and in-person settings. If you're ready to take on an exciting, challenging role in a flexible work environment, we'd love to welcome you aboard. We are looking for someone who is available 40 hours a week.</p><p>With this being a hybrid role, there is the possibility to work from anywhere in the world, upon manager’s approval, depending on business projects & obligations of your role. The expectation is that you come to the NYC office 1 - 2 times a week when in town.</p><p><strong>About the Role:</strong></p><p>As our Market Insights Analyst, you'll contribute to the analytical powerhouse behind Spate, providing critical insights that drive decision-making and strategic planning for our clients. Your work will directly influence our marketing strategies and client interactions. Collaborating closely with various teams, you will ensure that our data-driven reports and marketing help Spate stay ahead in a competitive market.</p><p><strong>Responsibilities:</strong></p><ul><li>Conduct detailed market research and analysis to identify consumer trends and insights relevant to the beauty, food, wellness, and personal care categories.</li><li>Develop and present comprehensive reports on your findings to both internal teams and external clients, ensuring information is accessible and actionable.</li><li>Confidently and accurately present findings to large audiences and key clients </li><li>Manage the production of Spate’s weekly newsletter, including content coordination, distribution, and performance analysis.</li><li>Support the content and marketing teams by providing data-driven insights to enhance client engagement, internal and external content, and marketing.</li><li>Work with the Beauty Insights Coordinator with client engagement, reports, and scheduling </li><li>Support ongoing partnerships and regular media outreach, communications, and external content 
+
+</li></ul><p>
+
+</p><strong>Requirements
+
+</strong><p><strong>Minimum Qualifications</strong></p><ul><li>A minimum of 3-5 years of experience in data analysis, market research, or a related field.</li><li>Ability to effectively and efficiently explore large data sets and gather insights that are actionable and accessible for brands, distributors, marketers, and other professionals</li><li>Exceptional analytical and quantitative problem-solving skills.</li><li>Strong presentation and communication skills, with the ability to convey complex data in a clear and persuasive manner.</li><li>Detail-oriented, organized, and capable of managing multiple projects simultaneously.</li><li>A proactive ""can do"" attitude and a positive team player mentality.</li><li>Located in New York and able to come into the office 1 to 2 times/week
+
+</li></ul><p><strong>Preferred Qualifications</strong></p><ul><li>Proficient in using data analytics tools and software (e.g., Excel, Tableau, Google Analytics)</li><li>Familiarity with marketing tools (HubSpot CRM, email marketing platforms, Canva).</li><li>Experience with project management tools (e.g., Asana, Trello).</li><li>Professional proficiency in French</li><li>Educational background including market research, statistics, data analysis or marketing</li><li>Expertise in the consumer goods space, especially regarding beauty and food/beverage 
+
+
+
+</li></ul><strong>Benefits
+
+</strong><p><strong>Spate offers:</strong></p><ul><li>Health Care Plan (Medical, Dental & Vision)</li><li>Paid Time Off (Vacation, Sick & Public Holidays)</li><li>Work From Anywhere flexibility</li><li>Salary for this role → $75k/year to $80k/year
+
+</li></ul><p><strong>About </strong><strong>Spate</strong></p><p>At Spate, we use data science to predict the next big consumer trend in beauty, personal care & food.</p><p>Spate was founded in 2018 by Yarden Horwitz & Olivier Zimmer, two ex-Googlers who led the trendspotting division at Google and uncovered trends such as turmeric, cold brew, and face masks. Spate has been funded by the prestigious Y Combinator incubator and Initialized Capital. We currently have ~180 clients in the U.S., mainly in the beauty space from direct-to-consumer brands to big names such as L’Oréal, Estée Lauder, Unilever.</p><p> </p><p>As two ex-Googlers with a passion for using data to spot new patterns in consumer behavior, and we have made it our mission to build the world’s greatest consumer trends prediction platform of all time. And not just because we want to be trendy, but because we want to help brands get better at giving consumers what they really want. </p><p>Brands waste over $200BN every year due to product launch failures and inventory waste. By spotting Turmeric, we were able to tell brands to stop wasting money on kale products and provide consumers with glorious golden milk lattes instead - because that’s what consumers want.</p><p>How do we do this? We tap into publicly available consumer data (anonymous and aggregated) to identify interesting shifts in consumer behavior. We leverage the latest available technology in ML to solve problems in ways that have never been explored before.</p><p><strong>Why Spate?</strong></p><ul><li>Join a well-funded company that is working with the top brands in consumer goods</li><li>Work directly with the founders to set the direction of the company</li><li>Grow in a fast-paced environment</li><li>Always be up-to-date on the latest trends!
+
+</li></ul><p>We enjoy a casual atmosphere, but our culture is about getting things done. We are passionate yet pragmatic when it comes to solving problems in a fast-paced environment. Our standards are high, but we thrive on working with people we respect and can learn from. We’re flexible on work styles, as long as everyone is getting their work done - and getting it done well.</p><p>We are an equal opportunity employer where our diversity and inclusion are central pillars of our company strategy. We look for applicants who understand, embrace, and thrive in a multicultural and increasingly globalized world. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><p>We're excited to find a Market Insights Analyst who is passionate about consumer trends and data analysis and ready to make a meaningful impact at Spate. If you meet the criteria above, please apply to join our team and help shape the future of our company.</p>","SPATE · New York, NY (Hybrid)","https://www.linkedin.com/jobs/view/3913263003/","New York, New York, United States","Skills: Data Analytics, Market Research, +8 more","1-10 employees · Market Research","LISTED","150438999","SPATE","https://media.licdn.com/dms/image/C4D0BAQFtRuYDadwHMw/company-logo_400_400/0/1631361819384/spatenyc_logo?e=1722470400&v=beta&t=hJBo9IXxhf9PIzhtzJzL4Zy0q44hf7lqN7kLVLyvFnc","2024-04-29T05:53:12.000Z","2024-04-30T00:08:16.455Z"
+"Quantitative Researcher","Quantitative Researcher
+Our client is a small, somewhat under the radar trading firm (~300 people) who are actively looking to scale their Quant Research population in their NYC office. 
+You'll benefit from stunning offices, working alongside industry acclaimed colleagues within a flat structured, highly meritocratic environment devoid of organizational silos. 
+Exceptional P&L linked pay for top performers on offer on top of a generous base salary as well as a comprehensive benefits program. 
+To apply you'll need the following: 
+Hold a Bachelor's degree in a STEM disciplineHave a minimum of two years' experience in developing quantitative trading strategiesBe skilled in analyzing large financial datasets for signals in mid- to high-frequency tradingDemonstrate exceptional mathematical proficiencyPossess a passion for solving complex mathematical challengesBe proficient in statistical languages/packages such as R, Python, or similar tools","<p><undefined><strong>Quantitative Researcher</undefined></strong></p><p>
+</p><p>Our client is a small, somewhat under the radar trading firm (~300 people) who are actively looking to scale their Quant Research population in their NYC office. </p><p>
+</p><p>You'll benefit from stunning offices, working alongside industry acclaimed colleagues within a flat structured, highly meritocratic environment devoid of organizational silos. </p><p>
+</p><p>Exceptional P&L linked pay for top performers on offer on top of a generous base salary as well as a comprehensive benefits program. </p><p>
+</p><p>To apply you'll need the following: </p><p>
+</p><ul><li>Hold a Bachelor's degree in a STEM discipline</li><li>Have a minimum of two years' experience in developing quantitative trading strategies</li><li>Be skilled in analyzing large financial datasets for signals in mid- to high-frequency trading</li><li>Demonstrate exceptional mathematical proficiency</li><li>Possess a passion for solving complex mathematical challenges</li><li>Be proficient in statistical languages/packages such as R, Python, or similar tools</li></ul>","Acquire Me · New York, United States (Hybrid)","https://www.linkedin.com/jobs/view/3828219967/","New York, United States","Skills: Quantitative Research, Analytical Skills, +8 more","11-50 employees · Staffing and Recruiting","LISTED","200107747","Acquire Me","https://media.licdn.com/dms/image/C4E0BAQEW2q-DTIXkQA/company-logo_400_400/0/1638548572631/acquireme_logo?e=1722470400&v=beta&t=YwXQVfSa3j7QINCm3hMCwxYJ2XLg2ZzJJQ2BkB861tg","2024-02-12T20:36:56.000Z","2024-04-30T00:08:16.455Z"
+"Senior Analyst, Strategic Insights","Description:
+
+Ethicon US LLC, a member of Johnson & Johnson family of companies, is currently recruiting for a Sr. Analyst Strategic Insights to be located in Raritan, NJ, Cincinnati, OH, or Jacksonville, FL.
+
+Ethicon, part of the Johnson & Johnson Medical Devices Companies, has made significant contributions to surgery for more than 60 years from creating the first sutures, to revolutionizing surgery with minimally invasive procedures. Our continuing dedication to Shape the Future of Surgery is built on our commitment to help address the world's most pressing health care issues and improve and save more lives. Through Ethicon's surgical technologies and solutions including sutures, staplers, energy devices, trocars and hemostats and our commitment to treat serious medical conditions like obesity and cancer worldwide, we deliver innovation to make a life-changing impact. For more information, visit www.ethicon.com!
+
+General Summary
+
+The Sr. Analyst Global Strategic Insights is responsible for conducting market analytics, forecasting, and supporting portfolio development within Strategic Insights in support of the Global ETHICON Franchise. The position will serve as a key partner collaborating with Marketing, Finance, and Business Development to create insights into market trends, surgeon & economic stakeholder behavior and other factors that influence business decisions. The role will work with strategy and platform teams to support market insight initiatives including market sizing, procedure analysis, and forecasting. Proficiency in business operations and comprehension is essential, as the role necessitates proactive suggestions of tools and methodologies to fortify forecasting models and business strategy implementation. With oversight, the role will have responsibility for implementing strategic and tactical marketplace insight projects and activities, including managing external resources.
+
+Responsibilities:
+
+Develop, refine, and implement advanced forecasting models to support a differentiated business strategy, informing strategic direction of both new and current opportunities. These models will include the integration and analysis of diverse and intricate datasets, facilitating strategic decision-making processes.Conduct ad-hoc analysis involving the collection, cleaning and interpretation of complex data sets from various sources to derive insights and identify trends.Analyze global market trends, business models, and competitive financial reports to extract actionable insights, evaluating their implications on go-to-market strategies. Translate findings into strategic recommendations to enhance market positioning.Shape the future business portfolio through in-depth global market analysis to identify unmet opportunities in differentiated markets, while stimulating growth with existing product portfolios.Proactively seek out new data sources that will improve decision making & forecast accuracy, while demonstrating a commitment to continuous process improvement and innovation.Proven track record of supporting and developing business strategies and the ability to distill complex concepts into clear, concise presentations, facilitating informed decision-making at the highest levels of the organization.Proactively providing fact-based insights and analytics to address specific business needs.Contribute to the development and evolution of market insights including quarterly market and share reporting and long-range financial planning initiatives.Proven track record of successfully fostering cross-functional collaboration and alignment on projects, resulting in streamlined workflows, improved communication, and timely project delivery.
+
+Qualifications:
+
+Required:
+
+A minimum of a BS or BA DegreeA minimum of 3-5 years of progressive experience in data science, statistics, finance, business analytics and forecasting, or a related fieldProven track record of working in a matrix environment with a high degree of collaboration and influenceProficiency with Microsoft applications (Excel, PowerPoint, Word, etc).Location availability in Raritan, NJ, Cincinnati, OH, or Jacksonville, FLAbility to travel up to 25%
+
+Preferred:
+
+MBA or relevant advanced degreeExperience in business development, business planning, or business strategyExperience in SQL, building data visualization dashboards (Tableau & Power BI), data collection/transformation, or experience in a scripting/programming language (Python & R)Proven track record of analyzing quantitative & qualitative data (internal & external), extracting insights, synthesize findings and validate research hypotheses with a disciplined approach to problem solving.Ability to produce visualizations, develop effective presentations, and tell a story with actionable recommendations that are backed with data.Ability to understand, translate, and integrate marketplace data, competitive intelligence, primary and secondary market research to drive the decision-making process.Experience in business development, business planning, or business strategyExperience in the medical device, hospital specialty, or healthcare field
+
+At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at https://www.jnj.com/.
+
+The anticipated base pay range for this position is $76,000 - $121,900
+
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+Johnson & Johnson values diversity and inclusion. We are committed to building diverse teams that reflect both the patients and the partners we support. We strive to create an inclusive work environment where our people feel at home and are given the space to realize their full potential. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com!
+
+This job posting is anticipated to close on [4/30/2024]. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.
+
+","<strong>Description:
+
+</strong>Ethicon US LLC, a member of Johnson & Johnson family of companies, is currently recruiting for a <strong>Sr. Analyst Strategic Insights</strong> to be located in Raritan, NJ, Cincinnati, OH, or Jacksonville, FL.
+
+Ethicon, part of the Johnson & Johnson Medical Devices Companies, has made significant contributions to surgery for more than 60 years from creating the first sutures, to revolutionizing surgery with minimally invasive procedures. Our continuing dedication to Shape the Future of Surgery is built on our commitment to help address the world's most pressing health care issues and improve and save more lives. Through Ethicon's surgical technologies and solutions including sutures, staplers, energy devices, trocars and hemostats and our commitment to treat serious medical conditions like obesity and cancer worldwide, we deliver innovation to make a life-changing impact. For more information, visit www.ethicon.com!
+
+<strong>General Summary
+
+</strong>The Sr. Analyst Global Strategic Insights is responsible for conducting market analytics, forecasting, and supporting portfolio development within Strategic Insights in support of the Global ETHICON Franchise. The position will serve as a key partner collaborating with Marketing, Finance, and Business Development to create insights into market trends, surgeon & economic stakeholder behavior and other factors that influence business decisions. The role will work with strategy and platform teams to support market insight initiatives including market sizing, procedure analysis, and forecasting. Proficiency in business operations and comprehension is essential, as the role necessitates proactive suggestions of tools and methodologies to fortify forecasting models and business strategy implementation. With oversight, the role will have responsibility for implementing strategic and tactical marketplace insight projects and activities, including managing external resources.
+
+<strong>Responsibilities</strong>:
+
+<ul><li>Develop, refine, and implement advanced forecasting models to support a differentiated business strategy, informing strategic direction of both new and current opportunities. These models will include the integration and analysis of diverse and intricate datasets, facilitating strategic decision-making processes.</li><li>Conduct ad-hoc analysis involving the collection, cleaning and interpretation of complex data sets from various sources to derive insights and identify trends.</li><li>Analyze global market trends, business models, and competitive financial reports to extract actionable insights, evaluating their implications on go-to-market strategies. Translate findings into strategic recommendations to enhance market positioning.</li><li>Shape the future business portfolio through in-depth global market analysis to identify unmet opportunities in differentiated markets, while stimulating growth with existing product portfolios.</li><li>Proactively seek out new data sources that will improve decision making & forecast accuracy, while demonstrating a commitment to continuous process improvement and innovation.</li><li>Proven track record of supporting and developing business strategies and the ability to distill complex concepts into clear, concise presentations, facilitating informed decision-making at the highest levels of the organization.</li><li>Proactively providing fact-based insights and analytics to address specific business needs.</li><li>Contribute to the development and evolution of market insights including quarterly market and share reporting and long-range financial planning initiatives.</li><li>Proven track record of successfully fostering cross-functional collaboration and alignment on projects, resulting in streamlined workflows, improved communication, and timely project delivery.
+
+</li></ul><strong>Qualifications:
+
+</strong>Required:
+
+<ul><li>A minimum of a BS or BA Degree</li><li>A minimum of 3-5 years of progressive experience in data science, statistics, finance, business analytics and forecasting, or a related field</li><li>Proven track record of working in a matrix environment with a high degree of collaboration and influence</li><li>Proficiency with Microsoft applications (Excel, PowerPoint, Word, etc).</li><li>Location availability in Raritan, NJ, Cincinnati, OH, or Jacksonville, FL</li><li>Ability to travel up to 25%
+
+</li></ul>Preferred:
+
+<ul><li>MBA or relevant advanced degree</li><li>Experience in business development, business planning, or business strategy</li><li>Experience in SQL, building data visualization dashboards (Tableau & Power BI), data collection/transformation, or experience in a scripting/programming language (Python & R)</li><li>Proven track record of analyzing quantitative & qualitative data (internal & external), extracting insights, synthesize findings and validate research hypotheses with a disciplined approach to problem solving.</li><li>Ability to produce visualizations, develop effective presentations, and tell a story with actionable recommendations that are backed with data.</li><li>Ability to understand, translate, and integrate marketplace data, competitive intelligence, primary and secondary market research to drive the decision-making process.</li><li>Experience in business development, business planning, or business strategy</li><li>Experience in the medical device, hospital specialty, or healthcare field
+
+</li></ul>At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at https://www.jnj.com/.
+
+The anticipated base pay range for this position is $76,000 - $121,900
+
+Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+Johnson & Johnson values diversity and inclusion. We are committed to building diverse teams that reflect both the patients and the partners we support. We strive to create an inclusive work environment where our people feel at home and are given the space to realize their full potential. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com!
+
+This job posting is anticipated to close on [4/30/2024]. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.
+
+","Johnson & Johnson · Cincinnati, OH (On-site)","https://www.linkedin.com/jobs/view/3909514117/","Cincinnati, Ohio, United States","8 of 10 skills match your profile - you may be a good fit","10,001+ employees · Hospitals and Health Care
+1 connection works here · 68 school alumni work here","LISTED","11179115","Johnson & Johnson","https://media.licdn.com/dms/image/D4E0BAQFuqNYNGYIxzg/company-logo_400_400/0/1694701608948/johnson__johnson_logo?e=1722470400&v=beta&t=oZzSISj0esq6GZjJgJGmtfNPvAuXaP9gRA2498WkOww","2024-04-24T02:56:05.000Z","2024-04-30T00:08:16.455Z"
+"Data Analyst, Revenue","About ThredUp
+
+ThredUp is transforming resale with technology and a mission to inspire the world to think secondhand first. By making it easy to buy and sell secondhand, ThredUp has become one of the world's largest online resale platforms for apparel, shoes and accessories. Sellers love ThredUp because we make it easy to clean out their closets and unlock value for themselves or for the charity of their choice while doing good for the planet. Buyers love shopping value, premium and luxury brands all in one place, at up to 90% off estimated retail price. Our proprietary operating platform is the foundation for our managed marketplace and consists of distributed processing infrastructure, proprietary software and systems and data science expertise. With ThredUp’s Resale-as-a-Service, some of the world's leading brands and retailers are leveraging our platform to deliver customizable, scalable resale experiences to their customers. ThredUp has processed over 172 million unique secondhand items from 55,000 brands across 100 categories. By extending the life cycle of clothing, ThredUp is changing the way consumers shop and ushering in a more sustainable future for the fashion industry.
+
+Recognized on TIME Most Influential Companies of 2023, Digiday's WorkLife 50 2023, TIME's Best Inventions of 2022, and Lattice's People Success Awards 2022.
+
+How You Will Make An Impact 
+
+At ThredUp, we’re working to revolutionize the clothing industry and we’re looking for a results-driven Data Analyst who can dive into our data and help bring our acquisition and retention efforts to the next level. As part of our Data Science team, you will report to the Sr. Manager of Finance Analytics and work cross-functionally to extract insights about the performance of our marketing and promotional efforts and help to design a delightful experience for users from the very first touchpoint. You’ll also be involved in diagnosing beats and misses to projected revenue and forecasting future performance. If you get excited about data-driven decision making, we’d love to hear from you.
+
+In This Role You’ll Get To
+
+Analyze marketing channel efficiencies to ensure we are taking the right calculated risksProvide insights that will help guide our attribution methodology and enhance our understanding of customer lifetime valueThoughtfully design sales to maximize item-level profit and buyer conversion ratesWork closely with the Revenue Org, UX Research, and Engineering to advance our loyalty program and enhance the user experienceWork with Data Engineering to surface key data points and create and maintain KPI dashboards on marketing and business performance to support team decision makingWork with the Sr. Manager of Finance Analytics to make data-driven monthly, quarterly and yearly revenue forecasts while informing Spend StrategyConduct in-depth analysis of marketing campaigns, channel performance, including A/B testing, ROI and spend analysis, and more, to identify trends, patterns, and opportunities for optimizationDevelop and maintain marketing dashboards in looker and reports to track marketing, campaign, and channel performance and identify areas for improvementAnalyze internal marketing channel and performance data in addition to leading macroeconomic indicators to provide actionable insights that optimize marketing strategies and drive business growth
+
+What We’re Looking For
+
+3+ years of professional experience in an analytical rolePrior experience working in B2C marketing analytics (especially Performance Marketing)A desire for deep understanding of how things work and what can be made betterExperience deriving insights from complex data and make recommendations that drive meaningful business impactExperience working with performance marketers, marketing analytics tools, and performance marketing analysis Experience communicating insights clearly to all levels of the organizationFluent in SQL and advanced proficiency with Excel / Google Sheets, and knowledge of a programming language such as Python, R, or SparkExperience with Databricks a plusFamiliarity with business intelligence tools like Looker or similar Well-rounded skill set that includes some of each of the following statistical analysis techniques: linear regression, time series analysis, experimental design, hypothesis testing, and A/B testingExperience collaborating across disciplines and teams to drive projects to completionExperience embracing change and thrive in a fast-paced environment
+
+At thredUP, your base pay is one part of your total compensation package. This role pays between $130,000 and $140,000, and your actual base pay will depend on your skills, qualifications, and experience.
+
+Many thredUP employees also have the opportunity to own shares of thredUP stock. thredUP employees are eligible for discretionary restricted stock unit awards, as well as a discount when purchasing thredUP stock if voluntarily participating in thredUP’s Employee Stock Purchase Plan. Subject to eligibility requirements, you’ll also receive other benefits: Comprehensive medical & dental coverage, vision, 401k, life and disability insurance.
+
+This role is not eligible for visa sponsorship.
+
+What We Offer:
+
+4-day work week, with Fridays offHybrid work environment: 3 days in the office and 1 day remote each weekCompetitive salary (we leverage market data)Many ThredUp employees also have the opportunity to own shares of ThredUp stock and are eligible for discretionary restricted stock unit awardsEmployee stock purchase planFlexible PTO (take the time you need) + 13 company holidaysPaid Sabbatical after 3 years of full time employmentGenerous paid parental leave for new mothers and fathersMedical, dental, vision, 401k, life and disability insurance offeredWe live by our Core Values of Transparency, SpeakingUP, Thinking Big, Infinite Learning, Influencing Outcomes & Seeking the Truth
+
+We believe diversity, inclusion and belonging is key for our team
+
+At ThredUp, our mission has been built on extending the lives of millions of unique clothing items. Much like our inventory, we are proud to have fostered a workplace that is one-of-a-kind. As a company focused on diversity, inclusion and belonging, we are committed to ensuring our employees are comfortable bringing their authentic selves to work every day. A unique perspective is critical to solving complex problems and inspiring a new generation to think secondhand first. Be you.
+
+If you are a candidate with a disability and have a reasonable accommodation request for the job application process, please email disabilitysupport@ThredUp.com the specific details of your disability related accommodation request. This email address is reserved for candidates with disabilities only. General application inquiries will not receive a response.","<strong>About ThredUp
+
+</strong>ThredUp is transforming resale with technology and a mission to inspire the world to think secondhand first. By making it easy to buy and sell secondhand, ThredUp has become one of the world's largest online resale platforms for apparel, shoes and accessories. Sellers love ThredUp because we make it easy to clean out their closets and unlock value for themselves or for the charity of their choice while doing good for the planet. Buyers love shopping value, premium and luxury brands all in one place, at up to 90% off estimated retail price. Our proprietary operating platform is the foundation for our managed marketplace and consists of distributed processing infrastructure, proprietary software and systems and data science expertise. With ThredUp’s Resale-as-a-Service, some of the world's leading brands and retailers are leveraging our platform to deliver customizable, scalable resale experiences to their customers. ThredUp has processed over 172 million unique secondhand items from 55,000 brands across 100 categories. By extending the life cycle of clothing, ThredUp is changing the way consumers shop and ushering in a more sustainable future for the fashion industry.
+
+Recognized on TIME Most Influential Companies of 2023, Digiday's WorkLife 50 2023, TIME's Best Inventions of 2022, and Lattice's People Success Awards 2022.
+
+<strong><strong>How You Will Make An Impact 
+
+</strong></strong>At ThredUp, we’re working to revolutionize the clothing industry and we’re looking for a results-driven Data Analyst who can dive into our data and help bring our acquisition and retention efforts to the next level. As part of our Data Science team, you will report to the Sr. Manager of Finance Analytics and work cross-functionally to extract insights about the performance of our marketing and promotional efforts and help to design a delightful experience for users from the very first touchpoint. You’ll also be involved in diagnosing beats and misses to projected revenue and forecasting future performance. If you get excited about data-driven decision making, we’d love to hear from you.
+
+<strong><strong>In This Role You’ll Get To
+
+</strong></strong><ul><li>Analyze marketing channel efficiencies to ensure we are taking the right calculated risks</li><li>Provide insights that will help guide our attribution methodology and enhance our understanding of customer lifetime value</li><li>Thoughtfully design sales to maximize item-level profit and buyer conversion rates</li><li>Work closely with the Revenue Org, UX Research, and Engineering to advance our loyalty program and enhance the user experience</li><li>Work with Data Engineering to surface key data points and create and maintain KPI dashboards on marketing and business performance to support team decision making</li><li>Work with the Sr. Manager of Finance Analytics to make data-driven monthly, quarterly and yearly revenue forecasts while informing Spend Strategy</li><li>Conduct in-depth analysis of marketing campaigns, channel performance, including A/B testing, ROI and spend analysis, and more, to identify trends, patterns, and opportunities for optimization</li><li>Develop and maintain marketing dashboards in looker and reports to track marketing, campaign, and channel performance and identify areas for improvement</li><li>Analyze internal marketing channel and performance data in addition to leading macroeconomic indicators to provide actionable insights that optimize marketing strategies and drive business growth
+
+</li></ul><strong><strong>What We’re Looking For
+
+</strong></strong><ul><li>3+ years of professional experience in an analytical role</li><li>Prior experience working in B2C marketing analytics (especially Performance Marketing)</li><li>A desire for deep understanding of how things work and what can be made better</li><li>Experience deriving insights from complex data and make recommendations that drive meaningful business impact</li><li>Experience working with performance marketers, marketing analytics tools, and performance marketing analysis </li><li>Experience communicating insights clearly to all levels of the organization</li><li>Fluent in SQL and advanced proficiency with Excel / Google Sheets, and knowledge of a programming language such as Python, R, or Spark</li><li>Experience with Databricks a plus</li><li>Familiarity with business intelligence tools like Looker or similar </li><li>Well-rounded skill set that includes some of each of the following statistical analysis techniques: linear regression, time series analysis, experimental design, hypothesis testing, and A/B testing</li><li>Experience collaborating across disciplines and teams to drive projects to completion</li><li>Experience embracing change and thrive in a fast-paced environment
+
+</li></ul>At thredUP, your base pay is one part of your total compensation package. This role pays between $130,000 and $140,000, and your actual base pay will depend on your skills, qualifications, and experience.
+
+Many thredUP employees also have the opportunity to own shares of thredUP stock. thredUP employees are eligible for discretionary restricted stock unit awards, as well as a discount when purchasing thredUP stock if voluntarily participating in thredUP’s Employee Stock Purchase Plan. Subject to eligibility requirements, you’ll also receive other benefits: Comprehensive medical & dental coverage, vision, 401k, life and disability insurance.
+
+This role is not eligible for visa sponsorship.
+
+<strong>What We Offer:
+
+</strong><ul><li>4-day work week, with Fridays off</li><li>Hybrid work environment: 3 days in the office and 1 day remote each week</li><li>Competitive salary (we leverage market data)</li><li>Many ThredUp employees also have the opportunity to own shares of ThredUp stock and are eligible for discretionary restricted stock unit awards</li><li>Employee stock purchase plan</li><li>Flexible PTO (take the time you need) + 13 company holidays</li><li>Paid Sabbatical after 3 years of full time employment</li><li>Generous paid parental leave for new mothers and fathers</li><li>Medical, dental, vision, 401k, life and disability insurance offered</li><li>We live by our Core Values of Transparency, SpeakingUP, Thinking Big, Infinite Learning, Influencing Outcomes & Seeking the Truth
+
+</li></ul><strong><strong>We believe diversity, inclusion and belonging is key for our team
+
+</strong></strong>At ThredUp, our mission has been built on extending the lives of millions of unique clothing items. Much like our inventory, we are proud to have fostered a workplace that is one-of-a-kind. As a company focused on diversity, inclusion and belonging, we are committed to ensuring our employees are comfortable bringing their authentic selves to work every day. A unique perspective is critical to solving complex problems and inspiring a new generation to think secondhand first. Be you.
+
+If you are a candidate with a disability and have a reasonable accommodation request for the job application process, please email <i>disabilitysupport@ThredUp.com</i> the specific details of your disability related accommodation request. This email address is reserved for candidates with disabilities only. General application inquiries will not receive a response.","ThredUp · Oakland, CA","https://www.linkedin.com/jobs/view/3871589603/","Oakland, California, United States","Skills: KPI Dashboards, Dashboards, +8 more","1,001-5,000 employees · Retail Apparel and Fashion","LISTED","171455582","ThredUp","https://media.licdn.com/dms/image/C560BAQHNlMZamYwHlA/company-logo_400_400/0/1630659149596/thredup_logo?e=1722470400&v=beta&t=iNQ89J1fB7PDVfe8KjDopqUkBL_sktCoBF-jObDNh98","2024-03-26T04:00:08.000Z","2024-04-30T00:08:16.455Z"
